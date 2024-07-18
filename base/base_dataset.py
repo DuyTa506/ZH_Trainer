@@ -19,73 +19,22 @@ from dataloader.dataset import Dataset as InstanceDataset
 
 
 class BaseDataset(Dataset):
-    def __init__(self, rank, dist, path, sr, delimiter, special_tokens, min_duration = -np.inf, max_duration = np.inf, preload_data = False, transform = None, nb_workers = 4, volume = [], init_pq = "", model_type= "pinyin", split ="train"):
+    def __init__(self, rank, dist, sr,  special_tokens, init_pq = ""):
         self.rank = rank
         self.dist = dist
         self.sr = sr
-        self.volume = volume
-        self.model_type = model_type
         self.init_pq = init_pq
         # Special characters to remove in your data 
 
-        self.chars_to_ignore = u"[！？。，＂＃％＆＇（）－／：；＜＝＞＠＼＾｀｛｜｝～｟｠｢｣､、〃》「」『』【】〔〕〖〗〘〙〚〛〜〝〞〟〰〾〿–—‘’‛“”„‟…‧﹏"  + string.punctuation.replace("_", "").replace("$", "") + ']+'  # Remove $ from chars_to_ignore
+        print("Load dataframe for train dataset")
+        if os.path.isfile(os.path.join(self.init_pq, "train.csv")):
+            print("Found train data file !!")
+            self.df = self.load_pq_file(os.path.join(self.init_pq, "train.parquet"))
+        else:
+                raise ValueError("Cannot read train data file , the file {} not exist".format(os.path.join(self.init_pq, "train.csv")))
 
-        self.label  = ["[+]", "[++]", "[*]", "[SONANT]", "[MUSIC]", "[LAUGHTER]", "[ENS]", "[SYSTEM]"]
-        self.transform = transform
-        self.preload_data = preload_data
-        self.min_duration = min_duration
-        self.max_duration = max_duration
-        self.split = split
-        if split == "train" :
-            print("Load dataframe for train dataset")
-            if os.path.isfile(os.path.join(self.init_pq, "train.csv")):
-                print("Found train data file !!")
-                self.df = self.load_pq_file(os.path.join(self.init_pq, "train.csv"))
-            else:
-                self.df , _ = self.load_data(path)
-        else : 
-            print("Loading dataframe for test dataset")
-            if os.path.isfile(os.path.join(self.init_pq, "val.csv")):
-                print("Found val data file !!")
-                self.df = self.load_pq_file(os.path.join(self.init_pq, "val.csv"))
-            else:
-                _ , self.df = self.load_data(path)
         self.special_tokens = special_tokens
-
-        pandarallel.initialize(progress_bar=True, nb_workers = nb_workers)
-        if min_duration != -np.inf or max_duration != np.inf:
-            if self.rank == 0 and 'duration' not in self.df.columns:
-                #TODO --- handle the no memory left because of pandarralel#
-                print("\n*****Generate duration column*****")
-                self.df['duration'] = self.df['path'].parallel_apply(lambda filename: librosa.get_duration(filename=filename))
-                #self.df.to_csv(path, index = False, sep = delimiter)
-            self.dist.barrier()
-            #self.df = self.load_data(path, delimiter)
-            if self.rank == 0:
-                print("\n*****Filter out invalid audio*****")
-            mask = (self.df['duration'] <= self.max_duration) & (self.df['duration'] >= self.min_duration)
-            self.df = self.df[mask]
-        self.df['transcript'] = self.df['transcript'].parallel_apply(self.remove_special_characters)
-        self.df = self.df[self.df['transcript'] != ""].reset_index(drop=True)
-        #print(self.df.head())
-    
-        if self.preload_data:
-            if self.rank == 0:
-                print(f"\n*****Preloading {len(self.df)} data*****")
-            self.df['wav'] = self.df['path'].parallel_apply(lambda filepath: load_wav(filepath, sr = self.sr))
         
-    def remove_special_characters(self, transcript) -> str:
-        rule = re.compile(self.chars_to_ignore)
-        label_pattern = '|'.join(map(re.escape, self.label))
-        rule_label = re.compile(f'(\[{label_pattern}\])')
-
-        transcript = re.sub(rule_label, "", transcript)    
-
-        transcript = re.sub(rule, " ", transcript).lower()
-        
-        transcript = ' '.join(transcript.split())
-        return transcript
-
     def get_vocab_dict(self) -> Dict[int, str]:
         all_text = " ".join(list(self.df["transcript"]))
         #  remove special tokens in all_text, otherwise it will tokenize the special tokens' characters. Eg: <unk> -> '<', 'u', 'n', 'k', '>'
@@ -101,89 +50,9 @@ class BaseDataset(Dataset):
             vocab_dict[v] = len(vocab_dict)
         return vocab_dict
 
-    def preload_dataset(self, paths, sr) -> List:
-        wavs = []
-        print("Preloading {} data".format(self.mode))
-        for path in tqdm(paths, total = len(paths)):
-            wav = load_wav(path, sr)
-            wavs += [wav]
-        return wavs
-
-
-    def load_data(self, input_folders , batch_size=100000) -> dd.DataFrame:
-            print("Training with {}".format(self.model_type))
-            
-            @delayed
-            def _load_data_batch(input_folder):
-                all_paths = []
-                all_transcripts = []
-                #all_durations = []
-                if os.path.isdir(input_folder):
-                    for dirpath, dirnames, filenames in os.walk(input_folder):
-                        for wav_file in [f for f in filenames if f.endswith(".wav")]:
-                            wav_path = os.path.join(dirpath, wav_file)
-                            if self.model_type == "pinyin":
-                                transcript_path = os.path.join(dirpath, os.path.splitext(wav_file)[0] + "_dacidian_pinyin.txt")
-                            else:
-                                transcript_path = os.path.join(dirpath, os.path.splitext(wav_file)[0] + ".txt")
-                            if os.path.exists(transcript_path):
-                                with open(transcript_path, 'r', encoding='utf-8') as transcript_file:
-                                    transcript = transcript_file.read()
-                                all_paths.append(wav_path)
-                                all_transcripts.append(transcript)
-                                #all_durations.append(librosa.get_duration(filename=wav_path)) #TODO fixing by append duration before create [pd] dataframe ?
-                                if len(all_paths) >= batch_size:
-                                    yield pd.DataFrame({
-                                        'path': all_paths,
-                                        'transcript': all_transcripts,
-                                        #'duration': all_durations
-                                    })
-                                    all_paths = []
-                                    all_transcripts = []
-                if all_paths:
-                    yield pd.DataFrame({
-                        'path': all_paths,
-                        'transcript': all_transcripts,
-                        #'duration': all_durations
-                    })
-
-            print(f"\nAdapting batch processing and saving file to {self.init_pq} ....")
-            input_folders_list = input_folders.split(',')
-
-            delayed_batches = [_load_data_batch(folder) for folder in input_folders_list]
-            results = compute(*delayed_batches)
-            data_frames_train = []
-            data_frames_test = []
-            for batch ,vol in zip(results, self.volume) :
-                for df_batch in batch:
-                    print(f"Original len : {len(df_batch)}" )
-                    df_batch_train = df_batch.sample(frac=vol, random_state =42)
-                    print(len(df_batch_train))
-                    df_batch_test = df_batch.drop(df_batch_train.index)
-                    print(len(df_batch_test))
-                    data_frames_train.append(df_batch_train)
-                    print(len(data_frames_train))
-                    df_batch_train = df_batch.sample(frac=vol, random_state =42)
-                    df_batch_test = df_batch.drop(df_batch_train.index)
-                    data_frames_train.append(df_batch_train)
-                    data_frames_test.append(df_batch_test)
-                    print(len(data_frames_test))
-            pd_train = pd.concat(data_frames_train, ignore_index=True)
-            print(len(pd_train))
-            pd_test = pd.concat(data_frames_test, ignore_index=True)
-            print(len(pd_test))
-            if self.init_pq != "":
-                if not os.path.exists(self.init_pq):
-                    os.makedirs(self.init_pq)
-                pd_train.to_csv(os.path.join(self.init_pq, 'train.csv'), index = False)
-                pd_test.to_csv(os.path.join(self.init_pq, 'val.csv'), index = False)
-                print(f"\nGenerated data file !")
-
-            return pd_train , pd_test
-
         
-    def load_pq_file(self, csv_path) :
-        df = pd.read_csv(csv_path)
+    def load_pq_file(self, data_path) :
+        df = pd.read_parquet(data_path)
         print("Readed old data file , begin filtering !!!")
         print(len(df))
         return df
