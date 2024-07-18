@@ -38,6 +38,10 @@ pip install -r requirements.txt
         - If your transcript contains special tokens like ```bos_token, eos_token, unk_token (eg: <unk>, [unk],...) or pad_token (eg: <pad>, [pad],...))```. Please specify it in the [config.toml](config.toml) otherwise the Tokenizer can't recognize them.
 2. Configure the [config.toml](config.toml) file: Pay attention to the <b>pretrained_path</b> argument, it loads "facebook/wav2vec2-base" pre-trained model from Facebook by default. Change it to the pretrained models from phase 1 if need
 3. Run
+    - Prepare the datasets : 
+        ```
+        python create_data.py -c config.toml
+        ```
     - Start training from scratch:
         ```
         python train.py -c config.toml
