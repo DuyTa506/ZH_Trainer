@@ -27,11 +27,11 @@ class BaseDataset(Dataset):
         # Special characters to remove in your data 
 
         print("Load dataframe for train dataset")
-        if os.path.isfile(os.path.join(self.init_pq, "train.csv")):
+        if os.path.isfile(os.path.join(self.init_pq, "train.parquet")):
             print("Found train data file !!")
             self.df = self.load_pq_file(os.path.join(self.init_pq, "train.parquet"))
         else:
-                raise ValueError("Cannot read train data file , the file {} not exist".format(os.path.join(self.init_pq, "train.csv")))
+                raise ValueError("Cannot read train data file , the file {} not exist".format(os.path.join(self.init_pq, "train.parquet")))
 
         self.special_tokens = special_tokens
         
