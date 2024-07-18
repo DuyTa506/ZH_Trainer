@@ -64,15 +64,13 @@ class BaseDataset(Dataset):
 
 if __name__ == '__main__':
     ds = BaseDataset(
-        path = '/home/pvanh/data/zh_stt/ASR-RAMC-BIGCCSC', 
+        init_pq="init", 
         sr = 16000, 
-        preload_data = False,
         rank = 1,
         dist=None,
         delimiter="|",
         special_tokens=None, 
-        # val_size = None, 
-        transform = None)
+)
     df= ds.load_data()
     print(df.head)
     vocab_dict = ds.get_vocab_dict()
