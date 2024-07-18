@@ -43,13 +43,13 @@ max_duration = 20 # if not pass, default is np.inf
 nb_workers = 8
 volume = [0.8, 0.7]
 model_type = "pinyin"
-init_pq = "/app/zh_stt/Wav2Vec2.0_From_Scratch/Wav2vec2-Finetune/data_path/"
+init_pq = "./data_path/"
 
 
 [train_dataset]
 path = "base.base_dataset.BaseDataset"
     [train_dataset.args]
-    init_pq = "/app/zh_stt/Wav2Vec2.0_From_Scratch/Wav2vec2-Finetune/data_path/"
+    init_pq = "./data_path/"
     [train_dataset.dataloader]
     batch_size = 2
     num_workers = 2
