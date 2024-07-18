@@ -1,0 +1,16 @@
+huggingface_hub 
+pandarallel
+pandas
+transformers
+scikit_learn
+tensorflow
+toml
+tqdm
+datasets
+torch
+torchaudio
+accelerate
+librosa
+soundfile
+numpy
+dask

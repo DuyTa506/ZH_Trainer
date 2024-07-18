@@ -1,0 +1,104 @@
+[meta]
+name = "nccl_test" 
+pretrained_path = "TencentGameMate/chinese-wav2vec2-large"
+seed = 42
+epochs = 10
+save_dir = "saved/" 
+gradient_accumulation_steps = 2
+use_amp = false # Whether to use Automatic Mixed Precision for speeding up - https://pytorch.org/docs/stable/amp.html
+device_ids = "0" # set the gpu devices on which you want to train your model
+sr = 16000
+max_clip_grad_norm = 5.0 # torch.nn.utils.clip_grad_norm_
+#train_ratio = 0.9
+
+[special_tokens]
+bos_token = "<bos>"
+eos_token = "<eos>"
+unk_token = "<unk>"
+pad_token = "<pad>"
+
+
+# Not available yet
+[huggingface]
+# You need to install git-lfs to be able to push
+# Check out https://huggingface.co/docs/hub/how-to-upstream#repository to understand the parameters
+push_to_hub = false
+push_every_validation_step = false # If false, repo will be push at the end of training [recommended false]
+overwrite_output_dir = false
+blocking = false # whether to wait until the model is uploaded (this will be very slow because of large file) [recommended false, true only if push_every_validation_step is false]
+
+    # you can pass your auth_token from your huggingface account to use_auth_token.
+    # Otherwise you need to run ```huggingface-cli login``` command to log in
+    [huggingface.args]
+    local_dir = "huggingface-hub_xlsr_pinyn" # where your repo places in local
+    use_auth_token = "" # you must provide the auth_token of your huggingface account. 
+    clone_from = "https://huggingface.co/DuyTa/ZH_pinyn" # path to your repo in huggingface
+
+
+[create_data]
+path = "/app/zh_stt/ASR-CSTRMACSTCSC/cleaned_ASR-CSTRMACSTCSC,/app/zh_stt/ASR-CTJDIACSC/Tianjin_Dialect_Conversational_Speech_Corpus/cleaned_ASR-CTJDIACSC"
+min_duration = 0.5 # if not pass, default is -np.inf
+max_duration = 20 # if not pass, default is np.inf
+nb_workers = 8
+volume = [0.8, 0.7]
+model_type = "pinyin"
+init_pq = "/app/zh_stt/Wav2Vec2.0_From_Scratch/Wav2vec2-Finetune/data_path/"
+
+
+[train_dataset]
+path = "base.base_dataset.BaseDataset"
+    [train_dataset.args]
+    path = "/app/zh_stt/ASR-CSTRMACSTCSC/cleaned_ASR-CSTRMACSTCSC,/app/zh_stt/ASR-CTJDIACSC/Tianjin_Dialect_Conversational_Speech_Corpus/cleaned_ASR-CTJDIACSC,/app/zh_stt/ASR-RAMC-BIGCCSC/cleaned_ASR-RAMC"
+    init_pq = "/app/zh_stt/Wav2Vec2.0_From_Scratch/Wav2vec2-Finetune/dask_data/"
+    preload_data = false
+    delimiter = "|"
+    split = "train"
+    # Only train audio files that have duration in range [min_duration, max_duration]
+    min_duration = 0.5 # if not pass, default is -np.inf
+    max_duration = 20 # if not pass, default is np.inf
+    nb_workers = 8
+    volume = [0.8, 0.7, 0.8]
+    model_type = "pinyin"
+    [train_dataset.dataloader]
+    batch_size = 2
+    num_workers = 2
+    pin_memory = true 
+    drop_last = true
+
+    [train_dataset.sampler]
+    shuffle = true 
+    drop_last = true
+
+    
+[val_dataset]
+path = "base.base_dataset.BaseDataset"
+    [val_dataset.args]	
+    path = "/app/zh_stt/ASR-CSTRMACSTCSC/cleaned_ASR-CSTRMACSTCSC,/app/zh_stt/ASR-CTJDIACSC/Tianjin_Dialect_Conversational_Speech_Corpus/cleaned_ASR-CTJDIACSC"
+    init_pq = "./data_path/"
+    preload_data = false
+    delimiter = "|"
+    nb_workers = 8
+    split = "val"
+    [val_dataset.dataloader]
+    batch_size =  1 # Set validation batch_size > 1 may yield an incorrect score due to padding (but faster :D) - https://github.com/pytorch/fairseq/issues/3227 
+    num_workers = 4
+
+    [val_dataset.sampler]
+    shuffle = false 
+    drop_last = false
+
+ 
+[optimizer]
+lr = 1e-5
+
+
+[scheduler]
+type = "onecycle" #linear
+max_lr = 1e-5
+    
+
+[trainer]
+path = "trainer.trainer.Trainer"
+    [trainer.args]
+    validation_interval = 5000
+    save_max_metric_score = false 

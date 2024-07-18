@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+cff-version: 1.2.0
+title: >-
+  Finetune Wav2vec 2.0 For Speech
+  Recognition
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ta
+    family-names: Khanh
+    name-particle: Duy
+    email: duyfaker01@gmail.com
+
+repository-code: 'https://github.com/DuyTa506/Wav2Vec2.0_From_Scratch'
+url: >-
+ https://github.com/DuyTa506/Wav2Vec2.0_From_Scratch
+keywords:
+  - asr
+date-released: 2024-09-01
