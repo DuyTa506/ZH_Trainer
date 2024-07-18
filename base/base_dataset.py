@@ -53,12 +53,11 @@ class BaseDataset(Dataset):
         
     def load_pq_file(self, data_path) :
         df = pd.read_parquet(data_path)
-        print("Readed old data file , begin filtering !!!")
-        print(len(df))
+        print("Total samples ", len(df))
         return df
 
     def get_data(self) -> Dataset:
-        ds = InstanceDataset(self.df, self.sr, self.preload_data, self.transform)
+        ds = InstanceDataset(self.df, self.sr)
         return ds
 
 
