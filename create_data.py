@@ -122,7 +122,7 @@ class Dataset_Builder():
 
 if __name__ == '__main__':
     args = argparse.ArgumentParser(description='ASR TRAIN ARGS')
-    args.add_argument('-c', '--config', required=True, type=str,
+    args.add_argument('-c', '--config', default="config.toml", type=str,
                       help='config file path (default: None)')
     
     
