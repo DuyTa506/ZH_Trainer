@@ -9,7 +9,7 @@ use_amp = false # Whether to use Automatic Mixed Precision for speeding up - htt
 device_ids = "0" # set the gpu devices on which you want to train your model
 sr = 16000
 max_clip_grad_norm = 5.0 # torch.nn.utils.clip_grad_norm_
-#train_ratio = 0.9
+train_ratio = 0.9
 
 [special_tokens]
 bos_token = "<bos>"
