@@ -105,9 +105,9 @@ class Dataset_Builder():
                 
                 mask = (pd_train['duration'] <= self.max_duration) & (pd_train['duration'] >= self.min_duration)
                 pd_last = pd_train[mask]
-                
+            pd_last['transcript'] = pd_last['transcript'].parallel_apply(self.remove_special_characters)    
             pd_last = pd_last[pd_last['transcript'] != ""].reset_index(drop=True)
-            pd_last['transcript'] = pd_last['transcript'].parallel_apply(self.remove_special_characters)
+            
             
             if self.init_pq != "":
                 if not os.path.exists(self.init_pq):
