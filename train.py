@@ -17,6 +17,9 @@ from utils.metric import Metric
 from dataloader.dataset import DefaultCollate
 from transformers import Wav2Vec2ForCTC, Wav2Vec2FeatureExtractor, Wav2Vec2CTCTokenizer, Wav2Vec2Processor
 from torch.utils.data import random_split
+#---------------------Self module---------------
+from token_statistics import statistic_data
+
 def setup(rank, world_size):
     os.environ['MASTER_ADDR'] = 'localhost'
     os.environ['MASTER_PORT'] = '55555'
@@ -85,8 +88,14 @@ def main(rank, world_size, config, resume, preload):
     processor = Wav2Vec2Processor(feature_extractor=feature_extractor, tokenizer=tokenizer)
     default_collate = DefaultCollate(processor, config['meta']['sr'])
     #data_collator = DataCollatorCTCWithPadding(processor=processor,padding=True)
+    
+    #Begin stats
+    nb_workers = config["create_data"]["nb_workers"]
+    data_path = os.path.join(config["create_data"]["init_pq"], "train.parquet")
+    statistic_data(data_path, nb_workers)
+    
     # Create train dataloader
-
+    
 
     train_ds = train_base_ds.get_data()
     
@@ -152,6 +161,7 @@ def main(rank, world_size, config, resume, preload):
         vocab_size=len(processor.tokenizer),
         )
     model.config.ctc_zero_infinity = True
+    model.gradient_checkpointing_enable()
     # freeze the wav2vec feature encoder, if you have small dataset, this helps a lot
     model.freeze_feature_extractor()
     # DDP for multi-processing

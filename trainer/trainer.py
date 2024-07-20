@@ -2,7 +2,7 @@
 from ctypes import Union
 from typing import Any
 import torch
-
+import gc
 from base.base_trainer import BaseTrainer
 from tqdm import tqdm
 from torch.cuda.amp import autocast
@@ -110,8 +110,12 @@ class Trainer(BaseTrainer):
             metrics = self.compute_metric(outputs.logits.detach(), batch['labels'])
             wer = torch.tensor(metrics['wer'])
             cer = torch.tensor(metrics['cer'])
-
-
+            
+            
+            #Update : Dell unnecessary output 
+            del outputs
+            torch.cuda.empty_cache()
+            gc.collect()
             # Optimize step
             if (dl_step + 1) % self.gradient_accumulation_steps == 0 or dl_step == len(self.train_dl) - 1:
                 # compute grad norm for monitoring
@@ -196,7 +200,10 @@ class Trainer(BaseTrainer):
             val_metrics = self.compute_metric(outputs.logits, batch['labels'])
             val_logs["wer"] += torch.tensor(val_metrics['wer']) / len(self.val_dl)
             val_logs["cer"] += torch.tensor(val_metrics['cer']) / len(self.val_dl)
-
+            #Update : Dell unnecessary output 
+            del outputs
+            torch.cuda.empty_cache()
+            gc.collect()
         # average over devices in ddp
         if self.n_gpus > 1:
             val_logs = {k: self.gather(v).mean() for k, v in val_logs.items()}
