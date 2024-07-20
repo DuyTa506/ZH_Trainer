@@ -23,11 +23,11 @@ from token_statistics import statistic_data
 def setup(rank, world_size):
     os.environ['MASTER_ADDR'] = 'localhost'
     os.environ['MASTER_PORT'] = '55555'
-    #os.environ['GLOO_SOCKET_IFNAME']= 'enp1s0'   ## please provide the network by check ifconfig in OS
-    os.environ['NCCL_SOCKET_IFNAME']= 'enp1s0'
+    os.environ['GLOO_SOCKET_IFNAME']= 'enp1s0'   ## please provide the network by check ifconfig in OS
+    #os.environ['NCCL_SOCKET_IFNAME']= 'enp1s0'
 
     # initialize the process group
-    dist.init_process_group("nccl" ,rank=rank, world_size=world_size, timeout=datetime.timedelta(seconds=3600 * 5))
+    dist.init_process_group("gloo" ,rank=rank, world_size=world_size, timeout=datetime.timedelta(seconds=3600 * 5))
 
 def cleanup():
     dist.destroy_process_group()
