@@ -1,12 +1,12 @@
 [meta]
-name = "nccl_test" 
+name = "Wav2vec-pinyin" 
 pretrained_path = "TencentGameMate/chinese-wav2vec2-large"
 seed = 42
 epochs = 10
 save_dir = "saved/" 
-gradient_accumulation_steps = 2
-use_amp = false # Whether to use Automatic Mixed Precision for speeding up - https://pytorch.org/docs/stable/amp.html
-device_ids = "0" # set the gpu devices on which you want to train your model
+gradient_accumulation_steps = 4
+use_amp = true # Whether to use Automatic Mixed Precision for speeding up - https://pytorch.org/docs/stable/amp.html
+device_ids = "0,1,2,3,4,5,6,7" # set the gpu devices on which you want to train your model
 sr = 16000
 max_clip_grad_norm = 5.0 # torch.nn.utils.clip_grad_norm_
 train_ratio = 0.9
@@ -36,11 +36,11 @@ blocking = false # whether to wait until the model is uploaded (this will be ver
 
 
 [create_data]
-path = "/app/zh_stt/ASR-CSTRMACSTCSC/cleaned_ASR-CSTRMACSTCSC,/app/zh_stt/ASR-CTJDIACSC/Tianjin_Dialect_Conversational_Speech_Corpus/cleaned_ASR-CTJDIACSC"
+path = "/root/pvanh/data_zh/cleaned_ASR-CSTRMACSTCSC,/root/pvanh/data_zh/cleaned_ASR-CTJDIACSC,/root/pvanh/data_zh/cleaned_ASR-RAMC,/root/pvanh/data_zh/cleaned_Wenet"
 # Only train audio files that have duration in range [min_duration, max_duration]
 min_duration = 0.5 # if not pass, default is -np.inf
 max_duration = 20 # if not pass, default is np.inf
-nb_workers = 8
+nb_workers = 32
 volume = [0.8, 0.7]
 model_type = "pinyin"
 init_pq = "./data_path/"
@@ -51,8 +51,8 @@ path = "base.base_dataset.BaseDataset"
     [train_dataset.args]
     init_pq = "./data_path/"
     [train_dataset.dataloader]
-    batch_size = 2
-    num_workers = 2
+    batch_size = 16
+    num_workers = 0
     pin_memory = true 
     drop_last = true
     [train_dataset.sampler]
@@ -66,7 +66,7 @@ path = "base.base_dataset.BaseDataset"
     init_pq = "./data_path/"
     [val_dataset.dataloader]
     batch_size =  1 # Set validation batch_size > 1 may yield an incorrect score due to padding (but faster :D) - https://github.com/pytorch/fairseq/issues/3227 
-    num_workers = 2
+    num_workers = 0
     [val_dataset.sampler]
     shuffle = false 
     drop_last = false
