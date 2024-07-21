@@ -1,4 +1,4 @@
-# :zap: FINETUNE WAV2VEC 2.0 FOR SPEECH RECOGNITION
+# :zap: FINETUNE WAV2VEC 2.0 FOR PINYIN STYLE SPEECH RECOGNITION
 ### Table of contents
 1. [Documentation](#documentation)
 2. [Available Features](#feature)
