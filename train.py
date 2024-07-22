@@ -26,6 +26,7 @@ def setup(rank, world_size):
     #os.environ['GLOO_SOCKET_IFNAME']= 'enp1s0'   ## please provide the network by check ifconfig in OS
     os.environ['NCCL_SOCKET_IFNAME']= ''
 
+
     # initialize the process group
     dist.init_process_group("nccl" ,rank=rank, world_size=world_size, timeout=datetime.timedelta(seconds=3600 * 5))
 
