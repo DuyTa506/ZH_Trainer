@@ -1,0 +1,711 @@
+qian_2 zhe_3 shen_1 kai_1 shuang_1 bi_4 yong_1 bao_4 tian_1 kong_0 
+qian_2 zhe_3 shen_1 kai_1 shuang_1 bi_4 yong_1 bao_4 tian_1 kong_0 dang_0 yv_3 zhou_4 di_0 hu_2 xie_2 zhi_1 mei_3 yi_0 lan_3 wu_2 yi_2 di_0 zhan_3 xian_4 zai_4 ni_3 mian_0 qian_2 shi_2 
+dang_0 yv_3 zhou_4 di_0 hu_2 xie_2 zhi_1 mei_3 yi_0 lan_3 wu_2 yi_2 di_0 zhan_3 xian_4 zai_4 ni_3 mian_0 qian_2 shi_2 sheng_0 ming_4 zhi_3 shi_0 yi_0 ge_0 hen_3 xiao_3 di_0 dai_4 jie_0 
+sheng_0 ming_4 zhi_3 shi_0 yi_0 ge_0 hen_3 xiao_3 di_0 dai_4 jie_0 dan_4 ta_1 men_0 kan_0 dao_4 zhe_4 mei_3 hou_4 zhi_3 neng_2 zai_4 huo_0 shi_2 fen_0 zhong_0 
+dan_4 ta_1 men_0 kan_0 dao_4 zhe_4 mei_3 hou_4 zhi_3 neng_2 zai_4 huo_0 shi_2 fen_0 zhong_0 jiu_0 shi_0 mo_4 you_3 zhe_4 shi_2 fen_0 zhong_0 
+jiu_0 shi_0 mo_4 you_3 zhe_4 shi_2 fen_0 zhong_0 jin_3 jin_3 jing_0 li_4 kan_0 dao_4 ne_4 zhong_1 ji_2 zhi_1 mei_3 di_0 guo_0 cheng_2 ye_3 shi_0 zhi_2 de_0 di_0 
+jin_3 jin_3 jing_0 li_4 kan_0 dao_4 ne_4 zhong_1 ji_2 zhi_1 mei_3 di_0 guo_0 cheng_2 ye_3 shi_0 zhi_2 de_0 di_0 yvan_2 shou_3 men_0 you_4 hu_4 xiang_0 kan_0 liao_3 kan_0 
+yvan_2 shou_3 men_0 you_4 hu_4 xiang_0 kan_0 liao_3 kan_0 du_1 yao_2 tou_0 ku_3 xiao_4 
+du_1 yao_2 tou_0 ku_3 xiao_4 sui_2 zhuo_0 wen_2 ming_2 di_0 jin_4 hua_4 
+sui_2 zhuo_0 wen_2 ming_2 di_0 jin_4 hua_4 xiang_4 ta_1 men_0 zhe_4 yang_4 di_0 ren_0 kuai_4 jian_4 jian_4 duo_1 qi_3 lai_2 di_0 
+xiang_4 ta_1 men_0 zhe_4 yang_4 di_0 ren_0 kuai_4 jian_4 jian_4 duo_1 qi_3 lai_2 di_0 pai_3 xian_3 zhe_3 zhi_0 zhi_0 zhen_1 li_0 zhai_4 tan_2 xia_0 di_0 ke_1 xve_2 jie_0 men_0 yve_4 
+pai_3 xian_3 zhe_3 zhi_0 zhi_0 zhen_1 li_0 zhai_4 tan_2 xia_0 di_0 ke_1 xve_2 jie_0 men_0 yve_4 dang_0 sheng_0 cun_2 wen_4 ti_2 wan_2 qvan_2 xie_4 jve_2 
+dang_0 sheng_0 cun_2 wen_4 ti_2 wan_2 qvan_2 xie_4 jve_2 dang_0 $0ai_4 qing_0 yin_1 ge_0 ti_3 di_0 yi_4 hua_4 hu_2 rong_2 he_0 $0er_3 xiao_0 shi_0 
+dang_0 $0ai_4 qing_0 yin_1 ge_0 ti_3 di_0 yi_4 hua_4 hu_2 rong_2 he_0 $0er_3 xiao_0 shi_0 dang_0 yi_4 zhu_2 yin_1 guo_0 fen_0 di_0 jing_1 zhi_4 hu_2 hui_0 se_4 $0er_3 zui_4 zhong_1 si_3 wu_2 
+dang_0 yi_4 zhu_2 yin_1 guo_0 fen_0 di_0 jing_1 zhi_4 hu_2 hui_0 se_4 $0er_3 zui_4 zhong_1 si_3 wu_2 dui_0 yv_3 zhou_4 zhong_1 ji_2 mei_3 di_0 zhui_1 qiu_2 pian_2 cheng_2 wei_0 wen_2 ming_2 cun_2 zai_4 di_0 wei_3 yi_0 ji_4 tuo_1 
+dui_0 yv_3 zhou_4 zhong_1 ji_2 mei_3 di_0 zhui_1 qiu_2 pian_2 cheng_2 wei_0 wen_2 ming_2 cun_2 zai_4 di_0 wei_3 yi_0 ji_4 tuo_1 ta_1 men_0 di_0 zhe_4 zhong_3 xing_2 wei_0 fang_1 shi_0 ye_3 jiu_0 fu_2 he_0 liao_3 zheng_3 ge_0 shi_4 jie_4 di_0 ji_1 ben_3 jie_0 zhi_2 guan_4 
+ta_1 men_0 di_0 zhe_4 zhong_3 xing_2 wei_0 fang_1 shi_0 ye_3 jiu_0 fu_2 he_0 liao_3 zheng_3 ge_0 shi_4 jie_4 di_0 ji_1 ben_3 jie_0 zhi_2 guan_4 yvan_2 shou_3 men_0 chen_2 mo_4 liao_3 yi_0 kuai_4 $0er_0 
+yvan_2 shou_3 men_0 chen_2 mo_4 liao_3 yi_0 kuai_4 $0er_0 shi_4 zhuo_0 li_0 xie_4 pai_3 xian_3 zhe_3 di_0 hua_0 
+shi_4 zhuo_0 li_0 xie_4 pai_3 xian_3 zhe_3 di_0 hua_0 mei_3 guo_2 zong_3 tong_3 tu_1 ran_2 ha_0 ha_0 da_0 xiao_4 qi_3 lai_2 
+mei_3 guo_2 zong_3 tong_3 tu_1 ran_2 ha_0 ha_0 da_0 xiao_4 qi_3 lai_2 nin_2 zai_4 shua_3 wo_3 men_0 
+nin_2 zai_4 shua_3 wo_3 men_0 wo_3 bu_0 ming_2 bai_2 
+wo_3 bu_0 ming_2 bai_2 ri_0 ben_3 shou_3 xiang_0 yve_4 
+ri_0 ben_3 shou_3 xiang_0 yve_4 ren_0 lei_4 huan_2 mo_4 you_3 ben_4 dao_4 ni_3 xiang_3 xiang_4 di_0 cheng_2 du_0 
+ren_0 lei_4 huan_2 mo_4 you_3 ben_4 dao_4 ni_3 xiang_3 xiang_4 di_0 cheng_2 du_0 ni_3 hua_0 zhong_4 di_0 luo_2 ji_2 cuo_4 wu_4 lian_2 xiao_3 hai_2 zi_0 du_1 ming_2 bai_2 
+ni_3 hua_0 zhong_4 di_0 luo_2 ji_2 cuo_4 wu_4 lian_2 xiao_3 hai_2 zi_0 du_1 ming_2 bai_2 pai_3 xian_3 zhe_3 xian_3 de_0 geng_4 jia_1 kun_4 huo_4 liao_3 
+pai_3 xian_3 zhe_3 xian_3 de_0 geng_4 jia_1 kun_4 huo_4 liao_3 wo_3 kan_0 bu_0 chu_0 zhe_4 you_3 shi_0 yao_1 luo_2 ji_2 cuo_4 wu_4 
+wo_3 kan_0 bu_0 chu_0 zhe_4 you_3 shi_0 yao_1 luo_2 ji_2 cuo_4 wu_4 mei_3 guo_2 zong_3 tong_3 leng_3 xiao_4 zhuo_0 yve_4 
+mei_3 guo_2 zong_3 tong_3 leng_3 xiao_4 zhuo_0 yve_4 yi_0 wan_4 yi_4 nian_2 hou_4 
+yi_0 wan_4 yi_4 nian_2 hou_4 wo_3 men_0 di_0 yv_3 zhou_4 ken_3 ding_4 chong_1 man_3 liao_3 gao_1 du_0 jin_4 hua_4 di_0 wen_2 ming_2 
+wo_3 men_0 di_0 yv_3 zhou_4 ken_3 ding_4 chong_1 man_3 liao_3 gao_1 du_0 jin_4 hua_4 di_0 wen_2 ming_2 zhao_4 nin_2 di_0 yi_0 si_0 
+zhao_4 nin_2 di_0 yi_0 si_0 dui_0 zhong_1 ji_2 zhen_1 li_0 di_0 zhe_4 zhong_3 bian_4 tai_4 di_0 yv_4 wang_4 qiang_1 cheng_2 wei_0 zheng_3 ge_0 yv_3 zhou_4 di_0 ji_1 ben_3 jie_0 zhi_2 guan_4 
+dui_0 zhong_1 ji_2 zhen_1 li_0 di_0 zhe_4 zhong_3 bian_4 tai_4 di_0 yv_4 wang_4 qiang_1 cheng_2 wei_0 zheng_3 ge_0 yv_3 zhou_4 di_0 ji_1 ben_3 jie_0 zhi_2 guan_4 qvan_2 yv_3 zhou_4 di_0 wen_2 ming_2 qiang_1 yi_0 zhi_4 tong_0 yi_0 yong_4 chao_1 gao_1 neng_2 di_0 shi_4 yan_4 lai_2 tan_4 suo_3 nang_0 kuo_4 suo_3 you_3 yv_3 zhou_4 di_0 chao_1 tong_3 yi_0 mu_2 xing_2 
+qvan_2 yv_3 zhou_4 di_0 wen_2 ming_2 qiang_1 yi_0 zhi_4 tong_0 yi_0 yong_4 chao_1 gao_1 neng_2 di_0 shi_4 yan_4 lai_2 tan_4 suo_3 nang_0 kuo_4 suo_3 you_3 yv_3 zhou_4 di_0 chao_1 tong_3 yi_0 mu_2 xing_2 bu_0 xi_1 zai_4 zhe_4 zhong_3 shi_4 yan_4 zhong_4 hui_3 mie_4 bao_1 kuo_4 zi_4 ji_3 zai_4 nei_4 di_0 yi_0 qie_4 
+bu_0 xi_1 zai_4 zhe_4 zhong_3 shi_4 yan_4 zhong_4 hui_3 mie_4 bao_1 kuo_4 zi_4 ji_3 zai_4 nei_4 di_0 yi_0 qie_4 ni_3 xiang_3 gao_4 su_4 wo_3 men_0 zhe_4 zhong_3 shi_0 kuai_4 fa_0 sheng_0 
+ni_3 xiang_3 gao_4 su_4 wo_3 men_0 zhe_4 zhong_3 shi_0 kuai_4 fa_0 sheng_0 pai_3 xian_3 zhe_3 ding_1 zhuo_0 yvan_2 shou_3 men_0 zhang_3 shi_2 jian_4 bu_0 yve_4 hua_0 
+pai_3 xian_3 zhe_3 ding_1 zhuo_0 yvan_2 shou_3 men_0 zhang_3 shi_2 jian_4 bu_0 yve_4 hua_0 ne_4 guai_4 yi_4 di_0 mu_4 guang_1 shi_0 ta_1 men_0 bu_0 han_2 $0er_3 li_4 
+ne_4 guai_4 yi_4 di_0 mu_4 guang_1 shi_0 ta_1 men_0 bu_0 han_2 $0er_3 li_4 $0er_3 shi_0 ta_1 men_0 zhong_4 you_3 ren_0 shi_4 hu_0 wu_4 chu_0 liao_3 shi_0 yao_1 
+$0er_3 shi_0 ta_1 men_0 zhong_4 you_3 ren_0 shi_4 hu_0 wu_4 chu_0 liao_3 shi_0 yao_1 nin_2 shi_0 yve_4 tai_2 xian_3 zhe_3 jv_0 qi_3 yi_0 zhi_3 shou_0 zhi_4 zhi_3 ta_1 yve_4 xia_0 qv_0 
+nin_2 shi_0 yve_4 tai_2 xian_3 zhe_3 jv_0 qi_3 yi_0 zhi_3 shou_0 zhi_4 zhi_3 ta_1 yve_4 xia_0 qv_0 ran_2 hou_4 xiang_4 zhen_1 li_0 zhai_4 tan_2 di_0 bian_0 yvan_2 zou_3 qv_0 
+ran_2 hou_4 xiang_4 zhen_1 li_0 zhai_4 tan_2 di_0 bian_0 yvan_2 zou_3 qv_0 zai_4 ne_4 li_0 
+zai_4 ne_4 li_0 ta_1 yong_4 xiang_3 liang_0 di_0 sheng_0 yin_1 dui_0 suo_3 you_3 ren_0 yve_4 
+ta_1 yong_4 xiang_3 liang_0 di_0 sheng_0 yin_1 dui_0 suo_3 you_3 ren_0 yve_4 ni_3 men_0 yi_0 ding_4 hen_3 xiang_3 zhi_4 dao_0 wo_3 men_0 shi_0 ru_2 he_2 de_0 dao_4 zhe_4 ge_0 yv_3 zhou_4 di_0 da_0 tong_3 yi_0 mu_2 xing_2 di_0 
+ni_3 men_0 yi_0 ding_4 hen_3 xiang_3 zhi_4 dao_0 wo_3 men_0 shi_0 ru_2 he_2 de_0 dao_4 zhe_4 ge_0 yv_3 zhou_4 di_0 da_0 tong_3 yi_0 mu_2 xing_2 di_0 xian_4 zai_4 ke_3 yi_3 gao_4 su_4 ni_3 men_0 
+xian_4 zai_4 ke_3 yi_3 gao_4 su_4 ni_3 men_0 hen_3 jiu_3 hen_3 jiu_3 yi_3 qian_2 
+hen_3 jiu_3 hen_3 jiu_3 yi_3 qian_2 wo_3 men_0 di_0 yv_3 zhou_4 bi_3 xian_4 zai_4 xiao_3 de_0 duo_1 
+wo_3 men_0 di_0 yv_3 zhou_4 bi_3 xian_4 zai_4 xiao_3 de_0 duo_1 $0er_3 qie_3 hen_3 re_4 
+$0er_3 qie_3 hen_3 re_4 heng_2 xing_1 huan_2 mo_4 you_3 chu_0 xian_4 
+heng_2 xing_1 huan_2 mo_4 you_3 chu_0 xian_4 dan_4 yi_3 you_3 wu_4 zhi_4 neng_2 cong_2 neng_2 liang_0 zhong_4 chen_2 dian_4 chu_0 lai_2 
+dan_4 yi_3 you_3 wu_4 zhi_4 neng_2 cong_2 neng_2 liang_0 zhong_4 chen_2 dian_4 chu_0 lai_2 xing_2 cheng_2 mi_3 man_4 zai_4 fa_0 zhuo_0 hong_2 guang_1 di_0 tai_4 kong_0 zhong_4 di_0 xing_1 yvn_2 
+xing_2 cheng_2 mi_3 man_4 zai_4 fa_0 zhuo_0 hong_2 guang_1 di_0 tai_4 kong_0 zhong_4 di_0 xing_1 yvn_2 zhe_4 shi_2 sheng_0 ming_4 yi_3 jing_0 chu_0 xian_4 liao_3 
+zhe_4 shi_2 sheng_0 ming_4 yi_3 jing_0 chu_0 xian_4 liao_3 ne_4 shi_0 yi_0 zhong_3 li_4 chang_3 yv_4 xi_0 bo_2 di_0 wu_4 zhi_4 gong_4 tong_0 gou_4 cheng_2 di_0 sheng_0 wu_4 
+ne_4 shi_0 yi_0 zhong_3 li_4 chang_3 yv_4 xi_0 bo_2 di_0 wu_4 zhi_4 gong_4 tong_0 gou_4 cheng_2 di_0 sheng_0 wu_4 qi_2 ge_0 ti_3 kan_0 shang_0 qv_0 hen_3 xiang_4 tai_4 kong_0 zhong_4 di_0 long_2 jvan_3 feng_1 
+qi_2 ge_0 ti_3 kan_0 shang_0 qv_0 hen_3 xiang_4 tai_4 kong_0 zhong_4 di_0 long_2 jvan_3 feng_1 zhe_4 zhong_3 xing_1 yvn_2 sheng_0 wu_4 di_0 jin_4 hua_4 su_4 du_0 kuai_0 de_0 xiang_4 shan_0 dian_4 
+zhe_4 zhong_3 xing_1 yvn_2 sheng_0 wu_4 di_0 jin_4 hua_4 su_4 du_0 kuai_0 de_0 xiang_4 shan_0 dian_4 hen_3 kuai_0 chan_3 sheng_0 liao_3 bian_4 bu_4 qvan_2 yv_3 zhou_4 di_0 gao_1 du_0 wen_2 ming_2 
+hen_3 kuai_0 chan_3 sheng_0 liao_3 bian_4 bu_4 qvan_2 yv_3 zhou_4 di_0 gao_1 du_0 wen_2 ming_2 dang_0 xing_1 yvn_2 wen_2 ming_2 dui_0 yv_3 zhou_4 zhong_1 ji_2 zhen_1 li_0 di_0 ke_3 wang_4 da_0 dao_4 ding_3 feng_1 shi_2 
+dang_0 xing_1 yvn_2 wen_2 ming_2 dui_0 yv_3 zhou_4 zhong_1 ji_2 zhen_1 li_0 di_0 ke_3 wang_4 da_0 dao_4 ding_3 feng_1 shi_2 qvan_2 yv_3 zhou_4 di_0 suo_3 you_3 shi_4 jie_4 yi_0 zhi_4 tong_0 yi_0 mo_4 zhuo_0 zhen_1 kong_0 shuai_1 bian_4 di_0 wei_1 xian_3 jin_4 xing_2 chuang_4 shi_4 neng_2 ji_2 di_0 shi_4 yan_4 
+qvan_2 yv_3 zhou_4 di_0 suo_3 you_3 shi_4 jie_4 yi_0 zhi_4 tong_0 yi_0 mo_4 zhuo_0 zhen_1 kong_0 shuai_1 bian_4 di_0 wei_1 xian_3 jin_4 xing_2 chuang_4 shi_4 neng_2 ji_2 di_0 shi_4 yan_4 yi_3 tan_4 suo_3 yv_3 zhou_4 di_0 da_0 tong_3 yi_0 mu_2 xing_2 
+yi_3 tan_4 suo_3 yv_3 zhou_4 di_0 da_0 tong_3 yi_0 mu_2 xing_2 xing_1 yvn_2 sheng_0 wu_4 cao_1 zong_4 wu_4 zhi_4 shi_4 jie_4 di_0 fang_1 shi_0 yv_4 xian_4 jin_1 yv_3 zhou_4 zhong_4 di_0 sheng_0 ming_4 wan_2 qvan_2 bu_0 tong_0 
+xing_1 yvn_2 sheng_0 wu_4 cao_1 zong_4 wu_4 zhi_4 shi_4 jie_4 di_0 fang_1 shi_0 yv_4 xian_4 jin_1 yv_3 zhou_4 zhong_4 di_0 sheng_0 ming_4 wan_2 qvan_2 bu_0 tong_0 ta_1 men_0 di_0 ge_0 ti_3 zi_4 ji_3 jin_4 hua_4 wei_0 zi_4 ji_3 xiang_3 yao_4 di_0 dong_1 xi_0 
+ta_1 men_0 di_0 ge_0 ti_3 zi_4 ji_3 jin_4 hua_4 wei_0 zi_4 ji_3 xiang_3 yao_4 di_0 dong_1 xi_0 zai_4 zui_4 hou_4 di_0 jve_2 ding_4 zuo_4 chu_0 hou_4 
+zai_4 zui_4 hou_4 di_0 jve_2 ding_4 zuo_4 chu_0 hou_4 mou_3 xie_1 shi_4 jie_4 zhong_4 di_0 yi_0 xie_1 ge_0 ti_3 fei_1 kuai_0 di_0 jin_4 hua_4 
+mou_3 xie_1 shi_4 jie_4 zhong_4 di_0 yi_0 xie_1 ge_0 ti_3 fei_1 kuai_0 di_0 jin_4 hua_4 ba_3 zi_4 ji_3 jin_4 hua_4 wei_0 jia_1 su_4 qi_4 di_0 yi_0 bu_4 fen_0 
+ba_3 zi_4 ji_3 jin_4 hua_4 wei_0 jia_1 su_4 qi_4 di_0 yi_0 bu_4 fen_0 zui_4 hou_4 shang_0 bai_3 wan_4 ge_0 zhe_4 yang_4 di_0 xing_1 yvn_2 sheng_0 wu_4 pai_3 lie_4 qi_3 lai_2 
+zui_4 hou_4 shang_0 bai_3 wan_4 ge_0 zhe_4 yang_4 di_0 xing_1 yvn_2 sheng_0 wu_4 pai_3 lie_4 qi_3 lai_2 zu_3 cheng_2 liao_3 yi_0 tai_0 neng_2 ba_3 li_4 zi_0 jia_1 su_4 dao_4 chuang_4 shi_4 neng_2 ji_2 di_0 gao_1 neng_2 jia_1 su_4 qi_4 
+zu_3 cheng_2 liao_3 yi_0 tai_0 neng_2 ba_3 li_4 zi_0 jia_1 su_4 dao_4 chuang_4 shi_4 neng_2 ji_2 di_0 gao_1 neng_2 jia_1 su_4 qi_4 jia_1 su_4 qi_4 qi_3 dong_4 hou_4 
+jia_1 su_4 qi_4 qi_3 dong_4 hou_4 $0an_4 hong_2 shai_3 di_0 xing_1 yvn_2 zhong_4 chu_0 xian_4 liao_3 yi_0 ge_0 fa_0 chu_0 yao_4 yan_3 lan_0 guang_1 di_0 can_4 lan_4 guang_1 huan_2 
+$0an_4 hong_2 shai_3 di_0 xing_1 yvn_2 zhong_4 chu_0 xian_4 liao_3 yi_0 ge_0 fa_0 chu_0 yao_4 yan_3 lan_0 guang_1 di_0 can_4 lan_4 guang_1 huan_2 ta_1 men_0 shen_1 zhi_4 zhe_4 ge_0 shi_4 yan_4 di_0 wei_1 xian_3 
+ta_1 men_0 shen_1 zhi_4 zhe_4 ge_0 shi_4 yan_4 di_0 wei_1 xian_3 zai_4 shi_4 yan_4 jin_4 xing_2 di_0 tong_0 shi_2 
+zai_4 shi_4 yan_4 jin_4 xing_2 di_0 tong_0 shi_2 ba_3 de_0 dao_4 di_0 jie_0 guo_3 yong_4 yin_3 li_4 bo_1 fa_0 she_4 chu_0 qv_0 
+ba_3 de_0 dao_4 di_0 jie_0 guo_3 yong_4 yin_3 li_4 bo_1 fa_0 she_4 chu_0 qv_0 yin_3 li_4 bo_1 shi_0 wei_3 yi_0 neng_2 zai_4 zhen_1 kong_0 shuai_1 bian_4 hou_4 cun_2 liu_2 xia_0 lai_2 di_0 xin_4 xi_0 zai_3 ti_3 
+yin_3 li_4 bo_1 shi_0 wei_3 yi_0 neng_2 zai_4 zhen_1 kong_0 shuai_1 bian_4 hou_4 cun_2 liu_2 xia_0 lai_2 di_0 xin_4 xi_0 zai_3 ti_3 jia_1 su_4 qi_4 yvn_4 xing_2 liao_3 yi_0 duan_4 shi_2 jian_4 hou_4 
+jia_1 su_4 qi_4 yvn_4 xing_2 liao_3 yi_0 duan_4 shi_2 jian_4 hou_4 zhen_1 kong_0 shuai_1 bian_4 fa_0 sheng_0 liao_3 
+zhen_1 kong_0 shuai_1 bian_4 fa_0 sheng_0 liao_3 di_1 neng_2 ji_2 di_0 zhen_1 kong_0 qiu_2 cong_2 yvan_2 zi_0 da_0 xiao_3 yi_3 guang_1 su_4 peng_2 zhang_4 
+di_1 neng_2 ji_2 di_0 zhen_1 kong_0 qiu_2 cong_2 yvan_2 zi_0 da_0 xiao_3 yi_3 guang_1 su_4 peng_2 zhang_4 zhuan_3 yan_3 jian_4 kuo_4 da_0 dao_4 tian_1 wen_2 chi_3 du_0 nei_4 bu_4 di_0 yi_0 qie_4 zheng_1 fa_0 dai_4 jin_3 
+zhuan_3 yan_3 jian_4 kuo_4 da_0 dao_4 tian_1 wen_2 chi_3 du_0 nei_4 bu_4 di_0 yi_0 qie_4 zheng_1 fa_0 dai_4 jin_3 zhen_1 kong_0 qiu_2 di_0 peng_2 zhang_4 su_4 du_0 da_0 yv_2 yv_3 zhou_4 di_0 peng_2 zhang_4 su_4 du_0 
+zhen_1 kong_0 qiu_2 di_0 peng_2 zhang_4 su_4 du_0 da_0 yv_2 yv_3 zhou_4 di_0 peng_2 zhang_4 su_4 du_0 sui_1 ran_2 jing_0 guo_0 liao_3 man_4 zhang_3 di_0 shi_2 jian_4 
+sui_1 ran_2 jing_0 guo_0 liao_3 man_4 zhang_3 di_0 shi_2 jian_4 zui_4 hou_4 huan_2 shi_0 hui_3 mie_4 liao_3 zheng_3 ge_0 yv_3 zhou_4 
+zui_4 hou_4 huan_2 shi_0 hui_3 mie_4 liao_3 zheng_3 ge_0 yv_3 zhou_4 man_4 zhang_3 di_0 sui_4 yve_4 guo_0 qv_0 liao_3 
+man_4 zhang_3 di_0 sui_4 yve_4 guo_0 qv_0 liao_3 zai_4 kong_0 wu_2 yi_0 wu_4 di_0 yv_3 zhou_4 zhong_4 
+zai_4 kong_0 wu_2 yi_0 wu_4 di_0 yv_3 zhou_4 zhong_4 bei_4 zheng_1 fa_0 di_0 wu_4 zhi_4 huan_3 man_4 di_0 zhong_4 xin_1 chen_2 dian_4 
+bei_4 zheng_1 fa_0 di_0 wu_4 zhi_4 huan_3 man_4 di_0 zhong_4 xin_1 chen_2 dian_4 dan_4 yv_3 zhou_4 yi_0 pian_4 si_3 ji_4 
+dan_4 yv_3 zhou_4 yi_0 pian_4 si_3 ji_4 zhi_2 dao_4 heng_2 xing_1 hu_2 xing_2 xing_1 chu_0 xian_4 
+zhi_2 dao_4 heng_2 xing_1 hu_2 xing_2 xing_1 chu_0 xian_4 sheng_0 ming_4 cai_2 zai_4 yv_3 zhou_4 zhong_4 zhong_4 xin_1 meng_2 fa_0 
+sheng_0 ming_4 cai_2 zai_4 yv_3 zhou_4 zhong_4 zhong_4 xin_1 meng_2 fa_0 $0er_3 zhe_4 shi_2 zao_3 yi_3 hui_3 mie_4 di_0 xing_1 yvn_2 wen_2 ming_2 fa_0 chu_0 di_0 yin_3 li_4 bo_1 huan_2 zai_4 yv_3 zhou_4 zhong_4 hui_2 dang_0 
+$0er_3 zhe_4 shi_2 zao_3 yi_3 hui_3 mie_4 di_0 xing_1 yvn_2 wen_2 ming_2 fa_0 chu_0 di_0 yin_3 li_4 bo_1 huan_2 zai_4 yv_3 zhou_4 zhong_4 hui_2 dang_0 shi_0 ti_3 wu_4 zhi_4 di_0 zhong_4 xin_1 chu_0 xian_4 shi_0 ta_1 xvn_4 su_4 shuai_1 jian_3 
+shi_0 ti_3 wu_4 zhi_4 di_0 zhong_4 xin_1 chu_0 xian_4 shi_0 ta_1 xvn_4 su_4 shuai_1 jian_3 dan_4 jiu_0 zai_4 ta_1 wan_2 qvan_2 xiao_0 shi_0 yi_3 qian_2 
+dan_4 jiu_0 zai_4 ta_1 wan_2 qvan_2 xiao_0 shi_0 yi_3 qian_2 bei_4 xin_1 yv_3 zhou_4 zhong_4 zui_4 zao_3 chu_0 xian_4 di_0 wen_2 ming_2 jie_1 shou_1 dao_4 ta_1 suo_3 dai_4 di_0 xin_4 xi_0 bei_4 po_4 yi_4 
+bei_4 xin_1 yv_3 zhou_4 zhong_4 zui_4 zao_3 chu_0 xian_4 di_0 wen_2 ming_2 jie_1 shou_1 dao_4 ta_1 suo_3 dai_4 di_0 xin_4 xi_0 bei_4 po_4 yi_4 cong_2 zhe_4 yvan_3 gu_3 di_0 shi_4 yan_4 shu_0 jv_4 zhong_4 
+cong_2 zhe_4 yvan_3 gu_3 di_0 shi_4 yan_4 shu_0 jv_4 zhong_4 xin_1 wen_2 ming_2 de_0 dao_4 liao_3 da_0 tong_3 yi_0 mu_2 xing_2 
+xin_1 wen_2 ming_2 de_0 dao_4 liao_3 da_0 tong_3 yi_0 mu_2 xing_2 ta_1 men_0 fa_0 xian_4 dui_0 jian_4 li_4 mu_2 xing_2 zui_4 guan_1 jian_4 di_0 shu_0 jv_4 shi_0 zai_4 zhen_1 kong_0 shuai_1 bian_4 qian_2 wan_4 fen_0 zhi_1 yi_0 miao_3 zuo_3 you_4 chan_3 sheng_0 di_0 
+ta_1 men_0 fa_0 xian_4 dui_0 jian_4 li_4 mu_2 xing_2 zui_4 guan_1 jian_4 di_0 shu_0 jv_4 shi_0 zai_4 zhen_1 kong_0 shuai_1 bian_4 qian_2 wan_4 fen_0 zhi_1 yi_0 miao_3 zuo_3 you_4 chan_3 sheng_0 di_0 dui_0 zan_0 men_0 huan_2 shi_0 yve_4 
+dui_0 zan_0 men_0 huan_2 shi_0 yve_4 xing_2 ne_4 jiu_0 shi_0 yi_0 $0er_4 hao_0 lou_2 xian_1 qv_0 zuo_4 deng_3 dao_4 jie_0 shu_4 liao_3 jiu_0 shi_0 $0an_4 san_1 si_4 wu_3 zhe_4 yang_4 
+xing_2 ne_4 jiu_0 shi_0 yi_0 $0er_4 hao_0 lou_2 xian_1 qv_0 zuo_4 deng_3 dao_4 jie_0 shu_4 liao_3 jiu_0 shi_0 $0an_4 san_1 si_4 wu_3 zhe_4 yang_4 dao_4 shi_2 hou_0 ru_2 guo_3 yve_4 liang_3 hao_0 lou_2 ren_0 yi_0 qi_3 qv_0 ren_0 tai_4 duo_1 di_0 hua_0 zan_0 men_0 ye_3 ke_3 yi_3 yi_0 hao_0 yi_0 hao_0 di_0 xia_0 
+dao_4 shi_2 hou_0 ru_2 guo_3 yve_4 liang_3 hao_0 lou_2 ren_0 yi_0 qi_3 qv_0 ren_0 tai_4 duo_1 di_0 hua_0 zan_0 men_0 ye_3 ke_3 yi_3 yi_0 hao_0 yi_0 hao_0 di_0 xia_0 xing_2 ne_4 zan_0 men_0 dao_4 shi_2 hou_0 jiu_0 shi_0 $0en_1 zhi_2 ban_1 $0er_0 ren_0 yvn_2 $0en_1 ne_4 ge_0 
+xing_2 ne_4 zan_0 men_0 dao_4 shi_2 hou_0 jiu_0 shi_0 $0en_1 zhi_2 ban_1 $0er_0 ren_0 yvn_2 $0en_1 ne_4 ge_0 xing_2 zan_0 men_0 ne_4 ge_0 jv_1 wei_3 kuai_4 ne_4 $0er_0 you_3 ji_3 ge_0 da_0 la_0 ba_0 dao_4 shi_2 hou_0 $0en_1 zao_3 shang_0 shui_4 jve_2 ni_0 ke_3 yi_3 deng_3 dao_4 zhong_4 wu_3 
+xing_2 zan_0 men_0 ne_4 ge_0 jv_1 wei_3 kuai_4 ne_4 $0er_0 you_3 ji_3 ge_0 da_0 la_0 ba_0 dao_4 shi_2 hou_0 $0en_1 zao_3 shang_0 shui_4 jve_2 ni_0 ke_3 yi_3 deng_3 dao_4 zhong_4 wu_3 ran_2 hou_4 zan_0 men_0 jiu_0 shi_0 zao_3 shang_0 huan_2 shi_0 bu_0 yao_4 yong_4 zhe_4 ge_0 la_0 ba_0 
+ran_2 hou_4 zan_0 men_0 jiu_0 shi_0 zao_3 shang_0 huan_2 shi_0 bu_0 yao_4 yong_4 zhe_4 ge_0 la_0 ba_0 xing_2 ne_4 zan_0 men_0 jiu_0 shi_0 $0en_1 ne_4 huan_2 shi_0 wu_4 ye_4 ni_3 wen_4 ba_0 wu_4 ye_4 ni_3 zai_4 
+xing_2 ne_4 zan_0 men_0 jiu_0 shi_0 $0en_1 ne_4 huan_2 shi_0 wu_4 ye_4 ni_3 wen_4 ba_0 wu_4 ye_4 ni_3 zai_4 zhe_4 ci_4 zhe_4 ci_4 feng_1 qi_2 shi_0 bu_0 suan_0 shi_0 te_4 bie_0 yan_3 zhong_4 di_0 yin_1 wei_0 sui_1 ran_2 zan_0 men_0 fu_4 jin_4 you_3 zhe_4 ge_0 
+zhe_4 ci_4 zhe_4 ci_4 feng_1 qi_2 shi_0 bu_0 suan_0 shi_0 te_4 bie_0 yan_3 zhong_4 di_0 yin_1 wei_0 sui_1 ran_2 zan_0 men_0 fu_4 jin_4 you_3 zhe_4 ge_0 jiu_0 shi_0 yve_4 yi_0 xia_0 zan_0 men_0 jie_1 xia_0 lai_2 di_0 gong_1 zuo_0 $0an_1 pai_3 
+jiu_0 shi_0 yve_4 yi_0 xia_0 zan_0 men_0 jie_1 xia_0 lai_2 di_0 gong_1 zuo_0 $0an_1 pai_3 zan_0 men_0 xian_4 zai_4 de_0 jiu_0 shi_0 feng_1 xiao_3 qv_1 ran_2 hou_4 xian_1 yve_4 yi_0 xia_0 jiu_0 shi_0 bi_3 jiao_4 jin_3 yao_4 di_0 shi_0 qing_0 ba_0 
+zan_0 men_0 xian_4 zai_4 de_0 jiu_0 shi_0 feng_1 xiao_3 qv_1 ran_2 hou_4 xian_1 yve_4 yi_0 xia_0 jiu_0 shi_0 bi_3 jiao_4 jin_3 yao_4 di_0 shi_0 qing_0 ba_0 zan_0 men_0 yao_4 qiu_2 ni_0 shi_0 zhe_4 ge_0 yi_0 tian_1 zhi_1 nei_4 jiu_0 de_0 ce_4 wan_2 
+zan_0 men_0 yao_4 qiu_2 ni_0 shi_0 zhe_4 ge_0 yi_0 tian_1 zhi_1 nei_4 jiu_0 de_0 ce_4 wan_2 ran_2 hou_4 suo_3 yi_3 yve_4 zan_0 men_0 zhe_4 ge_0 $0en_1 
+ran_2 hou_4 suo_3 yi_3 yve_4 zan_0 men_0 zhe_4 ge_0 $0en_1 hao_3 da_0 jie_0 xia_0 wu_3 hao_3 $0a_0 
+hao_3 da_0 jie_0 xia_0 wu_3 hao_3 $0a_0 zhi_1 hou_4 zan_0 men_0 jiu_0 shi_0 $0an_1 pai_3 yi_0 xia_0 $0an_1 pai_3 yi_0 xia_0 zan_0 men_0 zhe_4 ge_0 zuo_4 hu_2 suan_1 di_0 shi_2 jian_4 
+zhi_1 hou_4 zan_0 men_0 jiu_0 shi_0 $0an_1 pai_3 yi_0 xia_0 $0an_1 pai_3 yi_0 xia_0 zan_0 men_0 zhe_4 ge_0 zuo_4 hu_2 suan_1 di_0 shi_2 jian_4 bi_3 ru_2 yve_4 wo_3 men_0 jin_1 tian_1 zuo_4 wan_2 yi_0 ge_0 huo_0 dong_4 ta_1 xve_2 xi_2 di_0 shi_0 yi_0 ge_0 shi_0 yao_1 yang_4 di_0 dong_1 xi_0 bi_3 ru_2 jv_0 ge_0 li_4 zi_0 ba_0 
+bi_3 ru_2 yve_4 wo_3 men_0 jin_1 tian_1 zuo_4 wan_2 yi_0 ge_0 huo_0 dong_4 ta_1 xve_2 xi_2 di_0 shi_0 yi_0 ge_0 shi_0 yao_1 yang_4 di_0 dong_1 xi_0 bi_3 ru_2 jv_0 ge_0 li_4 zi_0 ba_0 wo_3 men_0 zheng_3 ti_3 di_0 you_1 shi_0 di_0 hua_0 jiu_0 huan_2 shi_0 xiang_4 gang_1 cai_2 yve_4 di_0 wo_3 men_0 shi_0 you_3 yi_0 ge_0 
+wo_3 men_0 zheng_3 ti_3 di_0 you_1 shi_0 di_0 hua_0 jiu_0 huan_2 shi_0 xiang_4 gang_1 cai_2 yve_4 di_0 wo_3 men_0 shi_0 you_3 yi_0 ge_0 yi_0 qi_3 yan_2 fa_0 di_0 zhe_4 yao_1 yi_0 ge_0 jiao_4 ke_1 yan_2 di_0 zhe_4 ge_0 tuan_2 dui_4 qi_2 shi_0 wo_3 men_0 zhi_4 dao_0 zai_4 zhong_4 guo_2 zuo_4 jiao_4 yv_4 
+yi_0 qi_3 yan_2 fa_0 di_0 zhe_4 yao_1 yi_0 ge_0 jiao_4 ke_1 yan_2 di_0 zhe_4 ge_0 tuan_2 dui_4 qi_2 shi_0 wo_3 men_0 zhi_4 dao_0 zai_4 zhong_4 guo_2 zuo_4 jiao_4 yv_4 dui_0 zhe_4 shi_0 hen_3 da_0 di_0 wen_4 ti_2 da_0 jie_0 du_1 bu_0 yvan_4 yi_0 qv_0 zuo_4 ke_1 yan_2 dan_4 shi_0 wo_3 men_0 si_4 ge_0 yvan_4 yi_0 qv_0 zuo_4 
+dui_0 zhe_4 shi_0 hen_3 da_0 di_0 wen_4 ti_2 da_0 jie_0 du_1 bu_0 yvan_4 yi_0 qv_0 zuo_4 ke_1 yan_2 dan_4 shi_0 wo_3 men_0 si_4 ge_0 yvan_4 yi_0 qv_0 zuo_4 ni_3 huan_0 jv_4 hua_0 lai_2 yve_4 bei_4 shan_1 zhai_4 ye_3 mo_4 wen_4 ti_2 
+ni_3 huan_0 jv_4 hua_0 lai_2 yve_4 bei_4 shan_1 zhai_4 ye_3 mo_4 wen_4 ti_2 wo_3 men_0 xi_1 wang_4 neng_2 gou_4 ba_3 zhe_4 tao_4 jiao_4 yv_4 ti_3 xi_0 shi_0 zhuan_4 bo_1 dao_4 
+wo_3 men_0 xi_1 wang_4 neng_2 gou_4 ba_3 zhe_4 tao_4 jiao_4 yv_4 ti_3 xi_0 shi_0 zhuan_4 bo_1 dao_4 $0er_3 qie_3 suo_3 yi_3 yve_4 wo_3 men_0 wei_0 shi_0 yao_1 yao_4 hua_0 hen_3 duo_1 di_0 hen_3 duo_1 di_0 shi_2 jian_4 hu_2 jing_1 li_4 hu_2 tou_2 ru_4 
+$0er_3 qie_3 suo_3 yi_3 yve_4 wo_3 men_0 wei_0 shi_0 yao_1 yao_4 hua_0 hen_3 duo_1 di_0 hen_3 duo_1 di_0 shi_2 jian_4 hu_2 jing_1 li_4 hu_2 tou_2 ru_4 zuo_4 hu_2 suan_1 ne_4 yi_0 zhi_2 you_3 ren_0 
+zuo_4 hu_2 suan_1 ne_4 yi_0 zhi_2 you_3 ren_0 xing_2 qi_2 shi_0 qi_2 shi_0 zan_0 men_0 zhi_1 qian_2 you_3 ne_4 ge_0 ye_4 zhu_3 qvn_2 ye_3 ke_3 yi_3 zai_4 
+xing_2 qi_2 shi_0 qi_2 shi_0 zan_0 men_0 zhi_1 qian_2 you_3 ne_4 ge_0 ye_4 zhu_3 qvn_2 ye_3 ke_3 yi_3 zai_4 ta_1 jin_1 tian_1 chi_1 di_0 shi_0 tao_0 $0er_0 jiu_0 shi_0 xiang_1 qiao_2 ke_3 neng_2 ta_1 cun_2 fang_4 shi_2 jian_4 bu_0 shi_0 hen_3 jiu_3 suo_3 yi_3 wo_3 men_0 
+ta_1 jin_1 tian_1 chi_1 di_0 shi_0 tao_0 $0er_0 jiu_0 shi_0 xiang_1 qiao_2 ke_3 neng_2 ta_1 cun_2 fang_4 shi_2 jian_4 bu_0 shi_0 hen_3 jiu_3 suo_3 yi_3 wo_3 men_0 shi_0 di_0 wo_3 wo_3 men_0 wei_2 yang_3 di_0 dong_4 wu_4 du_1 shi_0 
+shi_0 di_0 wo_3 wo_3 men_0 wei_2 yang_3 di_0 dong_4 wu_4 du_1 shi_0 hen_3 jian_4 kang_1 pi_2 mao_0 hen_3 shun_4 hua_2 you_3 guang_1 ze_2 $0en_1 you_0 ke_4 lai_2 liao_3 zhi_1 hou_4 ye_3 shi_0 chen_4 wo_3 men_0 di_0 dong_4 wu_4 you_3 jing_1 shen_0 tou_0 $0er_0 
+hen_3 jian_4 kang_1 pi_2 mao_0 hen_3 shun_4 hua_2 you_3 guang_1 ze_2 $0en_1 you_0 ke_4 lai_2 liao_3 zhi_1 hou_4 ye_3 shi_0 chen_4 wo_3 men_0 di_0 dong_4 wu_4 you_3 jing_1 shen_0 tou_0 $0er_0 jiu_0 shi_0 hen_3 hao_3 da_0 jie_0 du_1 hen_3 xi_3 huan_0 $0en_1 
+jiu_0 shi_0 hen_3 hao_3 da_0 jie_0 du_1 hen_3 xi_3 huan_0 $0en_1 kun_4 nan_0 huan_2 shi_0 you_3 di_0 bi_3 ru_2 yve_4 zan_0 men_0 ne_4 ge_0 hu_2 li_0 bian_0 $0er_0 di_0 ne_4 ge_0 da_0 $0e_2 jiu_0 shi_0 ke_3 neng_2 jiu_0 bi_3 jiao_4 zao_1 ren_0 hen_4 ba_0 jiu_0 shi_0 you_3 di_0 you_0 ke_4 
+kun_4 nan_0 huan_2 shi_0 you_3 di_0 bi_3 ru_2 yve_4 zan_0 men_0 ne_4 ge_0 hu_2 li_0 bian_0 $0er_0 di_0 ne_4 ge_0 da_0 $0e_2 jiu_0 shi_0 ke_3 neng_2 jiu_0 bi_3 jiao_4 zao_1 ren_0 hen_4 ba_0 jiu_0 shi_0 you_3 di_0 you_0 ke_4 neng_2 gou_4 ba_3 zhe_4 ge_0 jiao_4 yv_4 ti_3 xi_0 neng_2 gou_4 zuo_4 hao_3 yin_1 wei_0 zhe_4 ge_0 gen_1 bu_0 zheng_4 di_0 hua_0 shang_0 mian_0 zhang_3 chu_0 di_0 ren_2 he_2 yi_0 ge_0 ye_4 zi_0 du_1 shi_0 bu_0 dui_0 di_0 
+neng_2 gou_4 ba_3 zhe_4 ge_0 jiao_4 yv_4 ti_3 xi_0 neng_2 gou_4 zuo_4 hao_3 yin_1 wei_0 zhe_4 ge_0 gen_1 bu_0 zheng_4 di_0 hua_0 shang_0 mian_0 zhang_3 chu_0 di_0 ren_2 he_2 yi_0 ge_0 ye_4 zi_0 du_1 shi_0 bu_0 dui_0 di_0 qvan_2 wei_1 ren_4 zheng_4 zhe_4 kuai_4 $0e_0 wo_3 men_0 si_0 ge_2 di_0 hua_0 shi_0 
+qvan_2 wei_1 ren_4 zheng_4 zhe_4 kuai_4 $0e_0 wo_3 men_0 si_0 ge_2 di_0 hua_0 shi_0 sen_1 lin_2 jiao_4 yv_4 xie_2 kuai_4 zai_4 zhong_4 guo_2 qv_1 wei_3 yi_0 $0a_0 qvan_2 mian_0 he_0 zuo_0 di_0 yi_0 ge_0 shan_4 wei_4 
+sen_1 lin_2 jiao_4 yv_4 xie_2 kuai_4 zai_4 zhong_4 guo_2 qv_1 wei_3 yi_0 $0a_0 qvan_2 mian_0 he_0 zuo_0 di_0 yi_0 ge_0 shan_4 wei_4 wo_3 men_0 di_0 jiao_4 shi_1 bing_4 bu_0 shi_0 yve_4 zhuan_4 tong_3 shang_0 di_0 shi_1 fan_4 sheng_0 zhuan_4 tong_3 shang_0 di_0 shi_1 fan_4 sheng_0 ke_3 neng_2 jiu_0 shi_0 
+wo_3 men_0 di_0 jiao_4 shi_1 bing_4 bu_0 shi_0 yve_4 zhuan_4 tong_3 shang_0 di_0 shi_1 fan_4 sheng_0 zhuan_4 tong_3 shang_0 di_0 shi_1 fan_4 sheng_0 ke_3 neng_2 jiu_0 shi_0 $0a_0 bi_3 ru_2 yve_4 jiao_4 xve_2 fa_0 ya_0 xing_0 xin_0 li_0 xve_2 ya_0 zhe_4 yi_0 bu_4 fen_0 dong_1 xi_0 
+$0a_0 bi_3 ru_2 yve_4 jiao_4 xve_2 fa_0 ya_0 xing_0 xin_0 li_0 xve_2 ya_0 zhe_4 yi_0 bu_4 fen_0 dong_1 xi_0 bi_3 ru_2 yve_4 hu_0 wai_4 ji_2 jiu_4 $0a_0 tao_2 sheng_0 $0a_0 zhe_4 yi_0 lei_4 zhong_3 zhong_3 di_0 yi_0 xie_1 ji_4 neng_2 
+bi_3 ru_2 yve_4 hu_0 wai_4 ji_2 jiu_4 $0a_0 tao_2 sheng_0 $0a_0 zhe_4 yi_0 lei_4 zhong_3 zhong_3 di_0 yi_0 xie_1 ji_4 neng_2 shi_0 cong_2 zhe_4 ge_0 ling_2 sui_4 jiu_0 kai_1 shi_3 liao_3 jiu_0 shi_0 bi_3 ru_2 yve_4 ma_1 ma_1 jiu_0 shi_0 huan_2 shi_0 da_0 zhuo_0 du_0 zi_0 di_0 shi_2 hou_0 ta_1 men_0 jiu_0 shi_0 du_1 shi_0 yao_4 zai_4 sen_1 lin_2 li_0 mian_0 qv_0 san_0 bu_4 
+shi_0 cong_2 zhe_4 ge_0 ling_2 sui_4 jiu_0 kai_1 shi_3 liao_3 jiu_0 shi_0 bi_3 ru_2 yve_4 ma_1 ma_1 jiu_0 shi_0 huan_2 shi_0 da_0 zhuo_0 du_0 zi_0 di_0 shi_2 hou_0 ta_1 men_0 jiu_0 shi_0 du_1 shi_0 yao_4 zai_4 sen_1 lin_2 li_0 mian_0 qv_0 san_0 bu_4 $0o_2 shen_2 zhi_4 zai_4 wo_3 men_0 di_0 zao_3 jiao_4 zhong_4 xin_0 dan_1 mai_0 xiao_3 hai_2 zi_0 shui_4 jve_2 shi_0 zai_4 shi_4 wai_4 di_0 ta_1 men_0 di_0 zhe_4 ge_0 li_0 lun_2 jiu_0 shi_0 xiao_3 hai_2 zi_0 zai_4 hu_0 wai_4 ta_1 shui_4 de_0 kuai_4 te_4 bie_0 hao_3 
+$0o_2 shen_2 zhi_4 zai_4 wo_3 men_0 di_0 zao_3 jiao_4 zhong_4 xin_0 dan_1 mai_0 xiao_3 hai_2 zi_0 shui_4 jve_2 shi_0 zai_4 shi_4 wai_4 di_0 ta_1 men_0 di_0 zhe_4 ge_0 li_0 lun_2 jiu_0 shi_0 xiao_3 hai_2 zi_0 zai_4 hu_0 wai_4 ta_1 shui_4 de_0 kuai_4 te_4 bie_0 hao_3 neng_2 gou_4 rang_4 kuai_0 yve_4 jian_4 kang_1 
+neng_2 gou_4 rang_4 kuai_0 yve_4 jian_4 kang_1 zhong_4 guo_2 ti_3 zhi_4 nei_4 jiao_4 yv_4 di_0 yi_0 dian_0 dian_0 
+zhong_4 guo_2 ti_3 zhi_4 nei_4 jiao_4 yv_4 di_0 yi_0 dian_0 dian_0 gan_3 xie_4 ge_3 wei_4 $0e_0 wang_3 you_0 di_0 ling_2 ting_0 $0a_0 wo_3 shi_0 yve_4 kai_1 zheng_4 xvan_4 li_0 qi_2 lin_2 ne_4 yao_1 hen_3 rong_2 xing_4 shou_4 yao_1 $0a_0 zai_4 zhe_4 li_0 wei_0 da_0 jie_0 wei_0 da_0 jie_0 fen_0 xiang_3 yi_0 xia_0 
+gan_3 xie_4 ge_3 wei_4 $0e_0 wang_3 you_0 di_0 ling_2 ting_0 $0a_0 wo_3 shi_0 yve_4 kai_1 zheng_4 xvan_4 li_0 qi_2 lin_2 ne_4 yao_1 hen_3 rong_2 xing_4 shou_4 yao_1 $0a_0 zai_4 zhe_4 li_0 wei_0 da_0 jie_0 wei_0 da_0 jie_0 fen_0 xiang_3 yi_0 xia_0 $0a_0 yi_4 qing_0 zhi_1 xia_0 da_0 liang_0 zi_1 chan_3 pei_4 zhe_4 ge_0 kan_0 fa_0 $0a_0 ne_4 wo_3 men_0 cong_2 $0a_0 jin_4 qi_1 di_0 shi_0 chang_3 di_0 biao_3 xian_4 lai_2 kan_0 qi_2 shi_0 $0a_0 shi_0 chang_3 biao_3 xian_4 di_0 huan_2 shi_0 xiang_0 dui_0 lai_2 jiang_3 huan_2 shi_0 bu_0 cuo_4 di_0 dui_0 ba_0 
+$0a_0 yi_4 qing_0 zhi_1 xia_0 da_0 liang_0 zi_1 chan_3 pei_4 zhe_4 ge_0 kan_0 fa_0 $0a_0 ne_4 wo_3 men_0 cong_2 $0a_0 jin_4 qi_1 di_0 shi_0 chang_3 di_0 biao_3 xian_4 lai_2 kan_0 qi_2 shi_0 $0a_0 shi_0 chang_3 biao_3 xian_4 di_0 huan_2 shi_0 xiang_0 dui_0 lai_2 jiang_3 huan_2 shi_0 bu_0 cuo_4 di_0 dui_0 ba_0 ta_1 di_0 zhe_4 ge_0 gu_0 shi_0 you_4 kuai_4 chu_0 xian_4 zhe_4 ge_0 ming_2 xian_3 di_0 fan_3 tan_0 di_0 ne_4 yao_1 qi_2 shi_0 $0e_0 wo_3 men_0 xian_1 cong_2 yi_4 qing_0 dui_0 
+ta_1 di_0 zhe_4 ge_0 gu_0 shi_0 you_4 kuai_4 chu_0 xian_4 zhe_4 ge_0 ming_2 xian_3 di_0 fan_3 tan_0 di_0 ne_4 yao_1 qi_2 shi_0 $0e_0 wo_3 men_0 xian_1 cong_2 yi_4 qing_0 dui_0 ne_4 wo_3 men_0 zhi_4 dao_0 yi_4 qing_0 chong_4 ji_1 zhi_1 hou_4 dui_0 zhe_4 ge_0 zheng_3 ge_0 zhe_4 ge_0 $0a_0 zhe_4 ge_0 jv_1 min_2 bu_4 men_2 bao_1 kuo_4 zhe_4 ge_0 $0a_0 
+ne_4 wo_3 men_0 zhi_4 dao_0 yi_4 qing_0 chong_4 ji_1 zhi_1 hou_4 dui_0 zhe_4 ge_0 zheng_3 ge_0 zhe_4 ge_0 $0a_0 zhe_4 ge_0 jv_1 min_2 bu_4 men_2 bao_1 kuo_4 zhe_4 ge_0 $0a_0 yi_0 ge_0 shi_0 gu_4 ding_4 cheng_2 ben_3 yi_0 ge_0 shi_0 ke_3 bian_4 cheng_2 ben_3 dang_0 qi_3 ye_4 mo_4 you_3 liao_3 ding_4 shan_4 ta_1 bu_0 sheng_0 chan_3 liao_3 ta_1 ke_3 yi_3 mo_4 you_3 ke_3 bian_4 cheng_2 ben_3 
+yi_0 ge_0 shi_0 gu_4 ding_4 cheng_2 ben_3 yi_0 ge_0 shi_0 ke_3 bian_4 cheng_2 ben_3 dang_0 qi_3 ye_4 mo_4 you_3 liao_3 ding_4 shan_4 ta_1 bu_0 sheng_0 chan_3 liao_3 ta_1 ke_3 yi_3 mo_4 you_3 ke_3 bian_4 cheng_2 ben_3 bi_3 ru_2 yve_4 fang_0 zu_1 $0a_0 $0a_0 huan_2 you_3 huan_2 you_3 zhe_4 ge_0 fang_0 dai_4 dui_0 ba_0 deng_3 deng_3 $0a_0 you_3 ru_2 guo_3 yve_4 ni_3 zhe_4 ge_0 ren_0 yvn_2 ren_0 yvn_2 chu_0 li_0 bu_0 shi_0 ne_4 yao_1 shun_4 li_0 di_0 hua_0 dui_0 ba_0 
+bi_3 ru_2 yve_4 fang_0 zu_1 $0a_0 $0a_0 huan_2 you_3 huan_2 you_3 zhe_4 ge_0 fang_0 dai_4 dui_0 ba_0 deng_3 deng_3 $0a_0 you_3 ru_2 guo_3 yve_4 ni_3 zhe_4 ge_0 ren_0 yvn_2 ren_0 yvn_2 chu_0 li_0 bu_0 shi_0 ne_4 yao_1 shun_4 li_0 di_0 hua_0 dui_0 ba_0 ne_4 yao_1 $0e_0 ren_0 gong_1 cheng_2 ben_3 ye_3 you_3 ke_3 neng_2 shi_0 yi_0 ge_0 $0a_0 jiu_0 shi_0 $0a_0 ye_3 suan_0 shi_0 yi_0 ge_0 gu_4 ding_4 cheng_2 ben_3 $0a_0 ru_2 guo_3 bu_0 neng_2 gou_4 shun_4 chang_4 di_0 $0a_0 xie_4 jve_2 he_0 tong_0 shang_0 di_0 shi_0 ye_4 
+ne_4 yao_1 $0e_0 ren_0 gong_1 cheng_2 ben_3 ye_3 you_3 ke_3 neng_2 shi_0 yi_0 ge_0 $0a_0 jiu_0 shi_0 $0a_0 ye_3 suan_0 shi_0 yi_0 ge_0 gu_4 ding_4 cheng_2 ben_3 $0a_0 ru_2 guo_3 bu_0 neng_2 gou_4 shun_4 chang_4 di_0 $0a_0 xie_4 jve_2 he_0 tong_0 shang_0 di_0 shi_0 ye_4 jiu_0 kuai_4 dao_3 zhi_4 qi_3 ye_4 ta_1 di_0 zhe_4 ge_0 xian_4 jin_1 liu_2 $0en_1 ya_4 li_4 fei_1 chang_2 di_0 da_0 ru_2 guo_3 ta_1 mo_4 you_3 hu_2 $0e_0 
+jiu_0 kuai_4 dao_3 zhi_4 qi_3 ye_4 ta_1 di_0 zhe_4 ge_0 xian_4 jin_1 liu_2 $0en_1 ya_4 li_4 fei_1 chang_2 di_0 da_0 ru_2 guo_3 ta_1 mo_4 you_3 hu_2 $0e_0 ta_1 jiu_0 kuai_4 chu_0 xian_4 zhe_4 zhong_3 wei_2 yve_1 feng_1 xian_3 ne_4 yao_1 yi_0 dan_4 qi_3 ye_4 chu_0 xian_4 liao_3 wei_2 yve_1 feng_1 xian_3 ne_4 yao_1 zhuan_4 dao_4 liao_3 jin_1 rong_2 bu_4 men_2 $0a_0 jiu_0 kuai_4 xing_2 cheng_2 jin_1 rong_2 bu_4 men_2 di_0 zhe_4 ge_0 $0a_0 bu_0 liang_2 zi_1 chan_3 
+ta_1 jiu_0 kuai_4 chu_0 xian_4 zhe_4 zhong_3 wei_2 yve_1 feng_1 xian_3 ne_4 yao_1 yi_0 dan_4 qi_3 ye_4 chu_0 xian_4 liao_3 wei_2 yve_1 feng_1 xian_3 ne_4 yao_1 zhuan_4 dao_4 liao_3 jin_1 rong_2 bu_4 men_2 $0a_0 jiu_0 kuai_4 xing_2 cheng_2 jin_1 rong_2 bu_4 men_2 di_0 zhe_4 ge_0 $0a_0 bu_0 liang_2 zi_1 chan_3 ne_4 yao_1 ta_1 ye_3 kuai_4 zeng_1 jia_1 ta_1 di_0 liu_2 dong_4 xing_0 di_0 xv_1 qiu_2 yin_1 wei_0 ta_1 bi_4 jing_4 ta_1 huan_2 yao_4 fu_4 ji_3 tong_0 ye_4 ji_1 gou_4 gen_0 chu_3 hu_0 xiang_0 ying_0 di_0 zhe_4 ge_0 li_0 xi_0 zhi_1 chu_0 gen_0 ben_3 jin_1 chang_2 fu_4 
+ne_4 yao_1 ta_1 ye_3 kuai_4 zeng_1 jia_1 ta_1 di_0 liu_2 dong_4 xing_0 di_0 xv_1 qiu_2 yin_1 wei_0 ta_1 bi_4 jing_4 ta_1 huan_2 yao_4 fu_4 ji_3 tong_0 ye_4 ji_1 gou_4 gen_0 chu_3 hu_0 xiang_0 ying_0 di_0 zhe_4 ge_0 li_0 xi_0 zhi_1 chu_0 gen_0 ben_3 jin_1 chang_2 fu_4 zi_1 chan_3 duan_1 chu_0 xian_4 liao_3 bu_0 liang_2 dan_4 shi_0 fu_4 zhai_4 duan_1 ta_1 ye_3 shi_0 gang_1 xing_0 di_0 suo_3 yi_3 zhe_4 ge_0 shi_2 hou_0 dui_0 jin_1 rong_2 ji_1 gou_4 lai_2 jiang_3 ta_1 ye_3 kuai_4 zeng_1 jia_1 zhe_4 ge_0 liu_2 dong_4 xing_0 di_0 chu_3 bei_4 lai_2 ying_0 fu_4 zhe_4 ge_0 gang_1 xing_0 di_0 zhe_4 ge_0 
+zi_1 chan_3 duan_1 chu_0 xian_4 liao_3 bu_0 liang_2 dan_4 shi_0 fu_4 zhai_4 duan_1 ta_1 ye_3 shi_0 gang_1 xing_0 di_0 suo_3 yi_3 zhe_4 ge_0 shi_2 hou_0 dui_0 jin_1 rong_2 ji_1 gou_4 lai_2 jiang_3 ta_1 ye_3 kuai_4 zeng_1 jia_1 zhe_4 ge_0 liu_2 dong_4 xing_0 di_0 chu_3 bei_4 lai_2 ying_0 fu_4 zhe_4 ge_0 gang_1 xing_0 di_0 zhe_4 ge_0 huan_2 ben_3 fu_4 xi_0 ya_4 li_4 suo_3 yi_3 zhe_4 ge_0 shi_2 hou_0 jin_1 rong_2 ji_1 gou_4 wang_3 wang_3 huan_2 kuai_4 qv_0 chou_1 dai_4 huo_4 zhe_3 yve_4 qv_0 $0a_0 ti_2 qian_2 chu_3 bei_4 liu_2 dong_4 xing_0 
+huan_2 ben_3 fu_4 xi_0 ya_4 li_4 suo_3 yi_3 zhe_4 ge_0 shi_2 hou_0 jin_1 rong_2 ji_1 gou_4 wang_3 wang_3 huan_2 kuai_4 qv_0 chou_1 dai_4 huo_4 zhe_3 yve_4 qv_0 $0a_0 ti_2 qian_2 chu_3 bei_4 liu_2 dong_4 xing_0 ne_4 yao_1 zai_4 zhe_4 yang_4 yi_0 ge_0 bei_4 jing_3 xia_0 qi_3 ye_4 ke_3 neng_2 jiu_0 kuai_4 $0a_0 you_3 geng_4 da_0 mian_0 ji_1 di_0 yi_0 ge_0 chu_1 qing_1 ne_4 yao_1 jin_4 $0er_3 dao_3 zhi_4 jv_1 min_2 bu_4 men_2 $0a_0 ta_1 kuai_4 cheng_0 dan_0 yi_0 ge_0 geng_4 da_0 di_0 yi_0 ge_0 xian_4 jin_1 liu_2 ya_4 li_4 
+ne_4 yao_1 zai_4 zhe_4 yang_4 yi_0 ge_0 bei_4 jing_3 xia_0 qi_3 ye_4 ke_3 neng_2 jiu_0 kuai_4 $0a_0 you_3 geng_4 da_0 mian_0 ji_1 di_0 yi_0 ge_0 chu_1 qing_1 ne_4 yao_1 jin_4 $0er_3 dao_3 zhi_4 jv_1 min_2 bu_4 men_2 $0a_0 ta_1 kuai_4 cheng_0 dan_0 yi_0 ge_0 geng_4 da_0 di_0 yi_0 ge_0 xian_4 jin_1 liu_2 ya_4 li_4 suo_3 yi_3 zhe_4 yang_4 di_0 hua_0 jiu_0 kuai_4 fa_0 xian_4 kuai_4 xing_2 cheng_2 yi_0 ge_0 wu_0 xing_0 xvn_2 huan_2 jiu_0 shi_0 jv_1 jie_0 ge_2 li_2 
+suo_3 yi_3 zhe_4 yang_4 di_0 hua_0 jiu_0 kuai_4 fa_0 xian_4 kuai_4 xing_2 cheng_2 yi_0 ge_0 wu_0 xing_0 xvn_2 huan_2 jiu_0 shi_0 jv_1 jie_0 ge_2 li_2 $0a_0 mo_4 you_3 xiao_0 fei_4 ran_2 hou_4 qi_3 ye_4 mo_4 you_3 ding_4 shan_4 
+$0a_0 mo_4 you_3 xiao_0 fei_4 ran_2 hou_4 qi_3 ye_4 mo_4 you_3 ding_4 shan_4 ran_2 hou_4 qi_3 ye_4 you_3 wei_2 yve_1 feng_1 xian_3 qi_3 ye_4 yi_0 wei_2 yve_1 jin_1 rong_2 ji_1 gou_4 you_3 bu_0 liang_2 ya_4 li_4 ran_2 hou_4 jin_4 $0er_3 rang_4 geng_4 duo_1 di_0 qi_3 ye_4 wei_2 yve_1 
+ran_2 hou_4 qi_3 ye_4 you_3 wei_2 yve_1 feng_1 xian_3 qi_3 ye_4 yi_0 wei_2 yve_1 jin_1 rong_2 ji_1 gou_4 you_3 bu_0 liang_2 ya_4 li_4 ran_2 hou_4 jin_4 $0er_3 rang_4 geng_4 duo_1 di_0 qi_3 ye_4 wei_2 yve_1 $0a_0 zheng_3 ge_0 zhe_4 ge_0 shi_0 ti_3 jing_0 ji_3 ta_1 di_0 zhe_4 ge_0 $0a_0 po_4 pi_1 xing_0 ne_4 yao_1 wei_0 liao_3 ying_0 dui_0 zhe_4 yang_4 yi_0 ge_0 po_4 pi_1 xing_0 ni_0 
+$0a_0 zheng_3 ge_0 zhe_4 ge_0 shi_0 ti_3 jing_0 ji_3 ta_1 di_0 zhe_4 ge_0 $0a_0 po_4 pi_1 xing_0 ne_4 yao_1 wei_0 liao_3 ying_0 dui_0 zhe_4 yang_4 yi_0 ge_0 po_4 pi_1 xing_0 ni_0 mei_3 lian_2 chu_3 bao_1 kuo_4 zhe_4 ge_0 mei_3 guo_2 di_0 cai_2 zheng_4 bu_4 dui_0 ba_0 du_1 zuo_4 liao_3 hen_3 duo_1 hen_3 duo_1 jv_0 cuo_4 ne_4 yao_1 zhe_4 li_0 mian_0 zui_4 hu_2 xin_0 di_0 yi_0 ge_0 yi_0 ge_0 yi_0 ge_0 yi_0 ge_0 jv_0 cuo_4 
+mei_3 lian_2 chu_3 bao_1 kuo_4 zhe_4 ge_0 mei_3 guo_2 di_0 cai_2 zheng_4 bu_4 dui_0 ba_0 du_1 zuo_4 liao_3 hen_3 duo_1 hen_3 duo_1 jv_0 cuo_4 ne_4 yao_1 zhe_4 li_0 mian_0 zui_4 hu_2 xin_0 di_0 yi_0 ge_0 yi_0 ge_0 yi_0 ge_0 yi_0 ge_0 jv_0 cuo_4 zai_4 qi_3 ye_4 gen_0 jv_1 min_2 du_1 mo_4 you_3 xian_4 jin_1 liu_2 di_0 shi_2 hou_0 you_2 zheng_4 fu_3 lai_2 chuang_4 zao_4 xian_4 jin_1 liu_2 ne_4 yao_1 zheng_4 fu_3 zen_3 yao_1 chuang_4 zao_4 xian_4 jin_1 liu_2 ni_0 zheng_4 fu_3 jiu_0 tong_4 guo_0 fa_0 guo_2 zhai_4 lai_2 chuang_4 zao_4 xian_4 jin_1 liu_2 zheng_4 fu_3 tong_4 guo_0 
+zai_4 qi_3 ye_4 gen_0 jv_1 min_2 du_1 mo_4 you_3 xian_4 jin_1 liu_2 di_0 shi_2 hou_0 you_2 zheng_4 fu_3 lai_2 chuang_4 zao_4 xian_4 jin_1 liu_2 ne_4 yao_1 zheng_4 fu_3 zen_3 yao_1 chuang_4 zao_4 xian_4 jin_1 liu_2 ni_0 zheng_4 fu_3 jiu_0 tong_4 guo_0 fa_0 guo_2 zhai_4 lai_2 chuang_4 zao_4 xian_4 jin_1 liu_2 zheng_4 fu_3 tong_4 guo_0 ta_1 jiu_0 ta_1 jiu_0 bu_0 tai_4 ke_3 neng_2 jiu_0 shi_0 $0a_0 yin_1 wei_0 bei_4 ta_1 di_0 zhe_4 ge_0 zi_4 ji_3 di_0 gang_1 xing_0 zhi_1 chu_0 ji_3 ya_4 dao_3 
+ta_1 jiu_0 ta_1 jiu_0 bu_0 tai_4 ke_3 neng_2 jiu_0 shi_0 $0a_0 yin_1 wei_0 bei_4 ta_1 di_0 zhe_4 ge_0 zi_4 ji_3 di_0 gang_1 xing_0 zhi_1 chu_0 ji_3 ya_4 dao_3 jv_1 min_2 ye_3 you_3 gang_1 xing_0 zhi_1 chu_0 dui_0 ba_0 bi_3 ru_2 yve_4 ni_3 $0a_0 ni_3 ni_3 jie_4 liao_3 yi_0 pi_4 gu_0 zhe_4 ge_0 $0a_0 $0an_4 jie_1 dai_4 kuan_3 dui_0 ba_0 ni_3 men_0 mei_3 ge_0 yve_4 du_1 you_3 gu_4 ding_4 di_0 huan_2 ben_3 fu_4 xi_0 ya_4 li_4 dan_4 ru_2 guo_3 yve_4 ni_3 yi_0 dan_4 chu_0 xian_4 liao_3 shi_0 ye_4 di_0 feng_1 xian_3 
+jv_1 min_2 ye_3 you_3 gang_1 xing_0 zhi_1 chu_0 dui_0 ba_0 bi_3 ru_2 yve_4 ni_3 $0a_0 ni_3 ni_3 jie_4 liao_3 yi_0 pi_4 gu_0 zhe_4 ge_0 $0a_0 $0an_4 jie_1 dai_4 kuan_3 dui_0 ba_0 ni_3 men_0 mei_3 ge_0 yve_4 du_1 you_3 gu_4 ding_4 di_0 huan_2 ben_3 fu_4 xi_0 ya_4 li_4 dan_4 ru_2 guo_3 yve_4 ni_3 yi_0 dan_4 chu_0 xian_4 liao_3 shi_0 ye_4 di_0 feng_1 xian_3 ne_4 yao_1 zhe_4 yang_4 di_0 hua_0 ni_3 ni_3 dui_0 ni_3 ge_0 ren_0 $0er_3 yan_2 ye_3 you_3 hen_3 da_0 di_0 zhe_4 ge_0 
+ne_4 yao_1 zhe_4 yang_4 di_0 hua_0 ni_3 ni_3 dui_0 ni_3 ge_0 ren_0 $0er_3 yan_2 ye_3 you_3 hen_3 da_0 di_0 zhe_4 ge_0 suo_3 yi_3 $0a_0 mei_3 lian_2 chu_3 bao_1 kuo_4 mei_3 guo_2 cai_2 zheng_4 bu_4 ta_1 zuo_4 liao_3 yi_0 ge_0 ta_1 zuo_4 liao_3 yi_0 ge_0 hu_2 xin_0 di_0 yi_0 ge_0 yi_0 yi_0 ta_1 ta_1 zuo_4 zhe_4 ge_0 shi_0 qing_0 di_0 yi_0 ge_0 hu_2 xin_0 di_0 yi_0 tu_2 
+suo_3 yi_3 $0a_0 mei_3 lian_2 chu_3 bao_1 kuo_4 mei_3 guo_2 cai_2 zheng_4 bu_4 ta_1 zuo_4 liao_3 yi_0 ge_0 ta_1 zuo_4 liao_3 yi_0 ge_0 hu_2 xin_0 di_0 yi_0 ge_0 yi_0 yi_0 ta_1 ta_1 zuo_4 zhe_4 ge_0 shi_0 qing_0 di_0 yi_0 ge_0 hu_2 xin_0 di_0 yi_0 tu_2 you_2 zheng_4 fu_3 lai_2 chuang_4 zao_4 xian_4 jin_1 liu_2 ran_2 hou_4 jin_4 $0er_3 ba_3 zhe_4 ge_0 zi_1 chan_3 fu_4 zhai_4 biao_3 fu_4 xing_0 ji_3 wen_3 zhu_4 yin_1 wei_0 da_0 jie_0 du_1 zhi_4 dao_0 yi_4 qing_0 shi_0 yi_0 ge_0 duan_3 qi_1 di_0 wai_4 sheng_0 chong_4 ji_1 dui_0 ba_0 
+you_2 zheng_4 fu_3 lai_2 chuang_4 zao_4 xian_4 jin_1 liu_2 ran_2 hou_4 jin_4 $0er_3 ba_3 zhe_4 ge_0 zi_1 chan_3 fu_4 zhai_4 biao_3 fu_4 xing_0 ji_3 wen_3 zhu_4 yin_1 wei_0 da_0 jie_0 du_1 zhi_4 dao_0 yi_4 qing_0 shi_0 yi_0 ge_0 duan_3 qi_1 di_0 wai_4 sheng_0 chong_4 ji_1 dui_0 ba_0 ne_4 yao_1 zheng_4 fu_3 ta_1 xv_1 yao_4 zuo_4 di_0 jiu_0 shi_0 ba_3 zhe_4 ge_0 duan_3 qi_1 di_0 feng_1 xian_3 ji_3 ji_3 $0an_4 zhu_4 ran_2 hou_4 bu_0 yao_4 ying_3 xiang_3 dao_4 zhang_3 qi_1 
+ne_4 yao_1 zheng_4 fu_3 ta_1 xv_1 yao_4 zuo_4 di_0 jiu_0 shi_0 ba_3 zhe_4 ge_0 duan_3 qi_1 di_0 feng_1 xian_3 ji_3 ji_3 $0an_4 zhu_4 ran_2 hou_4 bu_0 yao_4 ying_3 xiang_3 dao_4 zhang_3 qi_1 zhe_4 ge_0 shi_0 zhe_4 ge_0 jiu_0 shi_0 ta_1 $0a_0 xv_1 yao_4 zuo_4 dao_4 di_0 yi_0 ge_0 hu_2 xin_0 di_0 yi_0 ge_0 yi_0 yi_0 yi_0 ge_0 luo_2 ji_2 jiu_0 shi_0 wo_3 $0a_0 wo_3 zi_4 ji_3 lai_2 you_2 zheng_4 fu_3 lai_2 chuang_4 zao_4 xian_4 jin_1 liu_2 $0a_0 wen_3 zhu_4 zhe_4 ge_0 zi_1 chan_3 fu_4 zhai_4 biao_3 
+zhe_4 ge_0 shi_0 zhe_4 ge_0 jiu_0 shi_0 ta_1 $0a_0 xv_1 yao_4 zuo_4 dao_4 di_0 yi_0 ge_0 hu_2 xin_0 di_0 yi_0 ge_0 yi_0 yi_0 yi_0 ge_0 luo_2 ji_2 jiu_0 shi_0 wo_3 $0a_0 wo_3 zi_4 ji_3 lai_2 you_2 zheng_4 fu_3 lai_2 chuang_4 zao_4 xian_4 jin_1 liu_2 $0a_0 wen_3 zhu_4 zhe_4 ge_0 zi_1 chan_3 fu_4 zhai_4 biao_3 jin_1 rong_2 ji_1 gou_4 jiu_0 bu_0 kuai_4 chu_0 shi_0 jin_1 rong_2 ji_1 gou_4 zhi_3 yao_4 bu_0 chu_0 shi_0 ne_4 yao_1 cong_2 yi_0 ge_0 zhang_3 qi_1 lai_2 kan_0 yi_4 qing_0 yi_0 jie_0 shu_4 zhi_1 hou_4 dui_0 ba_0 jing_0 ji_3 fu_2 dong_4 chu_0 xian_4 liao_3 zheng_4 chang_2 di_0 hui_1 fu_4 
+jin_1 rong_2 ji_1 gou_4 jiu_0 bu_0 kuai_4 chu_0 shi_0 jin_1 rong_2 ji_1 gou_4 zhi_3 yao_4 bu_0 chu_0 shi_0 ne_4 yao_1 cong_2 yi_0 ge_0 zhang_3 qi_1 lai_2 kan_0 yi_4 qing_0 yi_0 jie_0 shu_4 zhi_1 hou_4 dui_0 ba_0 jing_0 ji_3 fu_2 dong_4 chu_0 xian_4 liao_3 zheng_4 chang_2 di_0 hui_1 fu_4 jv_1 jie_0 ge_2 li_2 zai_4 jie_0 li_0 wo_3 zhang_3 shi_2 jian_4 mo_4 you_3 chu_0 qv_0 xiao_0 fei_4 mo_4 you_3 qv_0 zuo_4 yi_0 xie_1 qvn_2 jv_4 xing_0 di_0 huo_0 dong_4 $0a_0 mo_4 you_3 kan_0 dian_4 ying_3 mo_4 you_3 chu_0 qv_0 Kge_0 mo_4 you_3 mo_4 you_3 mo_4 you_3 chi_1 huo_3 guo_1 deng_3 deng_3 
+jv_1 jie_0 ge_2 li_2 zai_4 jie_0 li_0 wo_3 zhang_3 shi_2 jian_4 mo_4 you_3 chu_0 qv_0 xiao_0 fei_4 mo_4 you_3 qv_0 zuo_4 yi_0 xie_1 qvn_2 jv_4 xing_0 di_0 huo_0 dong_4 $0a_0 mo_4 you_3 kan_0 dian_4 ying_3 mo_4 you_3 chu_0 qv_0 Kge_0 mo_4 you_3 mo_4 you_3 mo_4 you_3 chi_1 huo_3 guo_1 deng_3 deng_3 wo_3 jiu_0 you_3 ke_3 neng_2 qv_0 chan_3 sheng_0 zhe_4 yang_4 di_0 yi_0 xie_1 xiao_0 fei_4 di_0 huo_0 dong_4 jin_4 $0er_3 ba_3 zhe_4 ge_0 jing_0 ji_3 ji_3 dai_4 dong_4 qi_3 lai_2 shen_2 zhi_4 you_3 ke_3 neng_2 ji_2 zhong_4 ji_2 zhong_4 di_0 yi_0 ge_0 xiao_0 fei_4 dui_0 ba_0 $0a_0 ba_3 zhi_1 qian_2 zhe_4 ge_0 diu_1 shi_0 di_0 jing_0 ji_3 huo_0 dong_4 ji_3 bu_0 hui_2 lai_2 dan_4 shi_0 ru_2 guo_3 yve_4 
+wo_3 jiu_0 you_3 ke_3 neng_2 qv_0 chan_3 sheng_0 zhe_4 yang_4 di_0 yi_0 xie_1 xiao_0 fei_4 di_0 huo_0 dong_4 jin_4 $0er_3 ba_3 zhe_4 ge_0 jing_0 ji_3 ji_3 dai_4 dong_4 qi_3 lai_2 shen_2 zhi_4 you_3 ke_3 neng_2 ji_2 zhong_4 ji_2 zhong_4 di_0 yi_0 ge_0 xiao_0 fei_4 dui_0 ba_0 $0a_0 ba_3 zhi_1 qian_2 zhe_4 ge_0 diu_1 shi_0 di_0 jing_0 ji_3 huo_0 dong_4 ji_3 bu_0 hui_2 lai_2 dan_4 shi_0 ru_2 guo_3 yve_4 wo_3 chu_0 xian_4 liao_3 zi_1 chan_3 fu_4 zhai_4 biao_3 feng_1 xian_3 bi_3 ru_2 yve_4 wo_3 shi_0 ye_4 liao_3 bi_3 ru_2 yve_4 wo_3 bei_4 zhe_4 ge_0 $0a_0 fang_0 dai_4 xin_4 yong_4 qia_3 ji_3 ya_4 si_3 liao_3 
+wo_3 chu_0 xian_4 liao_3 zi_1 chan_3 fu_4 zhai_4 biao_3 feng_1 xian_3 bi_3 ru_2 yve_4 wo_3 shi_0 ye_4 liao_3 bi_3 ru_2 yve_4 wo_3 bei_4 zhe_4 ge_0 $0a_0 fang_0 dai_4 xin_4 yong_4 qia_3 ji_3 ya_4 si_3 liao_3 $0a_0 shen_2 zhi_4 huan_2 you_3 kuai_4 yan_3 bian_4 wei_0 jin_1 rong_2 wei_1 ji_1 ne_4 yao_1 suo_3 yi_3 $0a_0 zheng_4 fu_3 yao_4 zuo_4 di_0 jiu_0 shi_0 zai_4 ni_3 
+$0a_0 shen_2 zhi_4 huan_2 you_3 kuai_4 yan_3 bian_4 wei_0 jin_1 rong_2 wei_1 ji_1 ne_4 yao_1 suo_3 yi_3 $0a_0 zheng_4 fu_3 yao_4 zuo_4 di_0 jiu_0 shi_0 zai_4 ni_3 ne_4 ji_3 ni_3 yi_0 xie_1 qian_0 huo_4 zhe_3 yve_4 ji_3 qi_3 ye_4 yi_0 xie_1 qian_0 rang_4 qi_3 ye_4 neng_2 gou_4 huo_0 xia_0 lai_2 zheng_4 chang_2 fa_0 gong_1 zi_1 ji_3 ni_3 yi_0 xie_1 qian_0 rang_4 ni_3 neng_2 gou_4 zheng_4 chang_2 di_0 zhe_4 ge_0 sheng_0 huo_0 rang_4 ni_3 neng_2 gou_4 jing_0 chang_2 di_0 qv_0 chang_2 fu_4 zhe_4 ge_0 zhe_4 ge_0 zhe_4 ge_0 xin_4 dai_4 
+ne_4 ji_3 ni_3 yi_0 xie_1 qian_0 huo_4 zhe_3 yve_4 ji_3 qi_3 ye_4 yi_0 xie_1 qian_0 rang_4 qi_3 ye_4 neng_2 gou_4 huo_0 xia_0 lai_2 zheng_4 chang_2 fa_0 gong_1 zi_1 ji_3 ni_3 yi_0 xie_1 qian_0 rang_4 ni_3 neng_2 gou_4 zheng_4 chang_2 di_0 zhe_4 ge_0 sheng_0 huo_0 rang_4 ni_3 neng_2 gou_4 jing_0 chang_2 di_0 qv_0 chang_2 fu_4 zhe_4 ge_0 zhe_4 ge_0 zhe_4 ge_0 xin_4 dai_4 $0a_0 wo_3 wo_3 duan_3 qi_1 jiu_0 $0a_0 wo_3 duan_3 qi_1 shi_0 shou_4 liao_3 xie_1 ying_3 xiang_3 dan_4 shi_0 ni_0 wo_3 di_0 zi_1 chan_3 fu_4 zhai_4 biao_3 huan_2 zai_4 ne_4 yao_1 yi_0 dan_4 yi_4 qing_0 yi_0 jie_0 shu_4 ne_4 yao_1 wo_3 jiu_0 kai_1 shi_3 chu_0 men_2 xiao_0 fei_4 
+$0a_0 wo_3 wo_3 duan_3 qi_1 jiu_0 $0a_0 wo_3 duan_3 qi_1 shi_0 shou_4 liao_3 xie_1 ying_3 xiang_3 dan_4 shi_0 ni_0 wo_3 di_0 zi_1 chan_3 fu_4 zhai_4 biao_3 huan_2 zai_4 ne_4 yao_1 yi_0 dan_4 yi_4 qing_0 yi_0 jie_0 shu_4 ne_4 yao_1 wo_3 jiu_0 kai_1 shi_3 chu_0 men_2 xiao_0 fei_4 jv_1 min_2 bu_4 men_2 du_1 fa_0 qian_0 ran_2 hou_4 $0e_0 
+jv_1 min_2 bu_4 men_2 du_1 fa_0 qian_0 ran_2 hou_4 $0e_0 ne_4 yao_1 zai_4 zhe_4 yang_4 di_0 yi_0 ge_0 bei_4 jing_3 zhi_1 xia_0 ne_4 yao_1 zi_1 ben_3 shi_0 chang_3 jiu_0 kai_1 shi_3 ba_3 zhe_4 ge_0 yi_4 qing_0 di_0 chong_4 ji_1 zhi_3 ding_4 jie_0 wei_0 yi_0 ge_0 duan_3 qi_1 feng_1 xian_3 $0er_3 mo_4 you_3 ding_4 jie_0 dao_4 yi_0 ge_0 zhang_3 qi_1 di_0 yi_0 ge_0 wei_1 ji_1 di_0 yi_0 ge_0 yi_0 ge_0 ke_3 neng_2 xing_0 
+ne_4 yao_1 zai_4 zhe_4 yang_4 di_0 yi_0 ge_0 bei_4 jing_3 zhi_1 xia_0 ne_4 yao_1 zi_1 ben_3 shi_0 chang_3 jiu_0 kai_1 shi_3 ba_3 zhe_4 ge_0 yi_4 qing_0 di_0 chong_4 ji_1 zhi_3 ding_4 jie_0 wei_0 yi_0 ge_0 duan_3 qi_1 feng_1 xian_3 $0er_3 mo_4 you_3 ding_4 jie_0 dao_4 yi_0 ge_0 zhang_3 qi_1 di_0 yi_0 ge_0 wei_1 ji_1 di_0 yi_0 ge_0 yi_0 ge_0 ke_3 neng_2 xing_0 suo_3 yi_3 $0a_0 zai_4 ci_3 qian_2 shi_0 chang_3 chu_0 xian_4 pu_4 die_1 zhi_1 hou_4 you_2 yv_2 da_0 jie_0 di_0 yv_4 qi_1 du_1 fei_1 chang_2 di_0 bei_1 guan_4 ne_4 yao_1 xian_4 zai_4 $0a_0 zheng_3 ge_0 zhe_4 ge_0 jing_0 ji_3 huo_0 dong_4 $0a_0 sui_1 ran_2 sui_1 ran_2 shi_0 dong_4 jie_0 liao_3 $0a_0 dan_4 shi_0 ni_0 $0a_0 
+suo_3 yi_3 $0a_0 zai_4 ci_3 qian_2 shi_0 chang_3 chu_0 xian_4 pu_4 die_1 zhi_1 hou_4 you_2 yv_2 da_0 jie_0 di_0 yv_4 qi_1 du_1 fei_1 chang_2 di_0 bei_1 guan_4 ne_4 yao_1 xian_4 zai_4 $0a_0 zheng_3 ge_0 zhe_4 ge_0 jing_0 ji_3 huo_0 dong_4 $0a_0 sui_1 ran_2 sui_1 ran_2 shi_0 dong_4 jie_0 liao_3 $0a_0 dan_4 shi_0 ni_0 $0a_0 xiang_0 dui_0 lai_2 jiang_3 bi_3 jiao_4 dao_4 wei_4 bi_3 jiao_4 ji_3 li_4 ne_4 yao_1 da_0 jie_0 $0a_0 xian_4 zai_4 da_0 jie_0 du_1 kai_1 shi_3 zhi_3 shi_0 ding_4 jie_0 yi_0 ge_0 duan_3 qi_1 di_0 yi_0 ge_0 chong_4 ji_1 
+xiang_0 dui_0 lai_2 jiang_3 bi_3 jiao_4 dao_4 wei_4 bi_3 jiao_4 ji_3 li_4 ne_4 yao_1 da_0 jie_0 $0a_0 xian_4 zai_4 da_0 jie_0 du_1 kai_1 shi_3 zhi_3 shi_0 ding_4 jie_0 yi_0 ge_0 duan_3 qi_1 di_0 yi_0 ge_0 chong_4 ji_1 yi_0 ge_0 hen_3 ming_2 xian_3 di_0 yi_0 ge_0 fan_3 tan_0 $0a_0 dan_4 shi_0 ni_0 xian_4 zai_4 di_0 wen_4 ti_2 jiu_0 shi_0 $0a_0 fan_3 tan_0 liao_3 zhi_1 hou_4 dui_0 ba_0 wo_3 men_0 xian_4 zai_4 ken_3 ding_4 guan_1 zhu_4 di_0 shi_0 fan_3 tan_0 liao_3 zhi_1 hou_4 
+yi_0 ge_0 hen_3 ming_2 xian_3 di_0 yi_0 ge_0 fan_3 tan_0 $0a_0 dan_4 shi_0 ni_0 xian_4 zai_4 di_0 wen_4 ti_2 jiu_0 shi_0 $0a_0 fan_3 tan_0 liao_3 zhi_1 hou_4 dui_0 ba_0 wo_3 men_0 xian_4 zai_4 ken_3 ding_4 guan_1 zhu_4 di_0 shi_0 fan_3 tan_0 liao_3 zhi_1 hou_4 hou_4 xv_4 shi_0 chang_3 kuai_4 zen_3 yao_1 zou_3 ne_4 yao_1 zhe_4 yi_0 dian_0 wo_3 xiang_0 xin_4 ying_0 gai_1 shi_0 hou_4 mian_0 tou_2 zi_1 zhe_3 du_1 bi_3 jiao_4 guan_1 xin_0 di_0 yi_0 ge_0 luo_2 ji_2 ne_4 yao_1 hou_4 xv_4 di_0 hua_0 shi_0 ji_4 shang_0 wo_3 men_0 ren_4 wei_0 ni_0 $0e_0 zheng_3 ge_0 zhe_4 ge_0 
+hou_4 xv_4 shi_0 chang_3 kuai_4 zen_3 yao_1 zou_3 ne_4 yao_1 zhe_4 yi_0 dian_0 wo_3 xiang_0 xin_4 ying_0 gai_1 shi_0 hou_4 mian_0 tou_2 zi_1 zhe_3 du_1 bi_3 jiao_4 guan_1 xin_0 di_0 yi_0 ge_0 luo_2 ji_2 ne_4 yao_1 hou_4 xv_4 di_0 hua_0 shi_0 ji_4 shang_0 wo_3 men_0 ren_4 wei_0 ni_0 $0e_0 zheng_3 ge_0 zhe_4 ge_0 $0a_0 huan_2 shi_0 mo_4 you_3 de_0 dao_4 yi_0 ge_0 wan_2 qvan_2 di_0 shi_4 fang_4 $0a_0 mo_4 you_3 de_0 dao_4 yi_0 ge_0 wan_2 qvan_2 di_0 shi_4 fang_4 $0a_0 yi_0 fang_1 mian_0 $0a_0 cong_2 yi_4 qing_0 ben_3 shen_1 di_0 jve_2 du_0 lai_2 jiang_3 
+$0a_0 huan_2 shi_0 mo_4 you_3 de_0 dao_4 yi_0 ge_0 wan_2 qvan_2 di_0 shi_4 fang_4 $0a_0 mo_4 you_3 de_0 dao_4 yi_0 ge_0 wan_2 qvan_2 di_0 shi_4 fang_4 $0a_0 yi_0 fang_1 mian_0 $0a_0 cong_2 yi_4 qing_0 ben_3 shen_1 di_0 jve_2 du_0 lai_2 jiang_3 ne_4 yao_1 zhe_4 ben_3 shen_1 jiu_0 kuai_4 you_3 yi_0 ge_0 zai_4 du_0 bao_4 fa_0 di_0 yi_0 ge_0 ke_3 neng_2 xing_0 $0a_0 zhe_4 ge_0 shi_0 zhe_4 ge_0 shi_0 di_4 yi_0 ge_0 $0a_0 zhe_4 ge_0 shi_0 di_4 yi_0 ge_0 
+ne_4 yao_1 zhe_4 ben_3 shen_1 jiu_0 kuai_4 you_3 yi_0 ge_0 zai_4 du_0 bao_4 fa_0 di_0 yi_0 ge_0 ke_3 neng_2 xing_0 $0a_0 zhe_4 ge_0 shi_0 zhe_4 ge_0 shi_0 di_4 yi_0 ge_0 $0a_0 zhe_4 ge_0 shi_0 di_4 yi_0 ge_0 jv_1 min_2 bu_4 men_2 gen_0 qi_3 ye_4 bu_4 men_2 ta_1 shou_0 shang_0 shi_0 you_3 zu_2 gou_4 di_0 zhe_4 ge_0 xian_4 jin_1 chu_3 bei_4 di_0 hua_0 
+jv_1 min_2 bu_4 men_2 gen_0 qi_3 ye_4 bu_4 men_2 ta_1 shou_0 shang_0 shi_0 you_3 zu_2 gou_4 di_0 zhe_4 ge_0 xian_4 jin_1 chu_3 bei_4 di_0 hua_0 bi_3 ru_2 yve_4 wo_3 shou_0 shang_0 you_3 hen_3 duo_1 qian_0 ne_4 ji_2 shi_0 wo_3 shi_0 ye_4 liao_3 wo_3 wo_3 wo_3 shou_0 shang_0 di_0 chu_3 bei_4 di_0 xian_4 jin_1 hao_3 ji_3 bai_3 wan_4 xian_4 jin_1 dui_0 ba_0 jia_3 she_4 wo_3 you_3 zhe_4 yao_1 duo_1 
+bi_3 ru_2 yve_4 wo_3 shou_0 shang_0 you_3 hen_3 duo_1 qian_0 ne_4 ji_2 shi_0 wo_3 shi_0 ye_4 liao_3 wo_3 wo_3 wo_3 shou_0 shang_0 di_0 chu_3 bei_4 di_0 xian_4 jin_1 hao_3 ji_3 bai_3 wan_4 xian_4 jin_1 dui_0 ba_0 jia_3 she_4 wo_3 you_3 zhe_4 yao_1 duo_1 jiu_0 shi_0 lai_2 lai_2 lai_2 lai_2 jin_4 xing_2 wo_3 zheng_4 chang_2 di_0 zhe_4 ge_0 $0a_0 huan_2 ben_3 fu_4 xi_0 di_0 yi_0 ge_0 yi_0 ge_0 yi_0 ge_0 cao_1 zuo_0 dan_4 shi_0 
+jiu_0 shi_0 lai_2 lai_2 lai_2 lai_2 jin_4 xing_2 wo_3 zheng_4 chang_2 di_0 zhe_4 ge_0 $0a_0 huan_2 ben_3 fu_4 xi_0 di_0 yi_0 ge_0 yi_0 ge_0 yi_0 ge_0 cao_1 zuo_0 dan_4 shi_0 suo_3 yi_3 zhe_4 ge_0 shi_2 hou_0 jiu_0 kan_0 jiu_0 yao_4 jiu_0 de_0 gen_0 zhe_4 ge_0 $0a_0 jv_1 min_2 bu_4 men_2 ta_1 zi_4 shen_1 di_0 zhe_4 ge_0 cai_2 wu_0 zhuang_4 kuang_4 di_0 xian_4 xiang_4 $0er_3 ta_1 zi_4 shen_1 di_0 cai_2 wu_0 zhuang_4 kuang_4 jiu_0 fei_1 chang_2 xiang_0 guan_1 
+suo_3 yi_3 zhe_4 ge_0 shi_2 hou_0 jiu_0 kan_0 jiu_0 yao_4 jiu_0 de_0 gen_0 zhe_4 ge_0 $0a_0 jv_1 min_2 bu_4 men_2 ta_1 zi_4 shen_1 di_0 zhe_4 ge_0 cai_2 wu_0 zhuang_4 kuang_4 di_0 xian_4 xiang_4 $0er_3 ta_1 zi_4 shen_1 di_0 cai_2 wu_0 zhuang_4 kuang_4 jiu_0 fei_1 chang_2 xiang_0 guan_1 $0a_0 ling_2 ba_0 nian_2 yi_3 hou_4 ta_1 di_0 zheng_3 ge_0 zhe_4 ge_0 fei_1 nong_2 jiu_0 ye_4 $0a_0 gen_0 di_1 duan_1 fu_0 wu_0 ye_4 xiang_0 guan_1 di_0 fei_1 nong_2 jiu_0 ye_4 zhan_4 bi_3 gao_1 da_0 bai_3 fen_0 zhi_1 san_1 shi_2 
+$0a_0 ling_2 ba_0 nian_2 yi_3 hou_4 ta_1 di_0 zheng_3 ge_0 zhe_4 ge_0 fei_1 nong_2 jiu_0 ye_4 $0a_0 gen_0 di_1 duan_1 fu_0 wu_0 ye_4 xiang_0 guan_1 di_0 fei_1 nong_2 jiu_0 ye_4 zhan_4 bi_3 gao_1 da_0 bai_3 fen_0 zhi_1 san_1 shi_2 jin_1 $0a_0 jin_1 rong_2 wei_1 ji_1 zhi_1 qian_2 shi_0 gang_1 gang_1 dao_4 bai_3 fen_0 zhi_1 san_1 shi_2 ran_2 hou_4 jin_1 rong_2 wei_1 ji_1 $0a_0 ran_2 hou_4 dao_4 xian_4 zai_4 ying_0 gai_1 shi_0 $0a_0 bai_3 fen_0 zhi_1 san_1 shi_2 si_4 dian_0 ba_0 san_1 shi_2 wu_3 zuo_3 you_4 
+jin_1 $0a_0 jin_1 rong_2 wei_1 ji_1 zhi_1 qian_2 shi_0 gang_1 gang_1 dao_4 bai_3 fen_0 zhi_1 san_1 shi_2 ran_2 hou_4 jin_1 rong_2 wei_1 ji_1 $0a_0 ran_2 hou_4 dao_4 xian_4 zai_4 ying_0 gai_1 shi_0 $0a_0 bai_3 fen_0 zhi_1 san_1 shi_2 si_4 dian_0 ba_0 san_1 shi_2 wu_3 zuo_3 you_4 $0a_0 zhe_4 shi_0 shi_0 yao_1 yi_0 si_0 ni_0 jiu_0 shi_0 yve_4 $0a_0 
+$0a_0 zhe_4 shi_0 shi_0 yao_1 yi_0 si_0 ni_0 jiu_0 shi_0 yve_4 $0a_0 di_4 yi_0 ge_0 jiu_0 shi_0 ta_1 shou_4 dao_4 yi_4 qing_0 di_0 chong_4 ji_1 li_4 li_0 ying_3 xiang_3 geng_4 da_0 yin_1 wei_0 di_1 duan_1 fu_0 wu_0 ye_4 geng_4 duo_1 di_0 shi_0 yi_0 xie_1 xian_0 xia_0 xiao_0 fei_4 huo_0 dong_4 ta_1 bi_4 xv_1 de_0 mian_0 dui_0 ke_4 hu_0 di_0 bi_3 ru_2 yve_4 $0a_0 xiang_4 
+di_4 yi_0 ge_0 jiu_0 shi_0 ta_1 shou_4 dao_4 yi_4 qing_0 di_0 chong_4 ji_1 li_4 li_0 ying_3 xiang_3 geng_4 da_0 yin_1 wei_0 di_1 duan_1 fu_0 wu_0 ye_4 geng_4 duo_1 di_0 shi_0 yi_0 xie_1 xian_0 xia_0 xiao_0 fei_4 huo_0 dong_4 ta_1 bi_4 xv_1 de_0 mian_0 dui_0 ke_4 hu_0 di_0 bi_3 ru_2 yve_4 $0a_0 xiang_4 $0e_0 di_0 fang_1 fu_0 wu_0 ye_4 di_0 yi_0 ge_0 jiu_0 ye_4 $0a_0 huan_2 you_3 huan_2 you_3 yi_0 xie_1 qi_2 ta_1 di_0 yi_0 xie_1 zhe_4 ge_0 
+$0e_0 di_0 fang_1 fu_0 wu_0 ye_4 di_0 yi_0 ge_0 jiu_0 ye_4 $0a_0 huan_2 you_3 huan_2 you_3 yi_0 xie_1 qi_2 ta_1 di_0 yi_0 xie_1 zhe_4 ge_0 $0a_0 bi_3 ru_2 yve_4 zhe_4 ge_0 kai_1 you_1 bu_4 $0a_0 bi_3 ru_2 yve_4 zuo_4 yi_0 xie_1 zhe_4 zhong_3 
+$0a_0 bi_3 ru_2 yve_4 zhe_4 ge_0 kai_1 you_1 bu_4 $0a_0 bi_3 ru_2 yve_4 zuo_4 yi_0 xie_1 zhe_4 zhong_3 zhe_4 xie_1 du_1 zhu_3 yv_2 $0a_0 xiang_0 dui_0 lai_2 jiang_3 shi_0 zhong_4 di_1 duan_1 fu_0 wu_0 ye_4 ne_4 yao_1 zhe_4 yi_0 bu_4 fen_0 jiu_0 ye_4 ni_0 ta_1 shi_0 geng_4 rong_2 yi_4 shou_4 dao_4 yi_4 qing_0 ying_3 xiang_3 di_0 yin_1 wei_0 jv_1 jie_0 yi_0 ge_2 li_2 ne_4 yao_1 xian_0 xia_0 xiao_0 fei_4 jiu_0 mo_4 you_3 liao_3 
+zhe_4 xie_1 du_1 zhu_3 yv_2 $0a_0 xiang_0 dui_0 lai_2 jiang_3 shi_0 zhong_4 di_1 duan_1 fu_0 wu_0 ye_4 ne_4 yao_1 zhe_4 yi_0 bu_4 fen_0 jiu_0 ye_4 ni_0 ta_1 shi_0 geng_4 rong_2 yi_4 shou_4 dao_4 yi_4 qing_0 ying_3 xiang_3 di_0 yin_1 wei_0 jv_1 jie_0 yi_0 ge_2 li_2 ne_4 yao_1 xian_0 xia_0 xiao_0 fei_4 jiu_0 mo_4 you_3 liao_3 $0a_0 di_4 $0er_4 ge_0 jiu_0 shi_0 mei_3 guo_2 di_0 ta_1 di_0 zhe_4 ge_0 jv_1 min_2 bu_4 men_2 ni_0 $0e_0 huan_2 you_3 yi_0 ge_0 huan_2 huan_2 you_3 yi_0 ge_0 wen_4 ti_2 jiu_0 shi_0 $0a_0 ta_1 di_0 jie_0 gou_4 ta_1 di_0 jie_0 gou_4 te_4 zheng_1 fei_1 chang_2 di_0 zhe_4 ge_0 fen_0 hua_4 $0a_0 
+$0a_0 di_4 $0er_4 ge_0 jiu_0 shi_0 mei_3 guo_2 di_0 ta_1 di_0 zhe_4 ge_0 jv_1 min_2 bu_4 men_2 ni_0 $0e_0 huan_2 you_3 yi_0 ge_0 huan_2 huan_2 you_3 yi_0 ge_0 wen_4 ti_2 jiu_0 shi_0 $0a_0 ta_1 di_0 jie_0 gou_4 ta_1 di_0 jie_0 gou_4 te_4 zheng_1 fei_1 chang_2 di_0 zhe_4 ge_0 fen_0 hua_4 $0a_0 jiu_0 shi_0 fu_0 wu_0 ye_4 li_0 mian_0 $0a_0 xin_1 zeng_1 liao_3 fei_1 nong_2 fu_0 wu_0 ye_4 li_0 mian_0 you_3 yi_0 bu_4 fen_0 shi_0 jin_1 rong_2 di_0 ke_1 ji_4 ne_4 yao_1 jin_1 rong_2 ke_1 ji_4 da_0 jie_0 du_1 zhi_4 dao_0 zhe_4 yi_0 kuai_4 shou_4 dao_4 yi_4 qing_0 di_0 ying_3 xiang_3 shi_0 hen_3 xiao_3 di_0 yin_1 wei_0 du_1 shi_0 yi_0 xie_1 shang_0 ban_1 gong_1 dan_4 shi_0 
+jiu_0 shi_0 fu_0 wu_0 ye_4 li_0 mian_0 $0a_0 xin_1 zeng_1 liao_3 fei_1 nong_2 fu_0 wu_0 ye_4 li_0 mian_0 you_3 yi_0 bu_4 fen_0 shi_0 jin_1 rong_2 di_0 ke_1 ji_4 ne_4 yao_1 jin_1 rong_2 ke_1 ji_4 da_0 jie_0 du_1 zhi_4 dao_0 zhe_4 yi_0 kuai_4 shou_4 dao_4 yi_4 qing_0 di_0 ying_3 xiang_3 shi_0 hen_3 xiao_3 di_0 yin_1 wei_0 du_1 shi_0 yi_0 xie_1 shang_0 ban_1 gong_1 dan_4 shi_0 $0er_3 qie_3 ta_1 di_0 zhe_4 ge_0 jiu_0 ye_4 di_0 zhe_4 ge_0 $0e_0 zheng_3 ge_0 zhe_4 ge_0 gong_1 zi_1 lai_2 yvan_2 
+$0er_3 qie_3 ta_1 di_0 zhe_4 ge_0 jiu_0 ye_4 di_0 zhe_4 ge_0 $0e_0 zheng_3 ge_0 zhe_4 ge_0 gong_1 zi_1 lai_2 yvan_2 ne_4 yao_1 suo_3 wei_4 di_0 xiao_3 shi_2 gong_1 zi_1 jiu_0 shi_0 ni_3 zai_4 gong_1 zuo_0 di_0 shi_2 hou_0 wo_3 jiu_0 fa_0 ji_3 ni_3 ni_3 bu_0 gong_1 zuo_0 di_0 shi_2 hou_0 wo_3 jiu_0 bu_0 fa_0 liao_3 ne_4 yao_1 yi_4 qing_0 yi_3 lai_2 da_0 jie_0 du_1 mo_4 shi_0 gan_0 ne_4 zi_4 ran_2 $0er_3 ran_2 jiu_0 mo_4 you_3 gong_1 zi_1 liao_3 
+ne_4 yao_1 suo_3 wei_4 di_0 xiao_3 shi_2 gong_1 zi_1 jiu_0 shi_0 ni_3 zai_4 gong_1 zuo_0 di_0 shi_2 hou_0 wo_3 jiu_0 fa_0 ji_3 ni_3 ni_3 bu_0 gong_1 zuo_0 di_0 shi_2 hou_0 wo_3 jiu_0 bu_0 fa_0 liao_3 ne_4 yao_1 yi_4 qing_0 yi_3 lai_2 da_0 jie_0 du_1 mo_4 shi_0 gan_0 ne_4 zi_4 ran_2 $0er_3 ran_2 jiu_0 mo_4 you_3 gong_1 zi_1 liao_3 $0a_0 lu_4 qian_1 lu_4 bai_3 wan_4 zuo_3 you_4 zhe_4 du_1 zhu_3 yv_2 shou_4 dao_4 yi_4 qing_0 ying_3 xiang_3 zhe_4 zhong_3 
+$0a_0 lu_4 qian_1 lu_4 bai_3 wan_4 zuo_3 you_4 zhe_4 du_1 zhu_3 yv_2 shou_4 dao_4 yi_4 qing_0 ying_3 xiang_3 zhe_4 zhong_3 ne_4 yao_1 zai_4 zhe_4 ge_0 zhe_4 ge_0 shi_2 hou_0 ni_0 wo_3 men_0 jiu_0 ke_3 yi_3 kan_0 dao_4 mei_3 guo_2 di_0 zhe_4 ge_0 shen_1 qing_3 shi_0 ye_4 jin_1 di_0 ren_0 shu_0 huan_2 zai_4 chi_2 xv_4 biao_1 sheng_1 ne_4 yao_1 hou_4 xv_4 di_0 shi_0 ye_4 shuai_4 ke_3 neng_2 kuai_4 shang_0 sheng_1 dao_4 bai_3 fen_0 zhi_1 shi_2 dao_4 $0er_4 shi_2 di_0 bai_3 fen_0 zhi_1 $0er_4 shi_2 yi_3 shang_0 
+ne_4 yao_1 zai_4 zhe_4 ge_0 zhe_4 ge_0 shi_2 hou_0 ni_0 wo_3 men_0 jiu_0 ke_3 yi_3 kan_0 dao_4 mei_3 guo_2 di_0 zhe_4 ge_0 shen_1 qing_3 shi_0 ye_4 jin_1 di_0 ren_0 shu_0 huan_2 zai_4 chi_2 xv_4 biao_1 sheng_1 ne_4 yao_1 hou_4 xv_4 di_0 shi_0 ye_4 shuai_4 ke_3 neng_2 kuai_4 shang_0 sheng_1 dao_4 bai_3 fen_0 zhi_1 shi_2 dao_4 $0er_4 shi_2 di_0 bai_3 fen_0 zhi_1 $0er_4 shi_2 yi_3 shang_0 $0e_0 ta_1 ben_3 shen_1 ta_1 di_0 zhe_4 ge_0 gang_1 gang_1 jiang_3 dao_4 liao_3 ta_1 shou_0 shang_0 di_0 zhe_4 ge_0 chu_3 bei_4 di_0 xian_4 jin_1 ye_3 shi_0 bu_0 duo_1 di_0 $0a_0 
+$0e_0 ta_1 ben_3 shen_1 ta_1 di_0 zhe_4 ge_0 gang_1 gang_1 jiang_3 dao_4 liao_3 ta_1 shou_0 shang_0 di_0 zhe_4 ge_0 chu_3 bei_4 di_0 xian_4 jin_1 ye_3 shi_0 bu_0 duo_1 di_0 $0a_0 ke_3 neng_2 jin_1 rong_2 ke_1 ji_4 bu_4 men_2 ta_1 ben_3 shen_1 gong_1 zi_1 ye_3 bi_3 jiao_4 gao_1 ran_2 hou_4 ta_1 geng_4 rong_2 yi_4 xian_1 shang_0 $0a_0 suo_3 yi_3 ta_1 shou_4 dao_4 ying_3 xiang_3 hen_3 xiao_3 dan_4 shi_0 $0a_0 di_1 shou_1 ru_4 bu_4 men_2 ta_1 di_0 shou_1 ru_4 bi_3 jiao_4 di_1 
+ke_3 neng_2 jin_1 rong_2 ke_1 ji_4 bu_4 men_2 ta_1 ben_3 shen_1 gong_1 zi_1 ye_3 bi_3 jiao_4 gao_1 ran_2 hou_4 ta_1 geng_4 rong_2 yi_4 xian_1 shang_0 $0a_0 suo_3 yi_3 ta_1 shou_4 dao_4 ying_3 xiang_3 hen_3 xiao_3 dan_4 shi_0 $0a_0 di_1 shou_1 ru_4 bu_4 men_2 ta_1 di_0 shou_1 ru_4 bi_3 jiao_4 di_1 $0a_0 $0er_3 qie_3 ta_1 di_0 gang_4 gan_3 ye_3 kuai_4 bi_3 jiao_4 gao_1 ne_4 yao_1 wo_3 men_0 wo_3 men_0 kan_0 dao_4 $0a_0 kan_0 kan_0 kan_0 mei_3 guo_2 you_3 yi_0 ge_0 tiao_2 zha_1 jiu_0 shi_0 yve_4 zui_4 di_1 shou_1 ru_4 qvn_2 ti_3 li_0 mian_0 
+$0a_0 $0er_3 qie_3 ta_1 di_0 gang_4 gan_3 ye_3 kuai_4 bi_3 jiao_4 gao_1 ne_4 yao_1 wo_3 men_0 wo_3 men_0 kan_0 dao_4 $0a_0 kan_0 kan_0 kan_0 mei_3 guo_2 you_3 yi_0 ge_0 tiao_2 zha_1 jiu_0 shi_0 yve_4 zui_4 di_1 shou_1 ru_4 qvn_2 ti_3 li_0 mian_0 ne_4 yao_1 $0a_0 ta_1 di_0 zhe_4 ge_0 $0e_0 cai_2 zheng_4 shou_1 ru_4 shi_0 ping_2 heng_2 cai_2 wu_0 shou_1 ru_4 shi_0 ping_2 heng_2 di_0 shi_0 bai_3 fen_0 si_4 shi_2 zuo_3 you_4 ne_4 yao_1 ye_3 jiu_0 shi_0 yve_4 qiang_1 jin_4 bai_3 fen_0 qi_1 shi_2 di_0 ren_0 qvn_2 
+ne_4 yao_1 $0a_0 ta_1 di_0 zhe_4 ge_0 $0e_0 cai_2 zheng_4 shou_1 ru_4 shi_0 ping_2 heng_2 cai_2 wu_0 shou_1 ru_4 shi_0 ping_2 heng_2 di_0 shi_0 bai_3 fen_0 si_4 shi_2 zuo_3 you_4 ne_4 yao_1 ye_3 jiu_0 shi_0 yve_4 qiang_1 jin_4 bai_3 fen_0 qi_1 shi_2 di_0 ren_0 qvn_2 shi_0 gang_1 gang_1 ping_2 heng_2 ta_1 di_0 zhe_4 ge_0 cai_2 wu_0 zhuang_4 kuang_4 $0e_0 huan_2 shi_0 you_3 xie_1 chi_4 $0e_0 huan_2 huan_2 you_3 xie_1 chi_4 zi_4 di_0 zhuang_4 kuang_4 ne_4 yao_1 yi_0 dan_4 you_3 yi_4 qing_0 dui_0 ba_0 
+shi_0 gang_1 gang_1 ping_2 heng_2 ta_1 di_0 zhe_4 ge_0 cai_2 wu_0 zhuang_4 kuang_4 $0e_0 huan_2 shi_0 you_3 xie_1 chi_4 $0e_0 huan_2 huan_2 you_3 xie_1 chi_4 zi_4 di_0 zhuang_4 kuang_4 ne_4 yao_1 yi_0 dan_4 you_3 yi_4 qing_0 dui_0 ba_0 suo_3 yi_3 zhe_4 yang_4 di_0 hua_0 kuai_4 chan_3 sheng_0 yi_0 ge_0 fei_1 chang_2 da_0 di_0 yi_0 ge_0 jv_1 min_2 bu_4 men_2 di_0 yi_0 ge_0 zhai_4 wu_0 feng_1 xian_3 $0a_0 ne_4 yao_1 jiu_0 shi_0 di_4 yi_0 ge_0 dian_0 jiu_0 shi_0 zai_4 yi_0 ge_0 $0a_0 zheng_3 ge_0 zhe_4 ge_0 gao_1 gang_4 gan_3 di_0 bei_4 jing_3 xia_0 zai_4 zhe_4 ge_0 $0e_0 
+suo_3 yi_3 zhe_4 yang_4 di_0 hua_0 kuai_4 chan_3 sheng_0 yi_0 ge_0 fei_1 chang_2 da_0 di_0 yi_0 ge_0 jv_1 min_2 bu_4 men_2 di_0 yi_0 ge_0 zhai_4 wu_0 feng_1 xian_3 $0a_0 ne_4 yao_1 jiu_0 shi_0 di_4 yi_0 ge_0 dian_0 jiu_0 shi_0 zai_4 yi_0 ge_0 $0a_0 zheng_3 ge_0 zhe_4 ge_0 gao_1 gang_4 gan_3 di_0 bei_4 jing_3 xia_0 zai_4 zhe_4 ge_0 $0e_0 suo_3 yi_3 ta_1 di_0 jiu_0 ye_4 chan_3 sheng_0 liao_3 yi_0 ge_0 fen_0 hua_4 $0a_0 jin_1 rong_2 ke_1 ji_4 shi_0 yi_0 bu_4 fen_0 
+suo_3 yi_3 ta_1 di_0 jiu_0 ye_4 chan_3 sheng_0 liao_3 yi_0 ge_0 fen_0 hua_4 $0a_0 jin_1 rong_2 ke_1 ji_4 shi_0 yi_0 bu_4 fen_0 dan_4 zhe_4 xie_1 ren_0 ni_0 huan_2 you_3 huan_2 you_3 duo_1 duo_1 shao_3 shao_3 du_1 you_3 yi_0 xie_1 $0a_0 
+dan_4 zhe_4 xie_1 ren_0 ni_0 huan_2 you_3 huan_2 you_3 duo_1 duo_1 shao_3 shao_3 du_1 you_3 yi_0 xie_1 $0a_0 zhe_4 ge_0 zhe_4 ge_0 zhe_4 ge_0 zhu_4 fang_0 dai_4 kuan_3 huan_2 you_3 yi_0 xie_1 zhe_4 ge_0 zhu_4 xve_2 dai_4 kuan_3 $0a_0 suo_3 yi_3 dui_0 ta_1 men_0 $0er_3 yan_2 $0a_0 
+zhe_4 ge_0 zhe_4 ge_0 zhe_4 ge_0 zhu_4 fang_0 dai_4 kuan_3 huan_2 you_3 yi_0 xie_1 zhe_4 ge_0 zhu_4 xve_2 dai_4 kuan_3 $0a_0 suo_3 yi_3 dui_0 ta_1 men_0 $0er_3 yan_2 $0a_0 jiu_0 ru_2 guo_3 qi_3 ye_4 bu_4 men_2 ta_1 chu_3 bei_4 di_0 xian_4 jin_1 ne_4 yao_1 qi_3 ye_4 bu_4 men_2 di_0 ya_4 li_4 jiu_0 kuai_4 bi_3 jiao_4 xiao_3 dui_0 ba_0 dan_4 shi_0 wo_3 men_0 
+jiu_0 ru_2 guo_3 qi_3 ye_4 bu_4 men_2 ta_1 chu_3 bei_4 di_0 xian_4 jin_1 ne_4 yao_1 qi_3 ye_4 bu_4 men_2 di_0 ya_4 li_4 jiu_0 kuai_4 bi_3 jiao_4 xiao_3 dui_0 ba_0 dan_4 shi_0 wo_3 men_0 $0a_0 jin_1 rong_2 wei_1 ji_1 zhi_1 hou_4 ne_4 yao_1 hui_2 gou_4 $0a_0 shi_0 shi_0 zui_4 zhu_3 yao_4 qv_1 dong_4 mei_3 gu_0 shang_0 zhang_3 di_0 yi_0 ge_0 luo_2 ji_2 wo_3 men_0 wo_3 men_0 wo_3 men_0 ye_3 kan_0 dao_4 zheng_3 ge_0 zhe_4 ge_0 jin_1 rong_2 zi_1 ben_3 shi_0 chang_3 di_0 yi_0 ge_0 zi_1 jin_1 liu_2 dong_4 di_0 yi_0 ge_0 jie_0 gou_4 
+$0a_0 jin_1 rong_2 wei_1 ji_1 zhi_1 hou_4 ne_4 yao_1 hui_2 gou_4 $0a_0 shi_0 shi_0 zui_4 zhu_3 yao_4 qv_1 dong_4 mei_3 gu_0 shang_0 zhang_3 di_0 yi_0 ge_0 luo_2 ji_2 wo_3 men_0 wo_3 men_0 wo_3 men_0 ye_3 kan_0 dao_4 zheng_3 ge_0 zhe_4 ge_0 jin_1 rong_2 zi_1 ben_3 shi_0 chang_3 di_0 yi_0 ge_0 zi_1 jin_1 liu_2 dong_4 di_0 yi_0 ge_0 jie_0 gou_4 zi_4 ji_3 di_0 mai_3 gu_0 piao_4 $0a_0 di_4 $0er_4 ge_0 di_4 $0er_4 da_0 zi_1 jin_1 liu_2 he_0 di_0 ETFda_0 jie_0 du_1 zhi_4 dao_0 ETFfa_0 sheng_0 di_0 hen_3 kuai_0 ta_1 shi_0 zui_4 da_0 di_0 yi_0 ge_0 
+zi_4 ji_3 di_0 mai_3 gu_0 piao_4 $0a_0 di_4 $0er_4 ge_0 di_4 $0er_4 da_0 zi_1 jin_1 liu_2 he_0 di_0 ETFda_0 jie_0 du_1 zhi_4 dao_0 ETFfa_0 sheng_0 di_0 hen_3 kuai_0 ta_1 shi_0 zui_4 da_0 di_0 yi_0 ge_0 ne_4 yao_1 hui_2 gou_4 $0a_0 shi_0 ji_4 shang_0 shi_0 dui_0 xian_4 jin_1 liu_2 shi_0 you_3 tou_2 zi_1 di_0 wei_0 shi_0 yao_1 mei_3 guo_2 qi_3 ye_4 xi_3 huan_0 hui_2 gou_4 yi_0 fang_1 mian_0 shi_0 yin_1 wei_0 $0a_0 zhe_4 ge_0 shi_0 ti_3 di_0 hui_2 bao_4 shuai_4 $0a_0 bu_0 shi_0 te_4 bie_0 hao_3 
+ne_4 yao_1 hui_2 gou_4 $0a_0 shi_0 ji_4 shang_0 shi_0 dui_0 xian_4 jin_1 liu_2 shi_0 you_3 tou_2 zi_1 di_0 wei_0 shi_0 yao_1 mei_3 guo_2 qi_3 ye_4 xi_3 huan_0 hui_2 gou_4 yi_0 fang_1 mian_0 shi_0 yin_1 wei_0 $0a_0 zhe_4 ge_0 shi_0 ti_3 di_0 hui_2 bao_4 shuai_4 $0a_0 bu_0 shi_0 te_4 bie_0 hao_3 ne_4 yao_1 cong_2 wai_4 bu_4 jve_2 du_0 lai_2 jiang_3 yi_0 ge_0 yi_0 fang_1 mian_0 qi_3 ye_4 ru_2 guo_3 zi_4 ji_3 zai_4 hui_2 gou_4 ne_4 jiu_0 xiang_0 dang_0 yv_2 ba_3 zhe_4 ge_0 qian_0 dui_0 ba_0 yong_4 lai_2 mai_3 liao_3 zi_4 jie_0 di_0 gu_0 piao_4 ne_4 yao_1 dui_0 tou_2 zi_1 zhe_3 lai_2 jiang_3 
+ne_4 yao_1 cong_2 wai_4 bu_4 jve_2 du_0 lai_2 jiang_3 yi_0 ge_0 yi_0 fang_1 mian_0 qi_3 ye_4 ru_2 guo_3 zi_4 ji_3 zai_4 hui_2 gou_4 ne_4 jiu_0 xiang_0 dang_0 yv_2 ba_3 zhe_4 ge_0 qian_0 dui_0 ba_0 yong_4 lai_2 mai_3 liao_3 zi_4 jie_0 di_0 gu_0 piao_4 ne_4 yao_1 dui_0 tou_2 zi_1 zhe_3 lai_2 jiang_3 ta_1 mai_3 liao_3 zi_4 ji_3 di_0 gu_0 piao_4 ne_4 yao_1 jiu_0 xiang_0 dang_0 yv_2 zhe_4 ge_0 qian_0 ye_3 mo_4 you_3 xia_1 yong_4 ma_0 suo_3 yi_3 zhe_4 ge_0 jiu_0 xiang_0 dang_0 yv_2 xiang_2 jian_3 xiang_2 di_1 liao_3 zhe_4 ge_0 dai_4 li_0 cheng_2 ben_3 
+ta_1 mai_3 liao_3 zi_4 ji_3 di_0 gu_0 piao_4 ne_4 yao_1 jiu_0 xiang_0 dang_0 yv_2 zhe_4 ge_0 qian_0 ye_3 mo_4 you_3 xia_1 yong_4 ma_0 suo_3 yi_3 zhe_4 ge_0 jiu_0 xiang_0 dang_0 yv_2 xiang_2 jian_3 xiang_2 di_1 liao_3 zhe_4 ge_0 dai_4 li_0 cheng_2 ben_3 ne_4 yao_1 di_4 $0er_4 ge_0 ni_0 jiu_0 shi_0 ben_3 shen_1 hui_2 guo_2 jiu_0 shi_0 yi_0 ge_0 zi_4 jie_0 gong_0 si_0 kan_0 hao_3 zi_4 jie_0 $0a_0 gong_0 si_0 gu_0 piao_4 di_0 yi_0 ge_0 xin_4 hao_0 ma_0 
+ne_4 yao_1 di_4 $0er_4 ge_0 ni_0 jiu_0 shi_0 ben_3 shen_1 hui_2 guo_2 jiu_0 shi_0 yi_0 ge_0 zi_4 jie_0 gong_0 si_0 kan_0 hao_3 zi_4 jie_0 $0a_0 gong_0 si_0 gu_0 piao_4 di_0 yi_0 ge_0 xin_4 hao_0 ma_0 zi_4 ji_3 ren_0 du_1 zhe_4 yao_1 ji_1 ji_2 ne_4 wai_4 bu_4 ren_0 mo_4 you_3 li_0 you_2 bu_0 gen_0 ma_0 
+zi_4 ji_3 ren_0 du_1 zhe_4 yao_1 ji_1 ji_2 ne_4 wai_4 bu_4 ren_0 mo_4 you_3 li_0 you_2 bu_0 gen_0 ma_0 suo_3 yi_3 wo_3 men_0 zhu_4 yi_0 dao_4 biao_1 pu_3 wu_3 bai_3 di_0 hui_2 gou_4 zhi_0 shu_0 $0a_0 ta_1 di_0 biao_3 xian_4 shi_0 ji_4 shang_0 shi_0 yvan_3 $0e_0 yvan_3 yvan_3 hao_3 yv_2 biao_1 pu_3 wu_3 bai_3 zheng_3 ti_3 di_0 
+suo_3 yi_3 wo_3 men_0 zhu_4 yi_0 dao_4 biao_1 pu_3 wu_3 bai_3 di_0 hui_2 gou_4 zhi_0 shu_0 $0a_0 ta_1 di_0 biao_3 xian_4 shi_0 ji_4 shang_0 shi_0 yvan_3 $0e_0 yvan_3 yvan_3 hao_3 yv_2 biao_1 pu_3 wu_3 bai_3 zheng_3 ti_3 di_0 qi_3 ye_4 di_0 yi_0 xie_1 CEOshang_0 shi_0 gong_0 si_0 ne_4 xie_1 CEOta_1 ye_3 yvan_4 yi_0 qv_0 hui_2 gou_4 yin_1 wei_0 ta_1 yi_0 dan_4 hui_2 gou_4 gu_0 piao_4 yi_0 zhang_3 
+qi_3 ye_4 di_0 yi_0 xie_1 CEOshang_0 shi_0 gong_0 si_0 ne_4 xie_1 CEOta_1 ye_3 yvan_4 yi_0 qv_0 hui_2 gou_4 yin_1 wei_0 ta_1 yi_0 dan_4 hui_2 gou_4 gu_0 piao_4 yi_0 zhang_3 gu_0 piao_4 yi_0 zhang_3 ta_1 na_2 ta_1 di_0 gong_1 zi_1 jiu_0 yve_4 gao_1 dui_0 ba_0 ne_4 he_2 yve_4 $0er_3 bu_0 wei_0 ni_0 dui_0 ba_0 
+gu_0 piao_4 yi_0 zhang_3 ta_1 na_2 ta_1 di_0 gong_1 zi_1 jiu_0 yve_4 gao_1 dui_0 ba_0 ne_4 he_2 yve_4 $0er_3 bu_0 wei_0 ni_0 dui_0 ba_0 ji_4 ran_2 shi_0 ti_3 mo_4 you_3 hao_3 xiang_0 mu_4 ne_4 wo_3 gan_0 cui_4 hui_2 gou_4 duo_1 na_2 dian_0 qian_0 ye_3 ye_3 ting_3 hao_3 di_0 ma_0 
+ji_4 ran_2 shi_0 ti_3 mo_4 you_3 hao_3 xiang_0 mu_4 ne_4 wo_3 gan_0 cui_4 hui_2 gou_4 duo_1 na_2 dian_0 qian_0 ye_3 ye_3 ting_3 hao_3 di_0 ma_0 $0a_0 mei_3 guo_2 shang_0 shi_0 gong_0 si_0 ye_3 fei_1 chang_2 pin_2 po_2 hui_2 gou_4 ne_4 yao_1 zhe_4 yang_4 di_0 yi_0 ge_0 jie_0 guo_3 jiu_0 shi_0 
+$0a_0 mei_3 guo_2 shang_0 shi_0 gong_0 si_0 ye_3 fei_1 chang_2 pin_2 po_2 hui_2 gou_4 ne_4 yao_1 zhe_4 yang_4 di_0 yi_0 ge_0 jie_0 guo_3 jiu_0 shi_0 $0e_0 shou_4 chu_0 ta_1 di_0 jing_4 zi_1 chan_3 ma_0 suo_3 yi_3 ta_1 di_0 zi_1 chan_3 fu_4 zhai_4 shuai_4 kuai_4 bian_4 de_0 bi_3 jiao_4 gao_1 dan_4 shi_0 wo_3 men_0 zhu_4 yi_0 dao_4 mei_3 guo_2 di_0 qi_3 ye_4 bu_4 men_2 di_0 li_0 run_4 cong_2 yi_0 si_4 nian_2 zhi_1 hou_4 
+$0e_0 shou_4 chu_0 ta_1 di_0 jing_4 zi_1 chan_3 ma_0 suo_3 yi_3 ta_1 di_0 zi_1 chan_3 fu_4 zhai_4 shuai_4 kuai_4 bian_4 de_0 bi_3 jiao_4 gao_1 dan_4 shi_0 wo_3 men_0 zhu_4 yi_0 dao_4 mei_3 guo_2 di_0 qi_3 ye_4 bu_4 men_2 di_0 li_0 run_4 cong_2 yi_0 si_4 nian_2 zhi_1 hou_4 mo_4 you_3 tai_4 duo_1 di_0 zeng_1 zhang_3 ne_4 yao_1 wo_3 men_0 kan_0 yi_0 ge_0 shu_0 jv_4 $0a_0 cong_2 $0er_4 ling_2 ling_2 jiu_3 nian_2 dao_4 $0er_4 ling_2 yi_0 ba_0 nian_2 
+mo_4 you_3 tai_4 duo_1 di_0 zeng_1 zhang_3 ne_4 yao_1 wo_3 men_0 kan_0 yi_0 ge_0 shu_0 jv_4 $0a_0 cong_2 $0er_4 ling_2 ling_2 jiu_3 nian_2 dao_4 $0er_4 ling_2 yi_0 ba_0 nian_2 ne_4 yao_1 zhe_4 dui_0 qi_3 ye_4 bu_4 men_2 $0er_3 yan_2 ta_1 chan_3 sheng_0 di_0 yi_0 ge_0 ying_3 xiang_3 jiu_0 shi_0 ta_1 shou_0 shang_0 di_0 xian_4 jin_1 chu_3 bei_4 bu_0 duo_1 xian_4 jin_1 chu_3 bei_4 bu_0 duo_1 
+ne_4 yao_1 zhe_4 dui_0 qi_3 ye_4 bu_4 men_2 $0er_3 yan_2 ta_1 chan_3 sheng_0 di_0 yi_0 ge_0 ying_3 xiang_3 jiu_0 shi_0 ta_1 shou_0 shang_0 di_0 xian_4 jin_1 chu_3 bei_4 bu_0 duo_1 xian_4 jin_1 chu_3 bei_4 bu_0 duo_1 wo_3 men_0 kan_0 $0a_0 hui_2 gou_4 gen_0 fen_0 hong_2 xiao_0 hao_4 di_0 zi_1 jin_1 zhan_4 liao_3 zheng_3 ge_0 zhe_4 ge_0 zi_4 you_2 xian_4 jin_1 liu_2 di_0 bai_3 fen_0 zhi_1 bai_3 
+wo_3 men_0 kan_0 $0a_0 hui_2 gou_4 gen_0 fen_0 hong_2 xiao_0 hao_4 di_0 zi_1 jin_1 zhan_4 liao_3 zheng_3 ge_0 zhe_4 ge_0 zi_4 you_2 xian_4 jin_1 liu_2 di_0 bai_3 fen_0 zhi_1 bai_3 suo_3 yi_3 $0a_0 suo_3 yi_3 ru_2 guo_3 yi_4 qing_0 ta_1 zhi_3 shi_0 yi_0 ge_0 duan_3 qi_1 xian_4 xiang_4 
+suo_3 yi_3 $0a_0 suo_3 yi_3 ru_2 guo_3 yi_4 qing_0 ta_1 zhi_3 shi_0 yi_0 ge_0 duan_3 qi_1 xian_4 xiang_4 dan_4 ru_2 guo_3 yi_0 dan_4 xian_4 zai_4 mo_4 ran_2 fu_4 gong_1 bian_4 cheng_2 liao_3 yi_0 ge_0 zhang_3 qi_1 xian_4 xiang_4 bi_3 ru_2 yve_4 ke_3 neng_2 kuai_4 chi_2 xv_4 dao_4 san_1 ji_4 du_0 $0a_0 
+dan_4 ru_2 guo_3 yi_0 dan_4 xian_4 zai_4 mo_4 ran_2 fu_4 gong_1 bian_4 cheng_2 liao_3 yi_0 ge_0 zhang_3 qi_1 xian_4 xiang_4 bi_3 ru_2 yve_4 ke_3 neng_2 kuai_4 chi_2 xv_4 dao_4 san_1 ji_4 du_0 $0a_0 ne_4 zhe_4 yang_4 di_0 hua_0 wo_3 xiang_0 xin_4 hen_3 duo_1 mei_3 guo_2 di_0 qi_3 ye_4 bu_4 men_2 ke_3 neng_2 
+ne_4 zhe_4 yang_4 di_0 hua_0 wo_3 xiang_0 xin_4 hen_3 duo_1 mei_3 guo_2 di_0 qi_3 ye_4 bu_4 men_2 ke_3 neng_2 mo_4 you_3 tai_4 duo_1 di_0 xian_4 jin_1 liu_2 ke_3 neng_2 kuai_4 kang_2 bu_0 xia_0 qv_0 $0a_0 ke_3 neng_2 kuai_4 kang_2 bu_0 xia_0 qv_0 suo_3 yi_3 wo_3 men_0 zhu_4 yi_0 dao_4 zai_4 yi_4 qing_0 gang_1 gang_1 gang_1 kai_1 shi_3 bao_4 fa_0 di_0 shi_2 hou_0 mei_3 guo_2 di_0 qi_3 ye_4 bu_4 men_2 zuo_4 di_0 zui_4 duo_1 di_0 yi_0 ge_0 shi_0 qing_0 jiu_0 shi_0 
+mo_4 you_3 tai_4 duo_1 di_0 xian_4 jin_1 liu_2 ke_3 neng_2 kuai_4 kang_2 bu_0 xia_0 qv_0 $0a_0 ke_3 neng_2 kuai_4 kang_2 bu_0 xia_0 qv_0 suo_3 yi_3 wo_3 men_0 zhu_4 yi_0 dao_4 zai_4 yi_4 qing_0 gang_1 gang_1 gang_1 kai_1 shi_3 bao_4 fa_0 di_0 shi_2 hou_0 mei_3 guo_2 di_0 qi_3 ye_4 bu_4 men_2 zuo_4 di_0 zui_4 duo_1 di_0 yi_0 ge_0 shi_0 qing_0 jiu_0 shi_0 zhe_4 ge_0 ti_2 qv_3 zhe_4 ge_0 shou_4 xin_4 $0e_2 du_0 $0a_0 shou_4 xin_4 $0e_2 du_0 biao_1 $0a_0 biao_1 sheng_1 
+zhe_4 ge_0 ti_2 qv_3 zhe_4 ge_0 shou_4 xin_4 $0e_2 du_0 $0a_0 shou_4 xin_4 $0e_2 du_0 biao_1 $0a_0 biao_1 sheng_1 zai_4 zhe_4 yang_4 yi_0 ge_0 bei_4 jing_3 zhi_1 xia_0 wo_3 men_0 ren_4 wei_0 hou_4 xv_4 bu_0 guan_3 shi_0 jv_1 min_2 bu_4 men_2 huan_2 shi_0 qi_3 ye_4 bu_4 men_2 
+zai_4 zhe_4 yang_4 yi_0 ge_0 bei_4 jing_3 zhi_1 xia_0 wo_3 men_0 ren_4 wei_0 hou_4 xv_4 bu_0 guan_3 shi_0 jv_1 min_2 bu_4 men_2 huan_2 shi_0 qi_3 ye_4 bu_4 men_2 $0a_0 ji_1 ben_3 mian_0 di_0 zhe_4 ge_0 chong_4 ji_1 di_0 ding_4 jie_0 ke_3 neng_2 huan_2 bu_0 shi_0 te_4 bie_0 chong_1 fen_0 yin_1 wei_0 yin_1 wei_0 ta_1 di_0 xian_4 zai_4 zhe_4 yi_0 bo_1 fan_3 tan_0 jiu_0 yi_3 jing_0 kai_1 shi_3 ding_4 jie_0 wei_4 lai_2 ke_3 neng_2 kuai_4 xiang_4 hao_3 di_0 yi_0 ge_0 yv_4 qi_1 
+$0a_0 ji_1 ben_3 mian_0 di_0 zhe_4 ge_0 chong_4 ji_1 di_0 ding_4 jie_0 ke_3 neng_2 huan_2 bu_0 shi_0 te_4 bie_0 chong_1 fen_0 yin_1 wei_0 yin_1 wei_0 ta_1 di_0 xian_4 zai_4 zhe_4 yi_0 bo_1 fan_3 tan_0 jiu_0 yi_3 jing_0 kai_1 shi_3 ding_4 jie_0 wei_4 lai_2 ke_3 neng_2 kuai_4 xiang_4 hao_3 di_0 yi_0 ge_0 yv_4 qi_1 hen_3 you_3 ke_3 neng_2 jiu_0 shi_0 $0a_0 wei_4 lai_2 di_0 xing_2 shi_0 ru_2 guo_3 yve_4 yi_4 yi_4 qing_0 chi_2 xv_4 di_0 zhe_4 ge_0 $0e_0 fa_0 jiao_4 dui_0 ba_0 ran_2 hou_4 huan_2 mo_4 ran_2 fu_4 gong_1 ne_4 yao_1 you_3 ke_3 neng_2 kuai_4 you_3 ke_3 neng_2 kuai_4 ji_2 zhuan_3 zhi_2 xia_0 
+hen_3 you_3 ke_3 neng_2 jiu_0 shi_0 $0a_0 wei_4 lai_2 di_0 xing_2 shi_0 ru_2 guo_3 yve_4 yi_4 yi_4 qing_0 chi_2 xv_4 di_0 zhe_4 ge_0 $0e_0 fa_0 jiao_4 dui_0 ba_0 ran_2 hou_4 huan_2 mo_4 ran_2 fu_4 gong_1 ne_4 yao_1 you_3 ke_3 neng_2 kuai_4 you_3 ke_3 neng_2 kuai_4 ji_2 zhuan_3 zhi_2 xia_0 ne_4 yao_1 di_4 yi_0 ci_4 jin_1 rong_2 feng_1 xian_3 di_0 chong_4 ji_1 wo_3 men_0 kan_0 dao_4 zhi_1 qian_2 mei_3 gu_0 mei_3 gu_0 bu_0 shi_0 pu_4 die_1 rong_2 duan_4 ma_0 qi_2 hu_2 xin_0 jiu_0 shi_0 yin_1 wei_0 $0a_0 ta_1 
+ne_4 yao_1 di_4 yi_0 ci_4 jin_1 rong_2 feng_1 xian_3 di_0 chong_4 ji_1 wo_3 men_0 kan_0 dao_4 zhi_1 qian_2 mei_3 gu_0 mei_3 gu_0 bu_0 shi_0 pu_4 die_1 rong_2 duan_4 ma_0 qi_2 hu_2 xin_0 jiu_0 shi_0 yin_1 wei_0 $0a_0 ta_1 zen_3 yao_1 yang_4 zhe_4 xie_1 ri_0 zi_0 zhu_4 de_0 huan_2 xi_2 guan_4 ba_0 
+zen_3 yao_1 yang_4 zhe_4 xie_1 ri_0 zi_0 zhu_4 de_0 huan_2 xi_2 guan_4 ba_0 ting_3 hao_3 di_0 
+ting_3 hao_3 di_0 dui_0 liao_3 mei_3 jing_0 zhe_4 duan_4 ri_0 zi_0 jing_0 chang_2 bu_0 hu_2 wo_3 men_0 yi_0 qi_3 yong_4 can_1 
+dui_0 liao_3 mei_3 jing_0 zhe_4 duan_4 ri_0 zi_0 jing_0 chang_2 bu_0 hu_2 wo_3 men_0 yi_0 qi_3 yong_4 can_1 shi_0 bu_0 shi_0 dui_0 wo_3 hui_2 lai_2 you_3 shi_0 yao_1 xiang_3 fa_0 $0a_0 
+shi_0 bu_0 shi_0 dui_0 wo_3 hui_2 lai_2 you_3 shi_0 yao_1 xiang_3 fa_0 $0a_0 ne_2 you_3 di_0 shi_0 $0a_0 
+ne_2 you_3 di_0 shi_0 $0a_0 ta_1 zhe_4 liang_3 tian_1 ting_3 lei_3 di_0 shen_1 ti_3 ye_3 bu_0 tai_4 shu_1 fu_0 
+ta_1 zhe_4 liang_3 tian_1 ting_3 lei_3 di_0 shen_1 ti_3 ye_3 bu_0 tai_4 shu_1 fu_0 wo_3 rang_4 ta_1 duo_1 shui_4 yi_0 kuai_4 ne_4 jiu_0 hao_3 ru_2 guo_3 yao_4 shi_0 jve_2 de_0 bu_0 fang_1 pian_2 
+wo_3 rang_4 ta_1 duo_1 shui_4 yi_0 kuai_4 ne_4 jiu_0 hao_3 ru_2 guo_3 yao_4 shi_0 jve_2 de_0 bu_0 fang_1 pian_2 wo_3 jiu_0 ban_1 chu_0 qv_0 zhu_4 
+wo_3 jiu_0 ban_1 chu_0 qv_0 zhu_4 ni_3 kan_0 ni_3 zhe_4 ge_0 ren_0 ni_3 jiu_0 shi_0 yi_2 xin_0 tai_4 zhong_4 
+ni_3 kan_0 ni_3 zhe_4 ge_0 ren_0 ni_3 jiu_0 shi_0 yi_2 xin_0 tai_4 zhong_4 ni_3 xian_4 zai_4 duo_1 hao_3 yi_0 qie_4 du_1 jing_3 ran_2 you_3 xv_4 di_0 
+ni_3 xian_4 zai_4 duo_1 hao_3 yi_0 qie_4 du_1 jing_3 ran_2 you_3 xv_4 di_0 wo_3 chi_1 hao_3 liao_3 yi_0 kuai_4 $0a_0 huan_2 you_3 yi_0 ge_0 zao_3 kuai_4 wo_3 huan_0 ge_0 yi_4 fu_0 wo_3 jiu_0 qv_0 liao_3 $0a_0 
+wo_3 chi_1 hao_3 liao_3 yi_0 kuai_4 $0a_0 huan_2 you_3 yi_0 ge_0 zao_3 kuai_4 wo_3 huan_0 ge_0 yi_4 fu_0 wo_3 jiu_0 qv_0 liao_3 $0a_0 ni_3 men_0 liang_3 man_4 man_4 chi_1 wo_3 zou_3 liao_3 bai_0 bai_0 
+ni_3 men_0 liang_3 man_4 man_4 chi_1 wo_3 zou_3 liao_3 bai_0 bai_0 wo_3 gen_0 ni_3 yve_4 $0a_0 
+wo_3 gen_0 ni_3 yve_4 $0a_0 da_0 wei_4 zhe_4 hai_2 zi_0 zui_4 jin_4 biao_3 xian_4 bu_0 cuo_4 $0a_0 bu_0 dan_4 neng_2 pei_4 he_0 gong_1 zuo_0 $0er_3 qie_3 huan_2 zhu_3 dong_4 di_0 shen_1 jia_1 gong_0 si_0 gai_3 zhi_4 di_0 kuai_4 yi_4 
+da_0 wei_4 zhe_4 hai_2 zi_0 zui_4 jin_4 biao_3 xian_4 bu_0 cuo_4 $0a_0 bu_0 dan_4 neng_2 pei_4 he_0 gong_1 zuo_0 $0er_3 qie_3 huan_2 zhu_3 dong_4 di_0 shen_1 jia_1 gong_0 si_0 gai_3 zhi_4 di_0 kuai_4 yi_4 ti_2 chu_0 liao_3 xv_3 duo_1 jian_4 she_4 xing_0 di_0 yi_0 xian_4 
+ti_2 chu_0 liao_3 xv_3 duo_1 jian_4 she_4 xing_0 di_0 yi_0 xian_4 mo_4 xiang_3 dao_4 ta_1 jin_4 bu_4 huan_2 ting_3 kuai_0 di_0 
+mo_4 xiang_3 dao_4 ta_1 jin_4 bu_4 huan_2 ting_3 kuai_0 di_0 yao_4 shi_0 zhe_4 yang_4 wo_3 jiu_0 bu_0 yong_4 zai_4 cao_1 xin_0 liao_3 
+yao_4 shi_0 zhe_4 yang_4 wo_3 jiu_0 bu_0 yong_4 zai_4 cao_1 xin_0 liao_3 shi_0 $0a_0 ni_3 wei_0 da_0 wei_4 xi_1 sheng_1 de_0 tai_4 duo_1 liao_3 
+shi_0 $0a_0 ni_3 wei_0 da_0 wei_4 xi_1 sheng_1 de_0 tai_4 duo_1 liao_3 qi_2 shi_0 ni_3 yve_4 you_3 wo_3 zai_4 
+qi_2 shi_0 ni_3 yve_4 you_3 wo_3 zai_4 yong_4 de_0 zhuo_0 ni_3 cao_1 zhe_4 yao_1 duo_1 xin_0 ma_0 
+yong_4 de_0 zhuo_0 ni_3 cao_1 zhe_4 yao_1 duo_1 xin_0 ma_0 da_0 wei_4 zhe_4 hai_2 zi_0 dong_3 shi_0 liao_3 
+da_0 wei_4 zhe_4 hai_2 zi_0 dong_3 shi_0 liao_3 wo_3 xiang_0 xin_4 ta_1 ken_3 ding_4 neng_2 xing_2 
+wo_3 xiang_0 xin_4 ta_1 ken_3 ding_4 neng_2 xing_2 dao_3 shi_0 ni_3 $0a_0 mei_3 guo_2 di_0 ne_4 xie_1 shi_0 qing_0 ke_3 bie_0 dan_1 wu_4 liao_3 
+dao_3 shi_0 ni_3 $0a_0 mei_3 guo_2 di_0 ne_4 xie_1 shi_0 qing_0 ke_3 bie_0 dan_1 wu_4 liao_3 ne_4 wo_3 ye_3 jiu_0 fang_4 xin_0 liao_3 
+ne_4 wo_3 ye_3 jiu_0 fang_4 xin_0 liao_3 kan_0 kan_0 zhe_4 bian_0 yao_4 shi_0 mo_4 you_3 bie_0 di_0 shi_0 qing_0 
+kan_0 kan_0 zhe_4 bian_0 yao_4 shi_0 mo_4 you_3 bie_0 di_0 shi_0 qing_0 wo_3 jiu_0 ke_3 yi_3 kao_3 lv_4 hui_2 qv_0 liao_3 bu_0 ji_2 bu_0 ji_2 duo_1 zhu_4 xie_1 ri_0 zi_0 mo_4 shi_0 yao_1 liao_3 bu_0 qi_3 di_0 
+wo_3 jiu_0 ke_3 yi_3 kao_3 lv_4 hui_2 qv_0 liao_3 bu_0 ji_2 bu_0 ji_2 duo_1 zhu_4 xie_1 ri_0 zi_0 mo_4 shi_0 yao_1 liao_3 bu_0 qi_3 di_0 ru_2 guo_3 ni_3 mei_3 guo_2 ne_4 bian_0 you_3 shi_0 $0a_0 
+ru_2 guo_3 ni_3 mei_3 guo_2 ne_4 bian_0 you_3 shi_0 $0a_0 wo_3 ma_3 shang_0 jiu_0 $0an_1 pai_3 ta_1 men_0 ji_3 ni_3 qv_0 mai_3 piao_4 
+wo_3 ma_3 shang_0 jiu_0 $0an_1 pai_3 ta_1 men_0 ji_3 ni_3 qv_0 mai_3 piao_4 hua_2 jie_3 zhen_1 bu_0 hao_3 yi_0 si_0 zhe_4 liang_3 tian_1 shen_1 ti_3 bu_0 tai_4 shu_1 fu_0 you_4 qi_3 wan_3 liao_3 
+hua_2 jie_3 zhen_1 bu_0 hao_3 yi_0 si_0 zhe_4 liang_3 tian_1 shen_1 ti_3 bu_0 tai_4 shu_1 fu_0 you_4 qi_3 wan_3 liao_3 mei_3 jing_0 ni_3 tai_4 ke_4 qi_0 liao_3 zhe_4 xie_1 tian_1 wo_3 ji_3 ni_3 men_0 tian_1 liao_3 ma_0 fan_0 
+mei_3 jing_0 ni_3 tai_4 ke_4 qi_0 liao_3 zhe_4 xie_1 tian_1 wo_3 ji_3 ni_3 men_0 tian_1 liao_3 ma_0 fan_0 ne_4 lao_3 sun_1 ne_4 ni_3 jiu_0 rang_4 ta_1 men_0 ji_3 wo_3 ding_4 piao_4 ba_0 mo_4 wen_4 ti_2 mo_4 wen_4 ti_2 ni_3 bu_0 zai_4 chi_1 dian_0 liao_3 
+ne_4 lao_3 sun_1 ne_4 ni_3 jiu_0 rang_4 ta_1 men_0 ji_3 wo_3 ding_4 piao_4 ba_0 mo_4 wen_4 ti_2 mo_4 wen_4 ti_2 ni_3 bu_0 zai_4 chi_1 dian_0 liao_3 bu_0 chi_1 liao_3 ni_3 men_0 chi_1 ba_0 wo_3 ye_3 qv_0 shou_1 shi_0 yi_0 xia_0 
+bu_0 chi_1 liao_3 ni_3 men_0 chi_1 ba_0 wo_3 ye_3 qv_0 shou_1 shi_0 yi_0 xia_0 kuai_0 chi_1 ba_0 
+kuai_0 chi_1 ba_0 ken_3 ding_4 shi_0 chi_1 shi_0 yao_1 chi_1 pi_1 liao_3 
+ken_3 ding_4 shi_0 chi_1 shi_0 yao_1 chi_1 pi_1 liao_3 wo_3 qv_0 kan_0 kan_0 qv_0 
+wo_3 qv_0 kan_0 kan_0 qv_0 mei_3 jing_0 ni_3 zen_3 yao_1 huan_2 men_0 men_0 bu_0 yve_4 di_0 ya_0 ni_3 kan_0 zan_0 men_0 xian_4 zai_4 duo_1 hao_3 $0a_0 
+mei_3 jing_0 ni_3 zen_3 yao_1 huan_2 men_0 men_0 bu_0 yve_4 di_0 ya_0 ni_3 kan_0 zan_0 men_0 xian_4 zai_4 duo_1 hao_3 $0a_0 $0an_1 hua_2 ni_0 yan_3 kan_0 jiu_0 yao_4 zou_3 liao_3 
+$0an_1 hua_2 ni_0 yan_3 kan_0 jiu_0 yao_4 zou_3 liao_3 ni_3 ying_0 gai_1 gao_1 xing_0 cai_2 dui_0 $0a_0 ni_3 ren_4 wei_0 $0an_1 hua_2 kuai_4 zou_3 ma_0 
+ni_3 ying_0 gai_1 gao_1 xing_0 cai_2 dui_0 $0a_0 ni_3 ren_4 wei_0 $0an_1 hua_2 kuai_4 zou_3 ma_0 ta_1 du_1 rang_4 wo_3 ding_4 piao_4 liao_3 zhe_4 bu_0 ni_3 du_1 zai_4 ne_4 ting_0 zhuo_0 ni_0 ma_0 
+ta_1 du_1 rang_4 wo_3 ding_4 piao_4 liao_3 zhe_4 bu_0 ni_3 du_1 zai_4 ne_4 ting_0 zhuo_0 ni_0 ma_0 ye_3 shi_0 $0an_1 hua_2 zhe_4 ge_0 ren_0 
+ye_3 shi_0 $0an_1 hua_2 zhe_4 ge_0 ren_0 you_3 shi_2 hou_0 qve_4 shi_0 jian_1 suan_1 ke_4 bo_2 yan_3 jin_3 liao_3 yi_0 dian_0 
+you_3 shi_2 hou_0 qve_4 shi_0 jian_1 suan_1 ke_4 bo_2 yan_3 jin_3 liao_3 yi_0 dian_0 ke_3 ye_3 mo_4 ni_3 xiang_3 di_0 ne_4 yao_1 zao_1 gao_1 
+ke_3 ye_3 mo_4 ni_3 xiang_3 di_0 ne_4 yao_1 zao_1 gao_1 zi_4 cong_2 $0an_1 hua_2 zhu_4 jin_4 lai_2 wo_3 jiu_0 xiang_4 xia_0 ren_0 yi_0 yang_4 mei_3 tian_1 kan_0 ta_1 lian_3 shai_3 xing_2 shi_0 
+zi_4 cong_2 $0an_1 hua_2 zhu_4 jin_4 lai_2 wo_3 jiu_0 xiang_4 xia_0 ren_0 yi_0 yang_4 mei_3 tian_1 kan_0 ta_1 lian_3 shai_3 xing_2 shi_0 zhe_4 wan_4 yi_0 hai_2 zi_0 di_0 shi_0 qing_0 yao_4 shi_0 rang_4 ta_1 zhi_4 dao_0 liao_3 ta_1 ken_3 ding_4 kuai_4 ren_4 wei_0 wo_3 shi_0 wei_0 liao_3 fen_0 ni_3 men_0 sun_1 jie_0 di_0 cai_2 chan_3 $0er_3 shi_0 di_0 ji_0 mou_2 
+zhe_4 wan_4 yi_0 hai_2 zi_0 di_0 shi_0 qing_0 yao_4 shi_0 rang_4 ta_1 zhi_4 dao_0 liao_3 ta_1 ken_3 ding_4 kuai_4 ren_4 wei_0 wo_3 shi_0 wei_0 liao_3 fen_0 ni_3 men_0 sun_1 jie_0 di_0 cai_2 chan_3 $0er_3 shi_0 di_0 ji_0 mou_2 zhe_4 shi_0 shi_0 yao_1 hua_0 ya_0 
+zhe_4 shi_0 shi_0 yao_1 hua_0 ya_0 zhe_4 $0er_0 di_0 nv_3 zhu_3 ren_0 jiao_4 han_2 mei_3 jing_0 
+zhe_4 $0er_0 di_0 nv_3 zhu_3 ren_0 jiao_4 han_2 mei_3 jing_0 zhe_4 ke_3 shi_0 ban_3 shang_0 ding_0 ding_0 di_0 shi_0 
+zhe_4 ke_3 shi_0 ban_3 shang_0 ding_0 ding_0 di_0 shi_0 wo_3 gao_4 su_4 ni_3 $0a_0 
+wo_3 gao_4 su_4 ni_3 $0a_0 zhe_4 ci_4 zan_0 men_0 liang_3 yi_0 ding_4 yao_4 na_2 chu_0 dong_1 dao_0 zhu_3 di_0 jing_1 shen_0 lai_2 gao_1 gao_1 xing_0 xing_0 di_0 kai_1 kai_1 xin_0 xin_0 di_0 ba_3 ta_1 song_4 zou_3 
+zhe_4 ci_4 zan_0 men_0 liang_3 yi_0 ding_4 yao_4 na_2 chu_0 dong_1 dao_0 zhu_3 di_0 jing_1 shen_0 lai_2 gao_1 gao_1 xing_0 xing_0 di_0 kai_1 kai_1 xin_0 xin_0 di_0 ba_3 ta_1 song_4 zou_3 zhe_4 yang_4 $0a_0 cong_2 jin_1 tian_1 kai_1 shi_3 
+zhe_4 yang_4 $0a_0 cong_2 jin_1 tian_1 kai_1 shi_3 gong_0 si_0 di_0 shi_0 qing_0 ni_0 ni_3 jiu_0 xian_1 bu_0 yao_4 guan_3 liao_3 
+gong_0 si_0 di_0 shi_0 qing_0 ni_0 ni_3 jiu_0 xian_1 bu_0 yao_4 guan_3 liao_3 ni_3 xian_4 zai_4 zui_4 zhong_4 yao_4 di_0 ren_2 wu_0 ne_4 jiu_0 shi_0 $0an_1 xin_0 yang_3 tai_1 
+ni_3 xian_4 zai_4 zui_4 zhong_4 yao_4 di_0 ren_2 wu_0 ne_4 jiu_0 shi_0 $0an_1 xin_0 yang_3 tai_1 zhe_4 yang_4 $0a_0 ni_3 qv_0 zhao_3 ni_3 di_0 gui_1 mi_4 chu_0 qv_0 wan_2 wan_2 
+zhe_4 yang_4 $0a_0 ni_3 qv_0 zhao_3 ni_3 di_0 gui_1 mi_4 chu_0 qv_0 wan_2 wan_2 xiang_3 mai_3 shi_0 yao_1 mai_3 shi_0 yao_1 xiang_3 zen_3 yao_1 hua_0 qian_0 zen_3 yao_1 hua_0 qian_0 
+xiang_3 mai_3 shi_0 yao_1 mai_3 shi_0 yao_1 xiang_3 zen_3 yao_1 hua_0 qian_0 zen_3 yao_1 hua_0 qian_0 jiu_0 shi_0 yi_0 jv_4 hua_0 $0a_0 zhi_3 yao_4 ni_3 gao_1 xing_0 
+jiu_0 shi_0 yi_0 jv_4 hua_0 $0a_0 zhi_3 yao_4 ni_3 gao_1 xing_0 ni_3 zen_3 yao_1 hun_0 zhe_4 lai_2 liao_3 
+ni_3 zen_3 yao_1 hun_0 zhe_4 lai_2 liao_3 zhen_1 yi_3 wei_0 zi_4 ji_3 shi_0 zhong_4 guo_2 zhuan_4 mei_2 zui_4 gao_1 xve_2 fu_3 di_0 gao_1 cai_2 sheng_0 
+zhen_1 yi_3 wei_0 zi_4 ji_3 shi_0 zhong_4 guo_2 zhuan_4 mei_2 zui_4 gao_1 xve_2 fu_3 di_0 gao_1 cai_2 sheng_0 ji_4 ran_2 zhi_4 dao_0 zhe_4 shi_0 zui_4 gao_1 xve_2 fu_3 jiu_0 zhu_4 yi_0 yi_0 xia_0 ni_3 di_0 cuo_4 ci_2 
+ji_4 ran_2 zhi_4 dao_0 zhe_4 shi_0 zui_4 gao_1 xve_2 fu_3 jiu_0 zhu_4 yi_0 yi_0 xia_0 ni_3 di_0 cuo_4 ci_2 zen_3 yao_1 neng_2 jiao_4 hun_0 ni_0 wo_3 zhe_4 jiao_4 lai_2 ji_1 fa_0 lai_2 gan_3 wu_4 
+zen_3 yao_1 neng_2 jiao_4 hun_0 ni_0 wo_3 zhe_4 jiao_4 lai_2 ji_1 fa_0 lai_2 gan_3 wu_4 dong_3 bu_0 dong_3 
+dong_3 bu_0 dong_3 zhe_4 li_0 ni_0 bu_0 jin_3 jin_3 shi_0 wo_3 meng_4 kai_1 shi_3 di_0 di_0 fang_1 
+zhe_4 li_0 ni_0 bu_0 jin_3 jin_3 shi_0 wo_3 meng_4 kai_1 shi_3 di_0 di_0 fang_1 geng_4 zhong_4 yao_4 di_0 shi_0 zai_4 zhe_4 li_0 zuo_4 shang_0 yi_0 tian_1 
+geng_4 zhong_4 yao_4 di_0 shi_0 zai_4 zhe_4 li_0 zuo_4 shang_0 yi_0 tian_1 yi_0 fen_0 qian_0 du_1 bu_0 yong_4 hua_0 
+yi_0 fen_0 qian_0 du_1 bu_0 yong_4 hua_0 wo_3 xin_0 qing_0 bu_0 hao_3 zhao_3 ni_3 liao_2 liao_2 tian_1 
+wo_3 xin_0 qing_0 bu_0 hao_3 zhao_3 ni_3 liao_2 liao_2 tian_1 you_3 shi_0 yao_1 hua_0 zhi_2 yve_4 ba_0 
+you_3 shi_0 yao_1 hua_0 zhi_2 yve_4 ba_0 wo_3 jve_2 de_0 wo_3 ba_0 jian_3 zhi_2 jiu_0 shi_0 bu_0 ke_3 li_0 yv_4 
+wo_3 jve_2 de_0 wo_3 ba_0 jian_3 zhi_2 jiu_0 shi_0 bu_0 ke_3 li_0 yv_4 wo_3 hen_4 wo_3 zi_4 ji_3 sheng_0 huo_0 zai_4 zhe_4 yang_4 di_0 yi_0 ge_0 jie_0 ting_2 li_0 ta_1 rang_4 wo_3 shi_0 qv_0 liao_3 zi_4 you_2 gen_0 li_0 xiang_3 
+wo_3 hen_4 wo_3 zi_4 ji_3 sheng_0 huo_0 zai_4 zhe_4 yang_4 di_0 yi_0 ge_0 jie_0 ting_2 li_0 ta_1 rang_4 wo_3 shi_0 qv_0 liao_3 zi_4 you_2 gen_0 li_0 xiang_3 wo_3 cong_2 lai_2 du_1 bu_0 zhi_4 dao_0 shi_0 yao_1 jiao_4 cheng_2 jiu_0 gan_3 
+wo_3 cong_2 lai_2 du_1 bu_0 zhi_4 dao_0 shi_0 yao_1 jiao_4 cheng_2 jiu_0 gan_3 ye_3 rang_4 wo_3 cheng_2 wei_0 liao_3 bie_0 ren_0 yan_3 li_0 di_0 fei_4 wu_4 
+ye_3 rang_4 wo_3 cheng_2 wei_0 liao_3 bie_0 ren_0 yan_3 li_0 di_0 fei_4 wu_4 bu_0 shi_0 zen_3 yao_1 hui_2 shi_0 ji_3 ge_0 yi_0 si_0 
+bu_0 shi_0 zen_3 yao_1 hui_2 shi_0 ji_3 ge_0 yi_0 si_0 ping_2 zhuo_0 zi_4 ji_3 di_0 ben_3 shi_0 zai_4 zhe_4 ge_0 she_4 kuai_4 shang_0 chuang_3 dang_0 
+ping_2 zhuo_0 zi_4 ji_3 di_0 ben_3 shi_0 zai_4 zhe_4 ge_0 she_4 kuai_4 shang_0 chuang_3 dang_0 ta_1 yi_3 wei_0 ta_1 zi_4 ji_3 shi_0 shang_0 di_4 fei_1 de_0 ta_1 shi_1 she_3 bie_0 ren_0 cai_2 neng_2 sheng_0 huo_0 ni_3 zhe_4 shi_0 zai_4 ti_4 wo_3 shen_1 zhang_1 zheng_4 yi_2 ma_0 
+ta_1 yi_3 wei_0 ta_1 zi_4 ji_3 shi_0 shang_0 di_4 fei_1 de_0 ta_1 shi_1 she_3 bie_0 ren_0 cai_2 neng_2 sheng_0 huo_0 ni_3 zhe_4 shi_0 zai_4 ti_4 wo_3 shen_1 zhang_1 zheng_4 yi_2 ma_0 bie_0 xiu_4 mei_3 liao_3 gen_0 ni_3 cai_2 mo_4 guan_1 xi_0 ni_0 
+bie_0 xiu_4 mei_3 liao_3 gen_0 ni_3 cai_2 mo_4 guan_1 xi_0 ni_0 wo_3 jiu_0 shi_0 sheng_0 qi_0 
+wo_3 jiu_0 shi_0 sheng_0 qi_0 zhe_4 ge_0 tie_0 da_0 di_0 lian_3 pi_2 tong_2 zhu_4 di_0 shen_1 
+zhe_4 ge_0 tie_0 da_0 di_0 lian_3 pi_2 tong_2 zhu_4 di_0 shen_1 zhe_4 hua_0 yve_4 hui_2 lai_2 liao_3 bu_0 guan_3 zai_4 shi_0 yao_1 yang_4 di_0 qing_0 kuang_4 xia_0 
+zhe_4 hua_0 yve_4 hui_2 lai_2 liao_3 bu_0 guan_3 zai_4 shi_0 yao_1 yang_4 di_0 qing_0 kuang_4 xia_0 du_1 yao_4 bai_3 zheng_4 zi_4 ji_3 di_0 wei_4 zhi_4 
+du_1 yao_4 bai_3 zheng_4 zi_4 ji_3 di_0 wei_4 zhi_4 du_1 yao_4 nong_0 qing_1 chu_3 zi_4 ji_3 xiang_3 yao_4 shi_0 yao_1 
+du_1 yao_4 nong_0 qing_1 chu_3 zi_4 ji_3 xiang_3 yao_4 shi_0 yao_1 wo_3 jiu_0 shi_0 yao_4 nong_0 qing_1 chu_3 zi_4 ji_3 zai_4 she_4 kuai_4 dang_0 zhong_4 di_0 di_0 wei_4 xiang_2 di_1 zi_4 ji_3 di_0 shen_1 duan_4 hu_2 xin_0 li_0 yv_4 qi_1 lao_2 lao_2 di_0 zhua_1 zhu_4 zi_4 ji_3 ren_0 sheng_0 di_0 zheng_4 qve_4 fang_1 xiang_4 
+wo_3 jiu_0 shi_0 yao_4 nong_0 qing_1 chu_3 zi_4 ji_3 zai_4 she_4 kuai_4 dang_0 zhong_4 di_0 di_0 wei_4 xiang_2 di_1 zi_4 ji_3 di_0 shen_1 duan_4 hu_2 xin_0 li_0 yv_4 qi_1 lao_2 lao_2 di_0 zhua_1 zhu_4 zi_4 ji_3 ren_0 sheng_0 di_0 zheng_4 qve_4 fang_1 xiang_4 zai_4 sheng_0 shai_3 qvan_3 ma_3 di_0 da_0 huan_2 jing_4 zhi_1 zhong_4 
+zai_4 sheng_0 shai_3 qvan_3 ma_3 di_0 da_0 huan_2 jing_4 zhi_1 zhong_4 bu_0 mi_2 shi_0 bu_0 tuo_3 xie_2 bu_0 fang_4 qi_4 
+bu_0 mi_2 shi_0 bu_0 tuo_3 xie_2 bu_0 fang_4 qi_4 yi_0 jv_4 hua_0 cheng_2 gong_1 shi_0 zhu_3 yv_2 you_3 zhun_3 bei_4 di_0 ren_0 
+yi_0 jv_4 hua_0 cheng_2 gong_1 shi_0 zhu_3 yv_2 you_3 zhun_3 bei_4 di_0 ren_0 shi_0 zhu_3 yv_2 zui_4 hou_4 dao_3 xia_0 di_0 ren_0 
+shi_0 zhu_3 yv_2 zui_4 hou_4 dao_3 xia_0 di_0 ren_0 lai_2 lai_2 lai_2 
+lai_2 lai_2 lai_2 zai_4 da_0 di_0 zhuan_4 mei_2 zhe_4 yao_1 ke_1 ke_4 di_0 yao_4 qiu_2 zhi_1 xia_0 wo_3 dui_0 xing_4 fu_2 zhong_1 dian_0 zhan_4 zuo_4 chu_0 di_0 gai_3 ban_3 ji_0 huai_0 
+zai_4 da_0 di_0 zhuan_4 mei_2 zhe_4 yao_1 ke_1 ke_4 di_0 yao_4 qiu_2 zhi_1 xia_0 wo_3 dui_0 xing_4 fu_2 zhong_1 dian_0 zhan_4 zuo_4 chu_0 di_0 gai_3 ban_3 ji_0 huai_0 wo_3 zeng_1 jing_0 you_4 he_2 chang_2 mo_4 you_3 du_2 li_4 fen_4 dou_0 di_0 meng_4 xiang_3 $0a_0 
+wo_3 zeng_1 jing_0 you_4 he_2 chang_2 mo_4 you_3 du_2 li_4 fen_4 dou_0 di_0 meng_4 xiang_3 $0a_0 cheng_2 wei_0 yi_0 ge_0 da_0 yi_4 zhu_2 jie_0 da_0 lv_4 shi_1 nv_3 qiang_3 ren_0 
+cheng_2 wei_0 yi_0 ge_0 da_0 yi_4 zhu_2 jie_0 da_0 lv_4 shi_1 nv_3 qiang_3 ren_0 you_3 yi_0 suo_3 zi_4 ji_3 di_0 fang_0 zi_0 mian_0 zhao_1 da_0 hai_3 chun_1 nuan_3 hua_0 kai_1 
+you_3 yi_0 suo_3 zi_4 ji_3 di_0 fang_0 zi_0 mian_0 zhao_1 da_0 hai_3 chun_1 nuan_3 hua_0 kai_1 hu_2 zi_4 ji_3 di_0 qin_1 ren_0 $0ai_4 ren_0 yi_0 qi_3 huan_2 you_0 shi_4 jie_4 
+hu_2 zi_4 ji_3 di_0 qin_1 ren_0 $0ai_4 ren_0 yi_0 qi_3 huan_2 you_0 shi_4 jie_4 ke_3 xian_4 shi_0 shi_0 wo_3 lian_2 du_2 li_4 sheng_0 huo_0 di_0 qvan_2 li_0 du_1 mo_4 you_3 
+ke_3 xian_4 shi_0 shi_0 wo_3 lian_2 du_2 li_4 sheng_0 huo_0 di_0 qvan_2 li_0 du_1 mo_4 you_3 xing_2 $0a_0 you_3 gan_3 kai_3 di_0 ren_0 bi_4 ding_4 ke_3 wang_4 xing_4 fu_2 
+xing_2 $0a_0 you_3 gan_3 kai_3 di_0 ren_0 bi_4 ding_4 ke_3 wang_4 xing_4 fu_2 cai_3 fang_3 yi_0 xia_0 ni_3 ni_3 yve_4 zuo_0 wei_0 yi_0 ge_0 dian_4 shi_4 guan_4 zhong_4 zui_4 xi_3 huan_0 shi_0 yao_1 yang_4 xing_2 shi_0 di_0 jie_0 mu_4 ni_0 
+cai_3 fang_3 yi_0 xia_0 ni_3 ni_3 yve_4 zuo_0 wei_0 yi_0 ge_0 dian_4 shi_4 guan_4 zhong_4 zui_4 xi_3 huan_0 shi_0 yao_1 yang_4 xing_2 shi_0 di_0 jie_0 mu_4 ni_0 ji_3 dian_0 jian_4 yi_4 hu_2 yi_0 xian_4 bei_0 
+ji_3 dian_0 jian_4 yi_4 hu_2 yi_0 xian_4 bei_0 wo_3 xiang_3 xiang_3 $0a_0 
+wo_3 xiang_3 xiang_3 $0a_0 qi_2 shi_0 xiang_4 xing_4 fu_2 zhong_1 dian_0 zhan_4 zhe_4 yang_4 di_0 jie_0 mu_4 te_4 bie_0 duo_1 
+qi_2 shi_0 xiang_4 xing_4 fu_2 zhong_1 dian_0 zhan_4 zhe_4 yang_4 di_0 jie_0 mu_4 te_4 bie_0 duo_1 ni_3 shou_3 xian_1 de_0 tiao_4 chu_0 $0a_0 
+ni_3 shou_3 xian_1 de_0 tiao_4 chu_0 $0a_0 shi_0 yao_1 shui_2 jie_0 di_0 xiao_3 yi_0 zi_0 gen_0 sao_3 zi_0 you_4 chao_0 jia_4 liao_3 
+shi_0 yao_1 shui_2 jie_0 di_0 xiao_3 yi_0 zi_0 gen_0 sao_3 zi_0 you_4 chao_0 jia_4 liao_3 shui_2 jie_0 di_0 po_2 po_2 you_4 ba_3 xi_2 fu_0 ji_3 gan_3 chu_0 qv_0 liao_3 
+shui_2 jie_0 di_0 po_2 po_2 you_4 ba_3 xi_2 fu_0 ji_3 gan_3 chu_0 qv_0 liao_3 yi_0 dian_0 chuang_4 yi_0 du_1 mo_4 you_3 zhe_4 yao_1 yve_4 ba_0 
+yi_0 dian_0 chuang_4 yi_0 du_1 mo_4 you_3 zhe_4 yao_1 yve_4 ba_0 ni_3 zhe_4 ying_0 gai_1 ding_4 wei_4 yv_2 yi_0 dang_3 
+ni_3 zhe_4 ying_0 gai_1 ding_4 wei_4 yv_2 yi_0 dang_3 zhuan_1 men_2 yi_3 tao_3 lun_2 xing_4 fu_2 wei_0 zhu_3 di_0 hua_0 ti_2 lei_4 jie_0 mu_4 
+zhuan_1 men_2 yi_3 tao_3 lun_2 xing_4 fu_2 wei_0 zhu_3 di_0 hua_0 ti_2 lei_4 jie_0 mu_4 you_3 gu_4 shi_0 you_3 ren_0 wu_4 
+you_3 gu_4 shi_0 you_3 ren_0 wu_4 fan_3 zheng_4 wo_3 jve_2 de_0 ni_3 men_0 dian_4 shi_4 gong_1 zuo_0 zhe_3 jiu_0 shi_0 ying_0 gai_1 chong_1 man_3 chuang_4 zao_4 xing_0 hu_2 you_3 zi_4 you_2 du_0 
+fan_3 zheng_4 wo_3 jve_2 de_0 ni_3 men_0 dian_4 shi_4 gong_1 zuo_0 zhe_3 jiu_0 shi_0 ying_0 gai_1 chong_1 man_3 chuang_4 zao_4 xing_0 hu_2 you_3 zi_4 you_2 du_0 zhe_4 gong_1 zuo_0 ke_3 bu_0 neng_2 zhong_4 fu_4 zhong_4 fu_4 liao_3 jiu_0 deng_3 yv_2 zi_4 qv_3 mie_4 wu_2 
+zhe_4 gong_1 zuo_0 ke_3 bu_0 neng_2 zhong_4 fu_4 zhong_4 fu_4 liao_3 jiu_0 deng_3 yv_2 zi_4 qv_3 mie_4 wu_2 ne_4 dang_0 ran_2 liao_3 ru_2 guo_3 shi_0 wo_3 lai_2 zuo_4 zhe_4 dang_3 jie_0 mu_4 
+ne_4 dang_0 ran_2 liao_3 ru_2 guo_3 shi_0 wo_3 lai_2 zuo_4 zhe_4 dang_3 jie_0 mu_4 wo_3 yi_0 ding_4 shi_0 zai_4 jie_4 jian_4 qi_2 ta_1 jie_0 mu_4 di_0 you_1 dian_0 di_0 tong_0 shi_2 chuang_4 zao_4 chu_0 zi_4 ji_3 di_0 xin_1 yi_0 
+wo_3 yi_0 ding_4 shi_0 zai_4 jie_4 jian_4 qi_2 ta_1 jie_0 mu_4 di_0 you_1 dian_0 di_0 tong_0 shi_2 chuang_4 zao_4 chu_0 zi_4 ji_3 di_0 xin_1 yi_0 si_3 si_3 zhua_1 zhu_4 xing_4 fu_2 zhe_4 ge_0 zhu_3 ti_2 zhuan_1 zhu_4 gong_1 xin_0 
+si_3 si_3 zhua_1 zhu_4 xing_4 fu_2 zhe_4 ge_0 zhu_3 ti_2 zhuan_1 zhu_4 gong_1 xin_0 wo_3 yi_0 ding_4 yao_4 chong_4 po_4 lao_2 long_0 qv_0 zuo_4 zi_4 ji_3 
+wo_3 yi_0 ding_4 yao_4 chong_4 po_4 lao_2 long_0 qv_0 zuo_4 zi_4 ji_3 huo_0 chu_0 zi_4 ji_3 di_0 jing_1 cai_0 
+huo_0 chu_0 zi_4 ji_3 di_0 jing_1 cai_0 you_3 xian_4 di_0 wo_3 cai_3 na_4 liao_3 
+you_3 xian_4 di_0 wo_3 cai_3 na_4 liao_3 yi_0 kuai_4 wo_3 jiu_0 qv_0 da_0 di_0 ti_2 $0an_4 qv_0 
+yi_0 kuai_4 wo_3 jiu_0 qv_0 da_0 di_0 ti_2 $0an_4 qv_0 wo_3 qing_3 ni_3 xve_2 xiao_4 yi_4 tang_2 
+wo_3 qing_3 ni_3 xve_2 xiao_4 yi_4 tang_2 xing_2 $0a_0 ni_3 fan_4 qia_3 du_1 you_3 
+xing_2 $0a_0 ni_3 fan_4 qia_3 du_1 you_3 xing_2 ni_3 qing_3 wo_3 chi_1 fan_4 wo_3 qing_3 ni_3 zuo_4 jv_1 
+xing_2 ni_3 qing_3 wo_3 chi_1 fan_4 wo_3 qing_3 ni_3 zuo_4 jv_1 de_0 zhi_1 tan_3 ran_2 shi_0 zhi_1 dan_4 ran_2 shun_4 qi_2 zi_4 ran_2 zheng_4 qi_2 bi_4 ran_2 
+de_0 zhi_1 tan_3 ran_2 shi_0 zhi_1 dan_4 ran_2 shun_4 qi_2 zi_4 ran_2 zheng_4 qi_2 bi_4 ran_2 jia_1 you_2 
+jia_1 you_2 wo_3 zou_3 liao_3 
+wo_3 zou_3 liao_3 bu_4 zhang_3 ni_3 you_4 qv_0 ne_2 liao_3 zhe_4 zhou_1 di_0 bao_4 biao_3 huan_2 deng_3 zhuo_0 ni_3 shen_3 zha_1 qian_1 zi_4 ni_0 wo_3 jin_1 tian_1 you_3 dian_0 si_1 shi_0 yao_4 ban_4 
+bu_4 zhang_3 ni_3 you_4 qv_0 ne_2 liao_3 zhe_4 zhou_1 di_0 bao_4 biao_3 huan_2 deng_3 zhuo_0 ni_3 shen_3 zha_1 qian_1 zi_4 ni_0 wo_3 jin_1 tian_1 you_3 dian_0 si_1 shi_0 yao_4 ban_4 zhe_4 bao_4 biao_3 ni_3 yao_4 kan_0 zhuo_0 mo_4 wen_4 ti_2 ni_3 zhi_2 jie_1 qian_1 liao_3 song_4 liao_3 jiu_0 wan_2 liao_3 
+zhe_4 bao_4 biao_3 ni_3 yao_4 kan_0 zhuo_0 mo_4 wen_4 ti_2 ni_3 zhi_2 jie_1 qian_1 liao_3 song_4 liao_3 jiu_0 wan_2 liao_3 chu_0 liao_3 wen_4 ti_2 wo_3 ke_3 chi_1 bu_0 liao_3 dou_1 zhuo_0 zou_3 
+chu_0 liao_3 wen_4 ti_2 wo_3 ke_3 chi_1 bu_0 liao_3 dou_1 zhuo_0 zou_3 ni_3 zen_3 yao_1 zong_3 you_3 si_1 shi_0 yao_4 ban_4 $0a_0 $0ai_3 yo_0 wu_4 ya_1 zui_3 you_3 shi_0 yao_1 wen_4 ti_2 ke_3 chu_0 di_0 ya_0 
+ni_3 zen_3 yao_1 zong_3 you_3 si_1 shi_0 yao_4 ban_4 $0a_0 $0ai_3 yo_0 wu_4 ya_1 zui_3 you_3 shi_0 yao_1 wen_4 ti_2 ke_3 chu_0 di_0 ya_0 jin_1 tian_1 wo_3 shi_0 ti_4 ni_3 jie_3 fu_0 hu_2 ta_1 men_0 jie_0 li_0 ban_4 shi_0 
+jin_1 tian_1 wo_3 shi_0 ti_4 ni_3 jie_3 fu_0 hu_2 ta_1 men_0 jie_0 li_0 ban_4 shi_0 jiu_0 $0an_4 wo_3 yve_4 di_0 ban_4 ting_0 hua_0 bai_0 bai_0 
+jiu_0 $0an_4 wo_3 yve_4 di_0 ban_4 ting_0 hua_0 bai_0 bai_0 xiao_3 bai_2 ni_3 ji_3 wo_3 ting_0 qing_1 chu_3 liao_3 
+xiao_3 bai_2 ni_3 ji_3 wo_3 ting_0 qing_1 chu_3 liao_3 zhe_4 jian_4 shi_0 qing_0 bu_0 xi_1 yi_0 qie_4 dai_4 jie_0 wo_3 du_1 yao_4 nong_0 ming_2 bai_2 ne_4 ge_0 lao_3 men_2 zai_4 ne_2 kai_1 zhong_4 jie_4 ta_1 lao_3 po_2 zai_4 ne_2 mai_0 zhu_1 rou_4 ni_3 du_1 ji_3 wo_3 nong_0 ming_2 bai_2 liao_3 
+zhe_4 jian_4 shi_0 qing_0 bu_0 xi_1 yi_0 qie_4 dai_4 jie_0 wo_3 du_1 yao_4 nong_0 ming_2 bai_2 ne_4 ge_0 lao_3 men_2 zai_4 ne_2 kai_1 zhong_4 jie_4 ta_1 lao_3 po_2 zai_4 ne_2 mai_0 zhu_1 rou_4 ni_3 du_1 ji_3 wo_3 nong_0 ming_2 bai_2 liao_3 ne_4 wo_3 bu_0 guan_3 wo_3 yao_4 di_0 shi_0 jie_0 guo_3 
+ne_4 wo_3 bu_0 guan_3 wo_3 yao_4 di_0 shi_0 jie_0 guo_3 ni_3 zen_3 yao_1 ne_4 yao_1 duo_1 fei_4 hua_0 ni_0 
+ni_3 zen_3 yao_1 ne_4 yao_1 duo_1 fei_4 hua_0 ni_0 ni_3 zen_3 yao_1 tu_1 ran_2 chu_0 xian_4 zai_4 zhe_4 liao_3 lai_2 ye_3 bu_0 da_0 sheng_0 zhao_1 hu_0 dong_3 liao_3 ji_3 wo_3 lai_2 ge_0 tu_1 ran_2 xi_2 ji_1 
+ni_3 zen_3 yao_1 tu_1 ran_2 chu_0 xian_4 zai_4 zhe_4 liao_3 lai_2 ye_3 bu_0 da_0 sheng_0 zhao_1 hu_0 dong_3 liao_3 ji_3 wo_3 lai_2 ge_0 tu_1 ran_2 xi_2 ji_1 ne_4 lao_3 fu_2 ye_0 tu_1 ji_1 di_0 zhan_0 guo_3 ru_2 he_2 ni_0 
+ne_4 lao_3 fu_2 ye_0 tu_1 ji_1 di_0 zhan_0 guo_3 ru_2 he_2 ni_0 cong_2 jing_1 shen_0 mian_0 mao_4 lai_2 kan_0 huan_2 bi_3 jiao_4 bu_0 cuo_4 
+cong_2 jing_1 shen_0 mian_0 mao_4 lai_2 kan_0 huan_2 bi_3 jiao_4 bu_0 cuo_4 jin_1 tian_1 ni_3 ba_0 ye_3 kua_1 jiang_3 ni_3 liao_3 
+jin_1 tian_1 ni_3 ba_0 ye_3 kua_1 jiang_3 ni_3 liao_3 ma_1 ye_3 ti_4 ni_3 gao_1 xing_0 dan_4 shi_0 bu_0 neng_2 jiao_1 $0ao_4 zi_4 man_3 
+ma_1 ye_3 ti_4 ni_3 gao_1 xing_0 dan_4 shi_0 bu_0 neng_2 jiao_1 $0ao_4 zi_4 man_3 zai_4 zou_3 zhi_1 qian_2 ke_3 yi_3 kan_0 dao_4 ni_3 du_2 dang_0 yi_0 mian_0 
+zai_4 zou_3 zhi_1 qian_2 ke_3 yi_3 kan_0 dao_4 ni_3 du_2 dang_0 yi_0 mian_0 ne_4 bi_4 xv_1 di_0 bi_4 zhi_3 yao_4 ni_3 $0er_0 zi_0 wo_3 xia_0 ding_4 jve_2 xin_0 xiang_3 zuo_4 di_0 shi_0 qing_0 
+ne_4 bi_4 xv_1 di_0 bi_4 zhi_3 yao_4 ni_3 $0er_0 zi_0 wo_3 xia_0 ding_4 jve_2 xin_0 xiang_3 zuo_4 di_0 shi_0 qing_0 bi_4 xv_1 qvan_2 li_4 yi_3 fu_4 
+bi_4 xv_1 qvan_2 li_4 yi_3 fu_4 da_0 wei_4 $0a_0 ni_3 zui_4 jin_4 shang_0 ban_1 di_0 shi_2 hou_0 you_3 mo_4 you_3 fa_0 xian_4 
+da_0 wei_4 $0a_0 ni_3 zui_4 jin_4 shang_0 ban_1 di_0 shi_2 hou_0 you_3 mo_4 you_3 fa_0 xian_4 ni_3 han_2 $0e_1 yi_0 you_3 shi_0 yao_1 bian_4 hua_4 huo_4 zhe_3 shi_0 ni_3 ba_0 ba_0 
+ni_3 han_2 $0e_1 yi_0 you_3 shi_0 yao_1 bian_4 hua_4 huo_4 zhe_3 shi_0 ni_3 ba_0 ba_0 mo_4 you_3 dui_0 liao_3 ta_1 men_0 zui_4 jin_4 kai_1 kuai_4 kai_1 de_0 te_4 bie_0 duo_1 zhi_3 yao_4 wo_3 qv_0 zhao_3 wo_3 ba_0 ta_1 jiu_0 zuo_4 zai_4 ne_4 gen_0 guo_1 yvan_4 zhang_3 kai_1 kuai_4 ni_0 
+mo_4 you_3 dui_0 liao_3 ta_1 men_0 zui_4 jin_4 kai_1 kuai_4 kai_1 de_0 te_4 bie_0 duo_1 zhi_3 yao_4 wo_3 qv_0 zhao_3 wo_3 ba_0 ta_1 jiu_0 zuo_4 zai_4 ne_4 gen_0 guo_1 yvan_4 zhang_3 kai_1 kuai_4 ni_0 gu_4 ji_0 yao_4 jin_4 shi_0 yao_1 xin_1 xiang_0 mu_4 ba_0 
+gu_4 ji_0 yao_4 jin_4 shi_0 yao_1 xin_1 xiang_0 mu_4 ba_0 shi_0 yao_1 shi_0 qing_0 fei_1 yao_4 ni_3 ba_0 qin_1 zi_4 gen_0 zhuo_0 kai_1 kuai_4 $0a_0 
+shi_0 yao_1 shi_0 qing_0 fei_1 yao_4 ni_3 ba_0 qin_1 zi_4 gen_0 zhuo_0 kai_1 kuai_4 $0a_0 bu_0 shi_0 bu_0 kuai_4 chu_0 shi_0 yao_1 shi_0 liao_3 ba_0 
+bu_0 shi_0 bu_0 kuai_4 chu_0 shi_0 yao_1 shi_0 liao_3 ba_0 wo_3 huai_2 yi_2 ni_3 han_2 $0e_1 yi_0 huai_2 yvn_4 liao_3 
+wo_3 huai_2 yi_2 ni_3 han_2 $0e_1 yi_0 huai_2 yvn_4 liao_3 bu_0 shi_0 ta_1 huai_2 yvn_4 liao_3 gan_0 ma_0 bu_0 rang_4 wo_3 men_0 zhi_4 dao_0 $0a_0 
+bu_0 shi_0 ta_1 huai_2 yvn_4 liao_3 gan_0 ma_0 bu_0 rang_4 wo_3 men_0 zhi_4 dao_0 $0a_0 zan_0 men_0 jie_0 jie_0 chan_3 
+zan_0 men_0 jie_0 jie_0 chan_3 ta_1 yao_4 shi_0 zhen_1 di_0 huai_2 yvn_4 liao_3 
+ta_1 yao_4 shi_0 zhen_1 di_0 huai_2 yvn_4 liao_3 zan_0 men_0 jie_0 di_0 jie_0 chan_3 ne_4 jiu_0 duo_1 liao_3 yi_0 ge_0 ren_0 hu_2 ni_3 fen_0 
+zan_0 men_0 jie_0 di_0 jie_0 chan_3 ne_4 jiu_0 duo_1 liao_3 yi_0 ge_0 ren_0 hu_2 ni_3 fen_0 sui_1 ran_2 wo_3 gen_0 ni_3 ba_0 fen_0 shou_0 zhi_1 hou_4 you_3 guo_0 xie_2 yi_4 
+sui_1 ran_2 wo_3 gen_0 ni_3 ba_0 fen_0 shou_0 zhi_1 hou_4 you_3 guo_0 xie_2 yi_4 zai_4 wei_4 lai_2 $0a_0 du_1 zai_4 ni_3 di_0 ming_2 xia_0 
+zai_4 wei_4 lai_2 $0a_0 du_1 zai_4 ni_3 di_0 ming_2 xia_0 dan_4 shi_0 nan_0 jiu_0 nan_0 zai_4 jie_0 zei_2 nan_0 fang_2 $0a_0 
+dan_4 shi_0 nan_0 jiu_0 nan_0 zai_4 jie_0 zei_2 nan_0 fang_2 $0a_0 nin_2 shi_0 yve_4 wo_3 ba_0 xian_4 zai_4 zhi_4 dao_0 han_2 $0e_1 yi_0 huai_2 yvn_4 liao_3 
+nin_2 shi_0 yve_4 wo_3 ba_0 xian_4 zai_4 zhi_4 dao_0 han_2 $0e_1 yi_0 huai_2 yvn_4 liao_3 ruo_4 bu_0 shi_0 jie_0 ting_2 cai_2 chan_3 yin_3 qi_3 jiu_1 fen_1 ne_4 gan_0 ma_0 ta_1 men_0 tou_1 tou_1 mo_0 mo_0 di_0 $0a_0 
+ruo_4 bu_0 shi_0 jie_0 ting_2 cai_2 chan_3 yin_3 qi_3 jiu_1 fen_1 ne_4 gan_0 ma_0 ta_1 men_0 tou_1 tou_1 mo_0 mo_0 di_0 $0a_0 da_0 wei_4 ni_3 xian_1 liu_2 xin_0 guan_4 cha_2 ta_1 men_0 di_0 dong_4 jing_0 dan_4 qian_1 wan_4 bu_0 yao_4 da_0 cao_3 jing_1 yi_2 
+da_0 wei_4 ni_3 xian_1 liu_2 xin_0 guan_4 cha_2 ta_1 men_0 di_0 dong_4 jing_0 dan_4 qian_1 wan_4 bu_0 yao_4 da_0 cao_3 jing_1 yi_2 bi_4 xv_1 xian_1 gao_3 qing_1 chu_3 zhe_4 shi_0 shi_0 bu_0 shi_0 zhen_1 di_0 
+bi_4 xv_1 xian_1 gao_3 qing_1 chu_3 zhe_4 shi_0 shi_0 bu_0 shi_0 zhen_1 di_0 jie_3 ni_3 ke_3 zhen_1 shi_0 wu_4 kuai_4 wo_3 liao_3 
+jie_3 ni_3 ke_3 zhen_1 shi_0 wu_4 kuai_4 wo_3 liao_3 wo_3 ye_3 te_4 bie_0 tong_4 hen_4 ne_4 zhong_3 shi_3 luan_4 zhong_1 qi_4 bei_4 xin_4 qi_4 yi_2 di_0 nan_2 ren_0 
+wo_3 ye_3 te_4 bie_0 tong_4 hen_4 ne_4 zhong_3 shi_3 luan_4 zhong_1 qi_4 bei_4 xin_4 qi_4 yi_2 di_0 nan_2 ren_0 wo_3 yao_4 shi_0 ni_3 jiu_0 ne_4 dui_0 gou_3 nan_2 nv_3 
+wo_3 yao_4 shi_0 ni_3 jiu_0 ne_4 dui_0 gou_3 nan_2 nv_3 tuo_1 guang_1 liao_3 reng_1 da_0 jie_1 shang_0 you_0 xing_2 qv_0 
+tuo_1 guang_1 liao_3 reng_1 da_0 jie_1 shang_0 you_0 xing_2 qv_0 zhe_4 huan_2 bu_0 suan_0 shi_0 yao_1 
+zhe_4 huan_2 bu_0 suan_0 shi_0 yao_1 ne_4 nv_3 di_0 bu_0 shi_0 you_3 ge_0 piao_3 liang_0 lian_3 dan_4 ma_0 
+ne_4 nv_3 di_0 bu_0 shi_0 you_3 ge_0 piao_3 liang_0 lian_3 dan_4 ma_0 lian_3 shang_0 tu_0 man_3 feng_1 mi_4 rang_4 ma_3 feng_1 qv_0 zhe_2 ta_1 zhe_2 dao_4 hui_3 rong_2 wei_0 zhi_3 
+lian_3 shang_0 tu_0 man_3 feng_1 mi_4 rang_4 ma_3 feng_1 qv_0 zhe_2 ta_1 zhe_2 dao_4 hui_3 rong_2 wei_0 zhi_3 wo_3 rang_4 ni_3 zai_4 qv_0 gou_4 yin_3 you_3 fu_0 zhi_1 fu_0 
+wo_3 rang_4 ni_3 zai_4 qv_0 gou_4 yin_3 you_3 fu_0 zhi_1 fu_0 rang_4 ta_1 men_0 bu_0 de_0 hao_3 si_3 
+rang_4 ta_1 men_0 bu_0 de_0 hao_3 si_3 shi_2 da_0 ku_4 xing_2 ting_0 yve_4 guo_0 ba_0 
+shi_2 da_0 ku_4 xing_2 ting_0 yve_4 guo_0 ba_0 yao_0 zhan_3 jv_1 lie_3 jv_4 wu_3 xing_2 
+yao_0 zhan_3 jv_1 lie_3 jv_4 wu_3 xing_2 rang_4 ta_1 men_0 bu_0 de_0 hao_3 si_3 
+rang_4 ta_1 men_0 bu_0 de_0 hao_3 si_3 mei_4 mei_4 ni_3 ke_3 bi_3 wo_3 hen_3 
+mei_4 mei_4 ni_3 ke_3 bi_3 wo_3 hen_3 wo_3 shi_0 ting_3 hen_3 di_0 ke_3 you_4 neng_2 zen_3 yao_1 yang_4 ni_0 
+wo_3 shi_0 ting_3 hen_3 di_0 ke_3 you_4 neng_2 zen_3 yao_1 yang_4 ni_0 jie_3 wo_3 zhi_4 dao_0 ni_3 xian_4 zai_4 huan_2 zai_4 qi_0 tou_0 shang_0 ni_0 
+jie_3 wo_3 zhi_4 dao_0 ni_3 xian_4 zai_4 huan_2 zai_4 qi_0 tou_0 shang_0 ni_0 ke_3 shi_0 ni_3 you_3 xiang_3 guo_0 men_2 tong_2 ma_0 
+ke_3 shi_0 ni_3 you_3 xiang_3 guo_0 men_2 tong_2 ma_0 yi_0 ge_0 wei_4 cheng_2 nian_2 di_0 hai_2 zi_0 sheng_0 huo_0 zai_4 yi_0 ge_0 zhi_1 li_2 po_4 sui_4 di_0 jie_0 ting_2 li_0 
+yi_0 ge_0 wei_4 cheng_2 nian_2 di_0 hai_2 zi_0 sheng_0 huo_0 zai_4 yi_0 ge_0 zhi_1 li_2 po_4 sui_4 di_0 jie_0 ting_2 li_0 dui_0 ta_1 di_0 cheng_2 zhang_3 you_3 duo_1 da_0 di_0 shang_1 hai_4 ma_0 
+dui_0 ta_1 di_0 cheng_2 zhang_3 you_3 duo_1 da_0 di_0 shang_1 hai_4 ma_0 bao_4 zhi_3 shang_0 bao_4 dao_0 ne_4 xie_1 wei_4 cheng_2 nian_2 di_0 hai_2 zi_0 fan_4 zui_4 
+bao_4 zhi_3 shang_0 bao_4 dao_0 ne_4 xie_1 wei_4 cheng_2 nian_2 di_0 hai_2 zi_0 fan_4 zui_4 ta_1 men_0 da_0 duo_1 shu_0 shi_0 sheng_0 huo_0 zai_4 bu_0 wan_2 zheng_3 di_0 jie_0 ting_2 
+ta_1 men_0 da_0 duo_1 shu_0 shi_0 sheng_0 huo_0 zai_4 bu_0 wan_2 zheng_3 di_0 jie_0 ting_2 mo_4 you_3 de_0 dao_4 fu_0 mu_0 di_0 wen_1 nuan_3 hu_2 guan_1 $0ai_4 
+mo_4 you_3 de_0 dao_4 fu_0 mu_0 di_0 wen_1 nuan_3 hu_2 guan_1 $0ai_4 ta_1 men_0 bu_0 shi_0 tou_1 jiu_0 shi_0 qiang_3 shen_2 zhi_4 qv_0 sha_1 ren_0 fang_4 huo_3 nan_0 dao_0 ni_3 xi_1 wang_4 ni_3 di_0 hai_2 zi_0 
+ta_1 men_0 bu_0 shi_0 tou_1 jiu_0 shi_0 qiang_3 shen_2 zhi_4 qv_0 sha_1 ren_0 fang_4 huo_3 nan_0 dao_0 ni_3 xi_1 wang_4 ni_3 di_0 hai_2 zi_0 jin_1 hou_4 ye_3 zou_3 dao_4 ne_4 yang_4 di_0 dao_0 lu_4 ma_0 
+jin_1 hou_4 ye_3 zou_3 dao_4 ne_4 yang_4 di_0 dao_0 lu_4 ma_0 bu_0 man_2 ni_3 yve_4 
+bu_0 man_2 ni_3 yve_4 da_0 xiao_3 wo_3 jiu_0 sheng_0 huo_0 zai_4 yi_0 ge_0 mo_4 you_3 mu_0 qin_1 di_0 jie_0 ting_2 
+da_0 xiao_3 wo_3 jiu_0 sheng_0 huo_0 zai_4 yi_0 ge_0 mo_4 you_3 mu_0 qin_1 di_0 jie_0 ting_2 cong_2 xiao_3 dao_4 da_0 wo_3 mo_4 chi_1 guo_0 yi_0 dian_0 ku_3 
+cong_2 xiao_3 dao_4 da_0 wo_3 mo_4 chi_1 guo_0 yi_0 dian_0 ku_3 dan_4 shi_0 wo_3 xin_0 li_0 te_4 bie_0 neng_2 li_0 xie_4 shi_0 qv_0 qin_1 ren_0 di_0 tong_4 ku_3 
+dan_4 shi_0 wo_3 xin_0 li_0 te_4 bie_0 neng_2 li_0 xie_4 shi_0 qv_0 qin_1 ren_0 di_0 tong_4 ku_3 ni_3 zhi_4 dao_0 di_0 wo_3 gen_0 ne_4 ge_0 qian_0 tu_2 shi_0 jia_3 jie_0 hun_1 
+ni_3 zhi_4 dao_0 di_0 wo_3 gen_0 ne_4 ge_0 qian_0 tu_2 shi_0 jia_3 jie_0 hun_1 wo_3 wei_0 shi_0 yao_1 yao_4 gen_0 ta_1 jia_3 jie_0 hun_1 $0a_0 
+wo_3 wei_0 shi_0 yao_1 yao_4 gen_0 ta_1 jia_3 jie_0 hun_1 $0a_0 wo_3 yi_0 bu_0 qve_1 qian_0 $0er_4 bu_0 qve_1 ren_0 wo_3 huan_2 nian_2 qing_1 piao_3 liang_0 
+wo_3 yi_0 bu_0 qve_1 qian_0 $0er_4 bu_0 qve_1 ren_0 wo_3 huan_2 nian_2 qing_1 piao_3 liang_0 zhao_3 yi_0 ge_0 ming_2 zheng_4 yan_2 shun_4 di_0 die_1 
+zhao_3 yi_0 ge_0 ming_2 zheng_4 yan_2 shun_4 di_0 die_1 wo_3 zhen_1 shi_0 bu_0 xi_1 wang_4 wo_3 zhe_4 hai_2 zi_0 yi_0 chu_0 sheng_0 
+wo_3 zhen_1 shi_0 bu_0 xi_1 wang_4 wo_3 zhe_4 hai_2 zi_0 yi_0 chu_0 sheng_0 jiu_0 shou_4 dao_4 bie_0 ren_0 di_0 qi_2 shi_4 
+jiu_0 shou_4 dao_4 bie_0 ren_0 di_0 qi_2 shi_4 ke_3 shi_0 wo_3 yi_0 xiang_3 qi_3 ne_4 liang_3 ge_0 gou_3 nan_2 nv_3 zai_4 yi_0 qi_3 
+ke_3 shi_0 wo_3 yi_0 xiang_3 qi_3 ne_4 liang_3 ge_0 gou_3 nan_2 nv_3 zai_4 yi_0 qi_3 wo_3 jiu_0 cong_2 xin_0 li_0 tou_0 wo_3 wu_0 xin_0 wo_3 nan_0 shou_4 
+wo_3 jiu_0 cong_2 xin_0 li_0 tou_0 wo_3 wu_0 xin_0 wo_3 nan_0 shou_4 wo_3 xian_4 zai_4 shi_0 wei_0 wo_3 $0er_0 zi_0 huo_0 zhuo_0 ni_0 
+wo_3 xian_4 zai_4 shi_0 wei_0 wo_3 $0er_0 zi_0 huo_0 zhuo_0 ni_0 ke_3 shi_0 jie_3 zhe_4 yang_4 yi_0 jv_4 hua_0 bu_0 zhi_4 dao_0 ni_3 ting_0 mo_4 ting_0 yve_4 guo_0 
+ke_3 shi_0 jie_3 zhe_4 yang_4 yi_0 jv_4 hua_0 bu_0 zhi_4 dao_0 ni_3 ting_0 mo_4 ting_0 yve_4 guo_0 hen_3 duo_1 shi_0 bu_0 shi_0 yin_1 wei_0 ta_1 nan_0 zuo_4 ni_3 cai_2 shi_0 qv_0 xin_4 xin_0 
+hen_3 duo_1 shi_0 bu_0 shi_0 yin_1 wei_0 ta_1 nan_0 zuo_4 ni_3 cai_2 shi_0 qv_0 xin_4 xin_0 shi_0 ni_3 xian_1 shi_0 qv_0 xin_4 xin_0 liao_3 ta_1 cai_2 bian_4 de_0 nan_0 zuo_4 liao_3 
+shi_0 ni_3 xian_1 shi_0 qv_0 xin_4 xin_0 liao_3 ta_1 cai_2 bian_4 de_0 nan_0 zuo_4 liao_3 ne_2 pa_4 shi_0 fan_4 ren_0 ni_0 
+ne_2 pa_4 shi_0 fan_4 ren_0 ni_0 du_1 kuai_4 ji_3 yi_0 ge_0 tan_3 bai_2 cong_2 kuan_1 di_0 ji_1 kuai_4 
+du_1 kuai_4 ji_3 yi_0 ge_0 tan_3 bai_2 cong_2 kuan_1 di_0 ji_1 kuai_4 ni_3 hao_3 dai_3 ji_3 ta_1 ge_0 ji_1 kuai_4 ren_4 ge_0 cuo_4 ba_0 
+ni_3 hao_3 dai_3 ji_3 ta_1 ge_0 ji_1 kuai_4 ren_4 ge_0 cuo_4 ba_0 bu_0 man_2 ni_3 yve_4 $0a_0 wo_3 lai_2 zhao_3 ni_3 zhi_1 qian_2 
+bu_0 man_2 ni_3 yve_4 $0a_0 wo_3 lai_2 zhao_3 ni_3 zhi_1 qian_2 wo_3 yi_3 jing_0 lian_2 xi_0 guo_0 ta_1 liao_3 ta_1 biao_3 shi_4 yvan_4 yi_0 zuo_4 xia_0 lai_2 
+wo_3 yi_3 jing_0 lian_2 xi_0 guo_0 ta_1 liao_3 ta_1 biao_3 shi_4 yvan_4 yi_0 zuo_4 xia_0 lai_2 tao_2 xin_0 wo_0 di_0 gen_0 nin_2 hao_3 hao_3 di_0 hu_2 tan_2 
+tao_2 xin_0 wo_0 di_0 gen_0 nin_2 hao_3 hao_3 di_0 hu_2 tan_2 ta_1 yve_4 ta_1 yvan_4 yi_0 gen_0 wo_3 hu_2 tan_2 
+ta_1 yve_4 ta_1 yvan_4 yi_0 gen_0 wo_3 hu_2 tan_2 zhe_4 ge_0 men_2 da_0 ge_0 zhe_4 bu_0 kan_0 seng_1 mian_0 ye_3 de_0 kan_0 fu_2 mian_0 sao_3 zi_0 wo_3 ji_3 ni_3 dai_4 lai_2 liao_3 
+zhe_4 ge_0 men_2 da_0 ge_0 zhe_4 bu_0 kan_0 seng_1 mian_0 ye_3 de_0 kan_0 fu_2 mian_0 sao_3 zi_0 wo_3 ji_3 ni_3 dai_4 lai_2 liao_3 jie_1 xia_0 lai_2 zen_3 yao_1 zuo_4 de_0 kan_0 ni_3 zi_4 ji_3 liao_3 shi_0 bu_0 shi_0 
+jie_1 xia_0 lai_2 zen_3 yao_1 zuo_4 de_0 kan_0 ni_3 zi_4 ji_3 liao_3 shi_0 bu_0 shi_0 zhe_4 ge_0 
+zhe_4 ge_0 qi_2 shi_0 ba_0 
+qi_2 shi_0 ba_0 zen_3 yao_1 yve_4 wo_3 cuo_4 liao_3 wo_3 cuo_4 liao_3 bie_0 ji_2 ni_3 ting_0 wo_3 yve_4 yve_4 wan_2 xing_2 ma_0 
+zen_3 yao_1 yve_4 wo_3 cuo_4 liao_3 wo_3 cuo_4 liao_3 bie_0 ji_2 ni_3 ting_0 wo_3 yve_4 yve_4 wan_2 xing_2 ma_0 wo_3 zhe_4 xiu_4 de_2 xing_0 
+wo_3 zhe_4 xiu_4 de_2 xing_0 wo_3 zen_3 yao_1 jiu_0 ne_4 yao_1 $0ai_4 dei_1 se_4 ni_3 yve_4 wo_3 hao_3 hao_3 shang_0 ge_0 ban_1 ba_0 wo_3 dei_1 se_4 shi_0 yao_1 ya_0 wo_3 
+wo_3 zen_3 yao_1 jiu_0 ne_4 yao_1 $0ai_4 dei_1 se_4 ni_3 yve_4 wo_3 hao_3 hao_3 shang_0 ge_0 ban_1 ba_0 wo_3 dei_1 se_4 shi_0 yao_1 ya_0 wo_3 wo_3 yi_0 kuai_4 lai_2 ge_0 duan_4 zi_0 ba_0 wo_3 yi_0 kuai_4 wo_3 you_4 heng_0 ge_0 ge_0 wo_3 rang_4 ren_0 jve_2 de_0 wo_3 duo_1 you_3 cai_2 hua_2 zen_3 yao_1 zhuo_0 liao_3 shi_4 di_0 
+wo_3 yi_0 kuai_4 lai_2 ge_0 duan_4 zi_0 ba_0 wo_3 yi_0 kuai_4 wo_3 you_4 heng_0 ge_0 ge_0 wo_3 rang_4 ren_0 jve_2 de_0 wo_3 duo_1 you_3 cai_2 hua_2 zen_3 yao_1 zhuo_0 liao_3 shi_4 di_0 zhe_4 yi_0 pu_1 ni_0 huan_2 jiu_0 ba_3 wo_3 ji_3 pu_1 dao_3 liao_3 
+zhe_4 yi_0 pu_1 ni_0 huan_2 jiu_0 ba_3 wo_3 ji_3 pu_1 dao_3 liao_3 qi_2 shi_0 wu_2 liang_4 mei_4 zi_0 wo_3 ye_3 shi_0 yi_0 shou_4 hai_4 zhe_3 $0a_0 
+qi_2 shi_0 wu_2 liang_4 mei_4 zi_0 wo_3 ye_3 shi_0 yi_0 shou_4 hai_4 zhe_3 $0a_0 ni_3 fang_4 pi_4 ni_3 shi_0 yao_1 de_2 xing_0 wo_3 bu_0 zhi_4 dao_0 $0a_0 ni_3 yi_0 kan_0 xian_4 piao_3 liang_0 nv_3 di_0 ni_3 zhe_4 ge_0 dei_1 se_4 ya_0 dei_1 se_4 ya_0 
+ni_3 fang_4 pi_4 ni_3 shi_0 yao_1 de_2 xing_0 wo_3 bu_0 zhi_4 dao_0 $0a_0 ni_3 yi_0 kan_0 xian_4 piao_3 liang_0 nv_3 di_0 ni_3 zhe_4 ge_0 dei_1 se_4 ya_0 dei_1 se_4 ya_0 huan_2 ren_0 jie_0 pu_1 ni_3 du_1 chou_2 si_3 wo_3 liao_3 zhen_1 di_0 zhe_4 ci_4 zhen_1 di_0 shi_0 ta_1 xian_1 pu_1 di_0 wo_3 wo_3 dui_0 tian_1 fa_0 shi_4 ru_2 guo_3 wo_3 yve_4 yi_0 jv_4 huang_3 hua_0 
+huan_2 ren_0 jie_0 pu_1 ni_3 du_1 chou_2 si_3 wo_3 liao_3 zhen_1 di_0 zhe_4 ci_4 zhen_1 di_0 shi_0 ta_1 xian_1 pu_1 di_0 wo_3 wo_3 dui_0 tian_1 fa_0 shi_4 ru_2 guo_3 wo_3 yve_4 yi_0 jv_4 huang_3 hua_0 da_0 yi_0 lei_2 ba_3 wo_3 pi_3 si_3 wo_3 zhen_1 di_0 pa_4 lei_2 ba_3 ni_3 ji_3 pi_3 si_3 huan_2 ren_0 jie_0 pu_1 ni_3 pu_1 ni_3 sha_2 $0a_0 
+da_0 yi_0 lei_2 ba_3 wo_3 pi_3 si_3 wo_3 zhen_1 di_0 pa_4 lei_2 ba_3 ni_3 ji_3 pi_3 si_3 huan_2 ren_0 jie_0 pu_1 ni_3 pu_1 ni_3 sha_2 $0a_0 bu_0 jiu_0 pu_1 ni_3 dou_1 li_0 ne_4 liang_3 xiu_4 qian_0 ma_0 da_0 jie_3 da_0 ge_0 zan_0 du_1 bie_0 ji_1 dong_4 ma_0 
+bu_0 jiu_0 pu_1 ni_3 dou_1 li_0 ne_4 liang_3 xiu_4 qian_0 ma_0 da_0 jie_3 da_0 ge_0 zan_0 du_1 bie_0 ji_1 dong_4 ma_0 zhe_4 zan_0 men_0 jin_1 tian_1 shi_0 wei_0 liao_3 hai_2 zi_0 zuo_4 xia_0 lai_2 hu_2 tan_2 di_0 
+zhe_4 zan_0 men_0 jin_1 tian_1 shi_0 wei_0 liao_3 hai_2 zi_0 zuo_4 xia_0 lai_2 hu_2 tan_2 di_0 zhe_4 yao_4 shui_2 zai_4 jiu_1 zhe_4 ge_0 li_4 shi_3 yi_2 liu_2 wen_4 ti_2 ne_4 jiu_0 shi_0 shui_2 di_0 bu_0 dui_0 liao_3 
+zhe_4 yao_4 shui_2 zai_4 jiu_1 zhe_4 ge_0 li_4 shi_3 yi_2 liu_2 wen_4 ti_2 ne_4 jiu_0 shi_0 shui_2 di_0 bu_0 dui_0 liao_3 wo_3 yao_4 shi_0 bu_0 ke_3 lian_2 wo_3 ne_4 $0er_0 zi_0 
+wo_3 yao_4 shi_0 bu_0 ke_3 lian_2 wo_3 ne_4 $0er_0 zi_0 wo_3 duo_1 kan_0 ta_1 yi_0 yan_3 wo_3 du_1 bu_0 xiang_3 kan_0 
+wo_3 duo_1 kan_0 ta_1 yi_0 yan_3 wo_3 du_1 bu_0 xiang_3 kan_0 zhe_4 su_2 hua_0 yve_4 de_0 hao_3 jie_0 hu_2 wan_4 shi_0 xing_0 
+zhe_4 su_2 hua_0 yve_4 de_0 hao_3 jie_0 hu_2 wan_4 shi_0 xing_0 zhe_4 you_3 liao_3 jie_0 ting_2 cai_2 neng_2 you_3 shi_0 ye_4 
+zhe_4 you_3 liao_3 jie_0 ting_2 cai_2 neng_2 you_3 shi_0 ye_4 you_3 liao_3 shi_0 ye_4 cai_2 neng_2 cheng_2 wei_0 yi_0 ge_0 zhen_1 zheng_4 di_0 nan_2 ren_0 
+you_3 liao_3 shi_0 ye_4 cai_2 neng_2 cheng_2 wei_0 yi_0 ge_0 zhen_1 zheng_4 di_0 nan_2 ren_0 zhe_4 jin_1 tian_1 sao_3 zi_0 du_1 yi_3 jing_0 zuo_4 xia_0 lai_2 gen_0 ni_3 tan_2 liao_3 
+zhe_4 jin_1 tian_1 sao_3 zi_0 du_1 yi_3 jing_0 zuo_4 xia_0 lai_2 gen_0 ni_3 tan_2 liao_3 zhe_4 huan_2 bu_0 ming_2 xian_3 ma_0 sao_3 zi_0 ta_1 yi_3 jing_0 yvan_2 liang_4 ni_3 liao_3 ya_0 zhe_4 jie_1 xia_0 lai_2 gai_1 zen_3 yao_1 ban_4 jiu_0 kan_0 ni_3 zi_4 ji_3 liao_3 $0a_0 
+zhe_4 huan_2 bu_0 ming_2 xian_3 ma_0 sao_3 zi_0 ta_1 yi_3 jing_0 yvan_2 liang_4 ni_3 liao_3 ya_0 zhe_4 jie_1 xia_0 lai_2 gai_1 zen_3 yao_1 ban_4 jiu_0 kan_0 ni_3 zi_4 ji_3 liao_3 $0a_0 wo_3 wo_3 bi_4 xv_1 wo_3 de_0 duan_1 zheng_4 tai_4 du_0 
+wo_3 wo_3 bi_4 xv_1 wo_3 de_0 duan_1 zheng_4 tai_4 du_0 wu_2 liang_4 mei_4 zi_0 ni_3 yve_4 de_0 tai_4 dui_0 liao_3 jie_0 hu_2 wan_4 shi_0 xing_0 
+wu_2 liang_4 mei_4 zi_0 ni_3 yve_4 de_0 tai_4 dui_0 liao_3 jie_0 hu_2 wan_4 shi_0 xing_0 hong_2 hua_2 
+hong_2 hua_2 zan_0 liang_3 jie_0 hun_1 zhe_4 yao_1 duo_1 nian_2 ni_3 dui_0 jie_0 ni_0 jve_2 dui_0 yi_0 bai_3 yi_0 mo_4 di_0 yve_4 
+zan_0 liang_3 jie_0 hun_1 zhe_4 yao_1 duo_1 nian_2 ni_3 dui_0 jie_0 ni_0 jve_2 dui_0 yi_0 bai_3 yi_0 mo_4 di_0 yve_4 wo_3 dui_0 zan_0 jie_0 li_0 ye_3 shi_0 pao_3 qian_2 pao_3 hou_4 $0a_0 
+wo_3 dui_0 zan_0 jie_0 li_0 ye_3 shi_0 pao_3 qian_2 pao_3 hou_4 $0a_0 mei_3 tian_1 yi_0 zheng_1 yan_3 
+mei_3 tian_1 yi_0 zheng_1 yan_3 sao_3 di_0 ca_1 zhuo_1 zi_0 dao_3 la_1 ji_1 
+sao_3 di_0 ca_1 zhuo_1 zi_0 dao_3 la_1 ji_1 mai_3 cai_4 zuo_4 fan_4 shua_4 jie_0 huo_0 ne_2 yang_4 bu_0 shi_0 wo_3 
+mai_3 cai_4 zuo_4 fan_4 shua_4 jie_0 huo_0 ne_2 yang_4 bu_0 shi_0 wo_3 ni_3 huai_2 zhuo_0 men_2 tong_2 ne_4 kuai_4 ye_4 li_0 shi_2 dian_0 duo_1 liao_3 $0a_0 
+ni_3 huai_2 zhuo_0 men_2 tong_2 ne_4 kuai_4 ye_4 li_0 shi_2 dian_0 duo_1 liao_3 $0a_0 gao_4 su_4 wo_3 xiang_3 chi_1 re_4 you_2 tiao_2 shi_0 shui_2 pao_3 bian_4 liao_3 bei_3 jing_1 cheng_2 qv_0 ji_3 ni_3 mai_3 re_4 you_2 tiao_2 $0a_0 
+gao_4 su_4 wo_3 xiang_3 chi_1 re_4 you_2 tiao_2 shi_0 shui_2 pao_3 bian_4 liao_3 bei_3 jing_1 cheng_2 qv_0 ji_3 ni_3 mai_3 re_4 you_2 tiao_2 $0a_0 shi_0 wo_3 deng_3 wo_3 hao_3 bu_0 rong_2 yi_4 ba_3 re_4 you_2 tiao_2 mai_3 hui_2 lai_2 liao_3 
+shi_0 wo_3 deng_3 wo_3 hao_3 bu_0 rong_2 yi_4 ba_3 re_4 you_2 tiao_2 mai_3 hui_2 lai_2 liao_3 yi_0 jin_4 men_2 ta_1 gai_3 zhu_3 yi_0 yve_4 xiang_3 chi_1 bing_1 ji_1 ling_2 
+yi_0 jin_4 men_2 ta_1 gai_3 zhu_3 yi_0 yve_4 xiang_3 chi_1 bing_1 ji_1 ling_2 shi_0 shui_2 $0er_4 hua_0 bu_0 yve_4 fang_4 xia_0 you_2 tiao_2 pao_3 chu_0 qv_0 ji_3 ni_3 mai_3 bing_1 ji_1 ling_2 
+shi_0 shui_2 $0er_4 hua_0 bu_0 yve_4 fang_4 xia_0 you_2 tiao_2 pao_3 chu_0 qv_0 ji_3 ni_3 mai_3 bing_1 ji_1 ling_2 huan_2 shi_0 wo_3 
+huan_2 shi_0 wo_3 zan_0 liang_3 gang_1 ren_4 zhi_4 ne_4 kuai_4 
+zan_0 liang_3 gang_1 ren_4 zhi_4 ne_4 kuai_4 wo_3 yi_0 bai_3 si_4 ni_3 yi_0 bai_3 $0er_4 zhe_4 jie_0 hun_1 zhe_4 yao_1 duo_1 nian_2 sheng_0 liao_3 hai_2 zi_0 
+wo_3 yi_0 bai_3 si_4 ni_3 yi_0 bai_3 $0er_4 zhe_4 jie_0 hun_1 zhe_4 yao_1 duo_1 nian_2 sheng_0 liao_3 hai_2 zi_0 wo_3 yi_0 bai_3 $0er_4 liao_3 ni_3 kuai_0 liang_3 bai_3 si_4 liao_3 
+wo_3 yi_0 bai_3 $0er_4 liao_3 ni_3 kuai_0 liang_3 bai_3 si_4 liao_3 zhe_4 yve_4 ming_2 shi_0 yao_1 $0a_0 
+zhe_4 yve_4 ming_2 shi_0 yao_1 $0a_0 yve_4 ming_2 ni_3 xin_0 kuan_1 ti_3 pang_4 ri_0 zi_0 guo_0 de_0 mei_3 
+yve_4 ming_2 ni_3 xin_0 kuan_1 ti_3 pang_4 ri_0 zi_0 guo_0 de_0 mei_3 zhe_4 shui_2 di_0 gong_1 lao_2 wo_3 
+zhe_4 shui_2 di_0 gong_1 lao_2 wo_3 ni_3 pi_2 qi_0 bu_0 hao_3 
+ni_3 pi_2 qi_0 bu_0 hao_3 wo_3 chu_0 chu_0 sui_2 zhuo_0 ni_3 wo_3 rang_4 zhuo_0 ni_3 
+wo_3 chu_0 chu_0 sui_2 zhuo_0 ni_3 wo_3 rang_4 zhuo_0 ni_3 ne_4 nian_2 guo_0 nian_2 zai_4 ni_3 men_0 jie_0 dang_0 ne_4 yao_1 duo_1 ren_0 ni_3 ji_3 wo_3 lai_2 yi_0 da_0 bei_4 kua_4 
+ne_4 nian_2 guo_0 nian_2 zai_4 ni_3 men_0 jie_0 dang_0 ne_4 yao_1 duo_1 ren_0 ni_3 ji_3 wo_3 lai_2 yi_0 da_0 bei_4 kua_4 wo_3 yve_4 guo_0 yi_0 jv_4 hua_0 mo_4 you_3 
+wo_3 yve_4 guo_0 yi_0 jv_4 hua_0 mo_4 you_3 dan_4 shi_0 zhe_4 ci_4 zhe_4 jian_4 shi_0 wo_3 nao_3 zi_0 li_0 zi_4 shi_3 zhi_4 zhong_1 
+dan_4 shi_0 zhe_4 ci_4 zhe_4 jian_4 shi_0 wo_3 nao_3 zi_0 li_0 zi_4 shi_3 zhi_4 zhong_1 wo_3 jiu_0 mo_4 shan_0 xian_4 guo_0 ne_2 pa_4 yi_0 si_1 yi_0 hao_2 li_2 hun_1 di_0 nian_4 tou_0 wei_0 shi_0 yao_1 
+wo_3 jiu_0 mo_4 shan_0 xian_4 guo_0 ne_2 pa_4 yi_0 si_1 yi_0 hao_2 li_2 hun_1 di_0 nian_4 tou_0 wei_0 shi_0 yao_1 wo_3 $0ai_4 zhe_4 ge_0 jie_0 wo_3 $0ai_4 hai_2 zi_0 wo_3 ye_3 $0ai_4 ni_3 
+wo_3 $0ai_4 zhe_4 ge_0 jie_0 wo_3 $0ai_4 hai_2 zi_0 wo_3 ye_3 $0ai_4 ni_3 wo_3 fan_4 liao_3 cuo_4 ni_3 jiu_0 dang_0 wo_3 bu_0 dong_3 shi_0 wo_3 shi_0 yi_0 chi_1 shi_3 di_0 hai_2 zi_0 wo_3 chi_1 liao_3 pao_0 shi_3 
+wo_3 fan_4 liao_3 cuo_4 ni_3 jiu_0 dang_0 wo_3 bu_0 dong_3 shi_0 wo_3 shi_0 yi_0 chi_1 shi_3 di_0 hai_2 zi_0 wo_3 chi_1 liao_3 pao_0 shi_3 ni_3 yvan_2 liang_4 wo_3 xing_2 bu_0 xing_2 
+ni_3 yvan_2 liang_4 wo_3 xing_2 bu_0 xing_2 ne_4 ni_3 yi_3 hou_4 yao_4 zai_4 fan_4 ni_0 wo_3 zen_3 yao_1 ke_3 neng_2 zai_4 fan_4 nin_2 zhe_4 yi_0 nu_4 $0a_0 
+ne_4 ni_3 yi_3 hou_4 yao_4 zai_4 fan_4 ni_0 wo_3 zen_3 yao_1 ke_3 neng_2 zai_4 fan_4 nin_2 zhe_4 yi_0 nu_4 $0a_0 ba_3 wo_3 ji_3 hong_1 chu_0 qv_0 liao_3 wo_3 yi_3 jing_0 liu_2 luo_0 jie_1 tou_0 liao_3 
+ba_3 wo_3 ji_3 hong_1 chu_0 qv_0 liao_3 wo_3 yi_3 jing_0 liu_2 luo_0 jie_1 tou_0 liao_3 wo_3 xian_4 zai_4 shou_0 li_0 yao_4 na_2 yi_0 $0er_4 hu_0 mian_0 qian_2 zai_4 fang_4 yi_0 wan_3 
+wo_3 xian_4 zai_4 shou_0 li_0 yao_4 na_2 yi_0 $0er_4 hu_0 mian_0 qian_2 zai_4 fang_4 yi_0 wan_3 zhen_1 di_0 wo_3 xiang_4 ni_3 bao_3 zheng_4 
+zhen_1 di_0 wo_3 xiang_4 ni_3 bao_3 zheng_4 wo_3 cong_2 jin_1 yi_3 hou_4 xi_3 xin_0 ji_2 mian_0 zhong_4 xin_1 zuo_4 ren_0 yong_3 bu_0 zai_4 fan_4 
+wo_3 cong_2 jin_1 yi_3 hou_4 xi_3 xin_0 ji_2 mian_0 zhong_4 xin_1 zuo_4 ren_0 yong_3 bu_0 zai_4 fan_4 wo_3 hao_3 hao_3 guo_0 ri_0 zi_0 bu_0 re_3 ni_3 sheng_0 qi_0 
+wo_3 hao_3 hao_3 guo_0 ri_0 zi_0 bu_0 re_3 ni_3 sheng_0 qi_0 wo_3 ye_3 bu_0 gu_1 fu_4 wu_2 liang_4 mei_4 zi_0 zhe_4 yi_0 pan_1 hao_3 yi_0 
+wo_3 ye_3 bu_0 gu_1 fu_4 wu_2 liang_4 mei_4 zi_0 zhe_4 yi_0 pan_1 hao_3 yi_0 shi_0 $0a_0 
+shi_0 $0a_0 mei_4 zi_0 wo_3 tai_4 gan_3 xie_4 ni_3 liao_3 ni_3 zheng_3 jiu_4 liao_3 wo_3 yi_0 ge_0 po_4 sui_4 di_0 jie_0 ting_2 
+mei_4 zi_0 wo_3 tai_4 gan_3 xie_4 ni_3 liao_3 ni_3 zheng_3 jiu_4 liao_3 wo_3 yi_0 ge_0 po_4 sui_4 di_0 jie_0 ting_2 dui_0 liao_3 jiu_0 shi_0 ne_4 ge_0 fang_0 zi_0 qian_1 zi_4 ge_3 zhang_1 di_0 shi_0 
+dui_0 liao_3 jiu_0 shi_0 ne_4 ge_0 fang_0 zi_0 qian_1 zi_4 ge_3 zhang_1 di_0 shi_0 dui_0 dui_0 dui_0 sao_3 zi_0 jin_3 kuai_0 ji_3 ni_3 ban_4 liao_3 
+dui_0 dui_0 dui_0 sao_3 zi_0 jin_3 kuai_0 ji_3 ni_3 ban_4 liao_3 xie_4 xie_4 sao_3 zi_0 
+xie_4 xie_4 sao_3 zi_0 wo_3 de_0 xie_4 xie_4 ni_3 $0a_0 
+wo_3 de_0 xie_4 xie_4 ni_3 $0a_0 da_0 ge_0 da_0 ge_0 jie_0 hu_2 wan_4 shi_0 xing_0 
+da_0 ge_0 da_0 ge_0 jie_0 hu_2 wan_4 shi_0 xing_0 dui_0 jie_0 hu_2 wan_4 shi_0 xing_0 
+dui_0 jie_0 hu_2 wan_4 shi_0 xing_0 yi_0 yan_2 nan_0 jin_3 bei_0 
+yi_0 yan_2 nan_0 jin_3 bei_0 zhe_4 ge_0 $0an_1 hua_2 mei_3 tian_1 zai_4 yi_1 yvan_4 li_0 zuo_4 zhen_4 
+zhe_4 ge_0 $0an_1 hua_2 mei_3 tian_1 zai_4 yi_1 yvan_4 li_0 zuo_4 zhen_4 zui_3 shang_0 yve_4 shi_0 jian_4 du_0 da_0 wei_4 
+zui_3 shang_0 yve_4 shi_0 jian_4 du_0 da_0 wei_4 shi_0 ji_4 shang_0 jiu_0 shi_0 xiang_3 cao_1 kong_4 qvan_2 jv_2 
+shi_0 ji_4 shang_0 jiu_0 shi_0 xiang_3 cao_1 kong_4 qvan_2 jv_2 wo_3 yi_0 fang_1 mian_0 yao_4 ren_3 shou_4 ta_1 duo_1 duo_1 bi_1 ren_0 di_0 zhang_4 mu_4 shen_3 zha_1 
+wo_3 yi_0 fang_1 mian_0 yao_4 ren_3 shou_4 ta_1 duo_1 duo_1 bi_1 ren_0 di_0 zhang_4 mu_4 shen_3 zha_1 ling_4 yi_0 fang_1 mian_0 wo_3 huan_2 yao_4 zai_4 lao_3 sun_1 mian_0 qian_2 
+ling_4 yi_0 fang_1 mian_0 wo_3 huan_2 yao_4 zai_4 lao_3 sun_1 mian_0 qian_2 ban_0 yan_3 shan_4 liang_2 xian_2 shu_1 di_0 nv_3 ren_0 wo_3 du_1 kuai_0 feng_1 liao_3 
+ban_0 yan_3 shan_4 liang_2 xian_2 shu_1 di_0 nv_3 ren_0 wo_3 du_1 kuai_0 feng_1 liao_3 ni_3 zhe_4 yang_4 xia_0 qv_0 ye_3 bu_0 shi_0 ge_0 ban_4 fa_0 $0a_0 
+ni_3 zhe_4 yang_4 xia_0 qv_0 ye_3 bu_0 shi_0 ge_0 ban_4 fa_0 $0a_0 mei_3 tian_1 tai_2 tou_0 bu_0 xian_4 di_1 tou_0 xian_4 di_0 
+mei_3 tian_1 tai_2 tou_0 bu_0 xian_4 di_1 tou_0 xian_4 di_0 ne_4 de_0 duo_1 zao_1 xin_0 ne_0 
+ne_4 de_0 duo_1 zao_1 xin_0 ne_0 shi_0 $0a_0 
+shi_0 $0a_0 sui_1 yve_4 mei_3 jing_0 zai_4 zan_0 men_0 jie_3 mei_4 dang_0 zhong_4 shi_0 zui_4 feng_1 guang_1 di_0 
+sui_1 yve_4 mei_3 jing_0 zai_4 zan_0 men_0 jie_3 mei_4 dang_0 zhong_4 shi_0 zui_4 feng_1 guang_1 di_0 wo_3 yi_0 tian_1 ye_3 shou_4 bu_0 liao_3 
+wo_3 yi_0 tian_1 ye_3 shou_4 bu_0 liao_3 xian_4 zai_4 ping_2 shi_0 yao_1 huan_2 yao_4 kan_0 ne_4 ge_0 nv_3 ren_0 di_0 lian_3 shai_3 ya_0 
+xian_4 zai_4 ping_2 shi_0 yao_1 huan_2 yao_4 kan_0 ne_4 ge_0 nv_3 ren_0 di_0 lian_3 shai_3 ya_0 zhe_4 ye_3 bu_0 neng_2 yi_0 bei_4 zi_0 jiu_0 zhe_4 yang_4 ren_3 qi_0 tun_1 sheng_0 di_0 ba_0 
+zhe_4 ye_3 bu_0 neng_2 yi_0 bei_4 zi_0 jiu_0 zhe_4 yang_4 ren_3 qi_0 tun_1 sheng_0 di_0 ba_0 ne_4 ni_3 yve_4 zen_3 yao_1 ban_4 xian_4 zai_4 ne_4 $0an_1 hua_2 zhu_4 zai_4 jie_0 li_0 
+ne_4 ni_3 yve_4 zen_3 yao_1 ban_4 xian_4 zai_4 ne_4 $0an_1 hua_2 zhu_4 zai_4 jie_0 li_0 jiu_0 hao_3 bi_3 jie_0 li_0 ge_0 liao_3 yi_0 ding_4 shi_2 zha_2 tan_0 
+jiu_0 hao_3 bi_3 jie_0 li_0 ge_0 liao_3 yi_0 ding_4 shi_2 zha_2 tan_0 mei_3 jing_0 huai_2 yvn_4 zhe_4 shi_0 yi_0 dan_4 rang_4 ta_1 zhi_4 dao_0 liao_3 
+mei_3 jing_0 huai_2 yvn_4 zhe_4 shi_0 yi_0 dan_4 rang_4 ta_1 zhi_4 dao_0 liao_3 zhi_0 bu_0 ding_4 ne_2 tian_1 jiu_0 bao_4 zha_2 liao_3 ne_4 mei_3 jing_0 ta_1 sheng_0 hai_2 zi_0 ta_1 $0an_1 hua_2 guan_3 de_0 zhuo_0 ma_0 
+zhi_0 bu_0 ding_4 ne_2 tian_1 jiu_0 bao_4 zha_2 liao_3 ne_4 mei_3 jing_0 ta_1 sheng_0 hai_2 zi_0 ta_1 $0an_1 hua_2 guan_3 de_0 zhuo_0 ma_0 dang_0 nian_2 $0an_1 hua_2 zou_3 di_0 shi_2 hou_0 
+dang_0 nian_2 $0an_1 hua_2 zou_3 di_0 shi_2 hou_0 jiu_0 yi_3 jing_0 gong_0 zheng_4 liao_3 suo_3 you_3 cai_2 chan_3 du_1 yao_4 liu_2 ji_3 da_0 wei_4 
+jiu_0 yi_3 jing_0 gong_0 zheng_4 liao_3 suo_3 you_3 cai_2 chan_3 du_1 yao_4 liu_2 ji_3 da_0 wei_4 ru_2 guo_3 zhen_1 di_0 rang_4 ta_1 zhi_4 dao_0 huai_2 yvn_4 di_0 zhen_1 xiang_0 
+ru_2 guo_3 zhen_1 di_0 rang_4 ta_1 zhi_4 dao_0 huai_2 yvn_4 di_0 zhen_1 xiang_0 bie_0 yve_4 cai_2 chan_3 jiu_0 shi_0 lian_2 hai_2 zi_0 du_1 bao_3 bu_0 zhu_4 liao_3 
+bie_0 yve_4 cai_2 chan_3 jiu_0 shi_0 lian_2 hai_2 zi_0 du_1 bao_3 bu_0 zhu_4 liao_3 jiu_0 shi_0 ma_0 suo_3 yi_3 $0a_0 xian_4 zai_4 yao_4 xiang_3 jie_0 shu_4 zhe_4 yi_0 qie_4 
+jiu_0 shi_0 ma_0 suo_3 yi_3 $0a_0 xian_4 zai_4 yao_4 xiang_3 jie_0 shu_4 zhe_4 yi_0 qie_4 jiu_0 bi_4 xv_1 wen_3 zhu_4 ne_4 $0an_1 hua_2 bu_0 dao_4 hai_2 zi_0 chu_0 sheng_0 ne_4 yi_0 tian_1 shi_0 yao_1 bian_4 gu_4 du_1 you_3 ke_3 neng_2 fa_0 sheng_0 
+jiu_0 bi_4 xv_1 wen_3 zhu_4 ne_4 $0an_1 hua_2 bu_0 dao_4 hai_2 zi_0 chu_0 sheng_0 ne_4 yi_0 tian_1 shi_0 yao_1 bian_4 gu_4 du_1 you_3 ke_3 neng_2 fa_0 sheng_0 ke_3 shi_0 zen_3 yao_1 jie_0 shu_4 $0a_0 
+ke_3 shi_0 zen_3 yao_1 jie_0 shu_4 $0a_0 zhe_4 tong_0 shi_2 zhu_4 zai_4 yi_0 ge_0 wu_1 yan_2 xia_0 
+zhe_4 tong_0 shi_2 zhu_4 zai_4 yi_0 ge_0 wu_1 yan_2 xia_0 zhe_4 du_0 zi_0 yi_0 tian_1 yi_0 tian_1 di_0 bian_4 da_0 wen_3 de_0 liao_3 yi_0 shi_2 ye_3 man_2 bu_0 zhu_4 yi_0 shi_4 $0a_0 
+zhe_4 du_0 zi_0 yi_0 tian_1 yi_0 tian_1 di_0 bian_4 da_0 wen_3 de_0 liao_3 yi_0 shi_2 ye_3 man_2 bu_0 zhu_4 yi_0 shi_4 $0a_0 ne_4 $0an_1 hua_2 liu_2 zai_4 jie_0 li_0 bu_0 jiu_0 shi_0 wei_0 liao_3 jian_4 guan_3 da_0 wei_4 ma_0 
+ne_4 $0an_1 hua_2 liu_2 zai_4 jie_0 li_0 bu_0 jiu_0 shi_0 wei_0 liao_3 jian_4 guan_3 da_0 wei_4 ma_0 ne_4 jiu_0 rang_4 mei_3 jing_0 hao_3 hao_3 bang_1 zhu_4 da_0 wei_4 bei_0 
+ne_4 jiu_0 rang_4 mei_3 jing_0 hao_3 hao_3 bang_1 zhu_4 da_0 wei_4 bei_0 rang_4 ta_1 kuai_0 su_4 cheng_2 zhang_3 qi_3 lai_2 ne_4 yi_0 qie_4 bu_0 jiu_0 zhi_0 ri_0 ke_3 dai_4 liao_3 ma_0 
+rang_4 ta_1 kuai_0 su_4 cheng_2 zhang_3 qi_3 lai_2 ne_4 yi_0 qie_4 bu_0 jiu_0 zhi_0 ri_0 ke_3 dai_4 liao_3 ma_0 kan_0 lai_2 zhi_3 you_3 la_0 long_3 ne_4 ge_0 da_0 wei_4 
+kan_0 lai_2 zhi_3 you_3 la_0 long_3 ne_4 ge_0 da_0 wei_4 cai_2 neng_2 gong_4 tong_0 da_0 ji_1 ne_4 ge_0 $0an_1 hua_2 
+cai_2 neng_2 gong_4 tong_0 da_0 ji_1 ne_4 ge_0 $0an_1 hua_2 you_3 dao_0 li_0 
+you_3 dao_0 li_0 ni_3 bie_0 gen_0 wo_3 yve_4 ne_4 xie_1 mo_4 yong_4 di_0 zhe_4 xie_1 wo_3 du_1 zhi_4 dao_0 
+ni_3 bie_0 gen_0 wo_3 yve_4 ne_4 xie_1 mo_4 yong_4 di_0 zhe_4 xie_1 wo_3 du_1 zhi_4 dao_0 bu_0 shi_0 wo_3 yve_4 ni_3 zhe_4 ren_0 you_3 jin_4 mo_4 jin_4 $0a_0 
+bu_0 shi_0 wo_3 yve_4 ni_3 zhe_4 ren_0 you_3 jin_4 mo_4 jin_4 $0a_0 sun_1 da_0 wei_4 wo_3 ti_4 ni_3 ban_4 shi_0 ni_3 yve_4 ni_3 gen_0 wo_3 ji_2 shi_0 yao_1 ji_2 
+sun_1 da_0 wei_4 wo_3 ti_4 ni_3 ban_4 shi_0 ni_3 yve_4 ni_3 gen_0 wo_3 ji_2 shi_0 yao_1 ji_2 zhe_4 yao_1 fu_4 za_2 di_0 $0an_4 qing_0 
+zhe_4 yao_1 fu_4 za_2 di_0 $0an_4 qing_0 wo_3 huan_2 bu_0 de_0 man_4 man_4 shu_1 li_0 shu_1 li_0 ma_0 
+wo_3 huan_2 bu_0 de_0 man_4 man_4 shu_1 li_0 shu_1 li_0 ma_0 ni_3 shi_0 wo_3 da_0 ye_0 xing_2 ba_0 ni_3 kuai_0 yve_4 
+ni_3 shi_0 wo_3 da_0 ye_0 xing_2 ba_0 ni_3 kuai_0 yve_4 wo_3 yao_4 ting_0 ne_4 ge_0 men_2 dong_4 lao_3 men_2 
+wo_3 yao_4 ting_0 ne_4 ge_0 men_2 dong_4 lao_3 men_2 zhe_4 ge_0 tai_4 du_0 wo_3 jve_2 de_0 wo_3 huan_2 shi_0 ke_3 yi_3 jie_1 shou_4 di_0 
+zhe_4 ge_0 tai_4 du_0 wo_3 jve_2 de_0 wo_3 huan_2 shi_0 ke_3 yi_3 jie_1 shou_4 di_0 jiu_0 gen_1 jv_4 mu_4 qian_2 wo_3 suo_3 zhang_3 wo_4 di_0 xin_4 xi_0 ba_0 
+jiu_0 gen_1 jv_4 mu_4 qian_2 wo_3 suo_3 zhang_3 wo_4 di_0 xin_4 xi_0 ba_0 zhe_4 ge_0 men_2 dong_4 hu_2 qian_0 tu_2 ta_1 huan_2 qve_4 shi_0 you_3 guan_1 xi_0 
+zhe_4 ge_0 men_2 dong_4 hu_2 qian_0 tu_2 ta_1 huan_2 qve_4 shi_0 you_3 guan_1 xi_0 dan_4 shi_0 ni_0 zhe_4 ge_0 lao_3 men_2 $0a_0 ta_1 zui_4 jin_4 qve_1 qian_0 
+dan_4 shi_0 ni_0 zhe_4 ge_0 lao_3 men_2 $0a_0 ta_1 zui_4 jin_4 qve_1 qian_0 jiao_4 zhong_4 shang_3 zhi_1 xia_0 bi_4 you_3 yong_3 fu_0 dui_0 bu_0 dui_0 jie_1 xia_0 lai_2 di_0 shi_0 jiu_0 bu_0 yong_4 wo_3 yve_4 liao_3 ba_0 
+jiao_4 zhong_4 shang_3 zhi_1 xia_0 bi_4 you_3 yong_3 fu_0 dui_0 bu_0 dui_0 jie_1 xia_0 lai_2 di_0 shi_0 jiu_0 bu_0 yong_4 wo_3 yve_4 liao_3 ba_0 ni_3 chen_4 ji_1 qiao_1 zha_4 shi_0 bu_0 shi_0 
+ni_3 chen_4 ji_1 qiao_1 zha_4 shi_0 bu_0 shi_0 wo_3 xian_4 zai_4 yao_4 shi_0 you_3 qian_0 wo_3 xian_4 zai_4 yao_4 shi_0 you_3 zi_4 you_2 
+wo_3 xian_4 zai_4 yao_4 shi_0 you_3 qian_0 wo_3 xian_4 zai_4 yao_4 shi_0 you_3 zi_4 you_2 wo_3 yong_4 ni_3 gan_0 shi_0 yao_1 
+wo_3 yong_4 ni_3 gan_0 shi_0 yao_1 bu_0 shi_0 zen_3 yao_1 di_0 
+bu_0 shi_0 zen_3 yao_1 di_0 wo_3 yi_0 kuai_4 da_0 ji_3 ni_3 $0a_0 
+wo_3 yi_0 kuai_4 da_0 ji_3 ni_3 $0a_0 gen_0 wo_3 zhuang_1 shi_0 yao_1 zhuang_1 
+gen_0 wo_3 zhuang_1 shi_0 yao_1 zhuang_1 qing_3 jin_4 
+qing_3 jin_4 da_0 wei_4 
+da_0 wei_4 han_2 zong_3 
+han_2 zong_3 ni_3 mang_2 zhuo_0 ni_0 
+ni_3 mang_2 zhuo_0 ni_0 dui_0 ting_3 mang_2 
+dui_0 ting_3 mang_2 wo_3 zhi_4 dao_0 ni_3 zui_4 jin_4 shou_0 tou_0 jin_3 
+wo_3 zhi_4 dao_0 ni_3 zui_4 jin_4 shou_0 tou_0 jin_3 zhe_4 shi_0 zhang_1 wu_2 xian_4 $0e_2 xiao_0 fei_4 qia_3 ni_3 liu_2 zhuo_0 hua_0 ba_0 
+zhe_4 shi_0 zhang_1 wu_2 xian_4 $0e_2 xiao_0 fei_4 qia_3 ni_3 liu_2 zhuo_0 hua_0 ba_0 nin_2 nin_2 zhe_4 shi_0 
+nin_2 nin_2 zhe_4 shi_0 wo_3 zhi_4 dao_0 ni_3 bu_0 xi_3 huan_0 wo_3 dan_4 shi_0 bi_4 jing_4 wo_3 men_0 xiang_0 chu_0 zhe_4 yao_1 duo_1 nian_2 
+wo_3 zhi_4 dao_0 ni_3 bu_0 xi_3 huan_0 wo_3 dan_4 shi_0 bi_4 jing_4 wo_3 men_0 xiang_0 chu_0 zhe_4 yao_1 duo_1 nian_2 wo_3 zhi_3 xi_1 wang_4 ni_3 ba_3 gong_1 zuo_0 zuo_4 hao_3 
+wo_3 zhi_3 xi_1 wang_4 ni_3 ba_3 gong_1 zuo_0 zuo_4 hao_3 ba_3 gong_1 zuo_0 zuo_4 hao_3 zhe_4 ge_0 
+ba_3 gong_1 zuo_0 zuo_4 hao_3 zhe_4 ge_0 gen_0 zhe_4 ge_0 mo_4 shi_0 yao_1 guan_1 xi_0 
+gen_0 zhe_4 ge_0 mo_4 shi_0 yao_1 guan_1 xi_0 ni_3 liu_2 zhuo_0 hua_0 ba_0 
+ni_3 liu_2 zhuo_0 hua_0 ba_0 dui_0 liao_3 ni_3 ma_1 zui_4 jin_4 gen_0 ni_3 yve_4 wo_3 shi_0 yao_1 liao_3 ma_0 
+dui_0 liao_3 ni_3 ma_1 zui_4 jin_4 gen_0 ni_3 yve_4 wo_3 shi_0 yao_1 liao_3 ma_0 wo_3 ma_1 wo_3 ma_1 zui_4 jin_4 you_3 mo_4 you_3 ti_2 dao_4 
+wo_3 ma_1 wo_3 ma_1 zui_4 jin_4 you_3 mo_4 you_3 ti_2 dao_4 mo_4 mo_4 you_3 ti_2 dao_4 ni_3 
+mo_4 mo_4 you_3 ti_2 dao_4 ni_3 dui_0 mo_4 you_3 ti_2 dao_4 ni_3 
+dui_0 mo_4 you_3 ti_2 dao_4 ni_3 mo_4 shi_0 yao_1 wo_3 jiu_0 sui_2 pian_2 wen_4 wen_4 
+mo_4 shi_0 yao_1 wo_3 jiu_0 sui_2 pian_2 wen_4 wen_4 ni_3 xian_1 mang_2 ba_0 wo_3 zou_3 liao_3 
+ni_3 xian_1 mang_2 ba_0 wo_3 zou_3 liao_3 mi_4 ma_3 shi_0 ni_3 ba_0 ba_0 sheng_0 ri_0 
+mi_4 ma_3 shi_0 ni_3 ba_0 ba_0 sheng_0 ri_0 sun_1 zi_0 
+sun_1 zi_0 ni_3 yve_4 ni_3 yao_4 duo_1 shao_3 qian_0 
+ni_3 yve_4 ni_3 yao_4 duo_1 shao_3 qian_0 kai_1 ge_0 jie_0 ba_0 
+kai_1 ge_0 jie_0 ba_0 yao_3 ding_4 qing_1 shan_1 bu_0 fang_4 song_1 
+yao_3 ding_4 qing_1 shan_1 bu_0 fang_4 song_1 li_4 gen_1 yvan_2 zai_4 po_4 yan_2 zhong_4 
+li_4 gen_1 yvan_2 zai_4 po_4 yan_2 zhong_4 qian_1 mo_0 wan_4 ji_1 huan_2 jian_1 ren_4 
+qian_1 mo_0 wan_4 ji_1 huan_2 jian_1 ren_4 ba_0 hao_3 zi_4 hao_3 shi_1 $0a_0 
+ba_0 hao_3 zi_4 hao_3 shi_1 $0a_0 ni_3 zhi_4 dao_0 zhe_4 shou_3 shi_1 
+ni_3 zhi_4 dao_0 zhe_4 shou_3 shi_1 dang_0 ran_2 
+dang_0 ran_2 zhe_4 shi_0 zheng_4 ban_3 qiao_2 di_0 zhu_2 shi_2 
+zhe_4 shi_0 zheng_4 ban_3 qiao_2 di_0 zhu_2 shi_2 ta_1 biao_3 mian_0 shang_0 kan_0 qi_3 lai_2 shi_0 zai_4 xie_3 zhu_2 zi_0 
+ta_1 biao_3 mian_0 shang_0 kan_0 qi_3 lai_2 shi_0 zai_4 xie_3 zhu_2 zi_0 qi_2 shi_0 ta_1 xie_3 di_0 shi_0 ren_0 
+qi_2 shi_0 ta_1 xie_3 di_0 shi_0 ren_0 xie_3 di_0 jiu_0 shi_0 xiang_4 ba_0 ba_0 nin_2 zhe_4 zhong_3 
+xie_3 di_0 jiu_0 shi_0 xiang_4 ba_0 ba_0 nin_2 zhe_4 zhong_3 you_3 zhuo_0 zheng_4 zhi_2 jian_1 ren_4 di_0 xing_0 ge_2 
+you_3 zhuo_0 zheng_4 zhi_2 jian_1 ren_4 di_0 xing_0 ge_2 qve_4 yong_3 yvan_3 bu_0 kuai_4 xiang_4 ye_2 wu_0 di_0 shi_0 li_4 di_1 tou_0 di_0 gao_1 $0ao_4 feng_1 gu_0 
+qve_4 yong_3 yvan_3 bu_0 kuai_4 xiang_4 ye_2 wu_0 di_0 shi_0 li_4 di_1 tou_0 di_0 gao_1 $0ao_4 feng_1 gu_0 shi_0 $0a_0 shi_0 $0a_0 
+shi_0 $0a_0 shi_0 $0a_0 ni_3 ni_3 pao_3 zhe_4 lai_2 gan_0 shi_0 yao_1 
+ni_3 ni_3 pao_3 zhe_4 lai_2 gan_0 shi_0 yao_1 wo_3 wo_3 lai_2 kan_0 kan_0 nin_2 nin_2 huan_2 sheng_0 wo_3 ma_1 qi_0 ni_0 
+wo_3 wo_3 lai_2 kan_0 kan_0 nin_2 nin_2 huan_2 sheng_0 wo_3 ma_1 qi_0 ni_0 wo_3 men_0 liang_3 ren_0 li_2 yi_4 duo_1 nian_2 
+wo_3 men_0 liang_3 ren_0 li_2 yi_4 duo_1 nian_2 zao_3 jiu_0 mo_4 you_3 liao_3 ren_2 he_2 gua_1 ge_3 
+zao_3 jiu_0 mo_4 you_3 liao_3 ren_2 he_2 gua_1 ge_3 yi_0 ge_0 ren_0 zai_4 zhe_4 xie_3 xie_3 zi_4 du_2 du_2 shu_1 
+yi_0 ge_0 ren_0 zai_4 zhe_4 xie_3 xie_3 zi_4 du_2 du_2 shu_1 zi_4 you_2 zi_4 zai_4 
+zi_4 you_2 zi_4 zai_4 zhe_4 qi_3 bu_0 shi_0 yi_0 jian_4 mei_3 hao_3 di_0 shi_0 
+zhe_4 qi_3 bu_0 shi_0 yi_0 jian_4 mei_3 hao_3 di_0 shi_0 wo_3 zai_4 zhe_4 li_0 
+wo_3 zai_4 zhe_4 li_0 zhen_1 di_0 wen_2 dao_4 liao_3 yi_0 gu_0 zi_4 you_2 zi_4 zai_4 di_0 qi_0 xi_0 
+zhen_1 di_0 wen_2 dao_4 liao_3 yi_0 gu_0 zi_4 you_2 zi_4 zai_4 di_0 qi_0 xi_0 huan_2 you_3 huan_2 you_3 wei_0 liao_3 meng_4 xiang_3 $0er_3 fen_4 dou_0 guo_0 di_0 hen_2 ji_4 
+huan_2 you_3 huan_2 you_3 wei_0 liao_3 meng_4 xiang_3 $0er_3 fen_4 dou_0 guo_0 di_0 hen_2 ji_4 ci_3 hua_0 zen_3 jiang_3 
+ci_3 hua_0 zen_3 jiang_3 ba_0 bu_0 man_2 nin_2 yve_4 
+ba_0 bu_0 man_2 nin_2 yve_4 qi_2 shi_0 wo_3 zui_4 xin_1 shang_3 qian_0 tu_2 di_0 jiu_0 shi_0 ta_1 zai_4 zhe_4 ge_0 zheng_4 xiang_0 pin_1 die_1 di_0 shi_2 dai_4 
+qi_2 shi_0 wo_3 zui_4 xin_1 shang_3 qian_0 tu_2 di_0 jiu_0 shi_0 ta_1 zai_4 zhe_4 ge_0 zheng_4 xiang_0 pin_1 die_1 di_0 shi_2 dai_4 reng_2 ran_2 jian_1 xin_4 zhuo_0 meng_4 xiang_3 jve_2 ding_4 ming_4 yvn_4 
+reng_2 ran_2 jian_1 xin_4 zhuo_0 meng_4 xiang_3 jve_2 ding_4 ming_4 yvn_4 zhi_4 zhi_4 gai_3 bian_4 ming_4 yvn_4 zhi_2 zhuo_0 di_0 zhui_1 xvn_2 meng_4 xiang_3 nu_3 li_4 di_0 shi_0 xian_4 meng_4 xiang_3 
+zhi_4 zhi_4 gai_3 bian_4 ming_4 yvn_4 zhi_2 zhuo_0 di_0 zhui_1 xvn_2 meng_4 xiang_3 nu_3 li_4 di_0 shi_0 xian_4 meng_4 xiang_3 dang_0 ran_2 liao_3 zai_4 zhe_4 zhong_3 pin_1 bo_2 gu_4 shi_0 di_0 bei_4 hou_4 
+dang_0 ran_2 liao_3 zai_4 zhe_4 zhong_3 pin_1 bo_2 gu_4 shi_0 di_0 bei_4 hou_4 ding_4 you_3 xiang_4 nin_2 zhe_4 yang_4 di_0 fu_0 qin_1 
+ding_4 you_3 xiang_4 nin_2 zhe_4 yang_4 di_0 fu_0 qin_1 zai_4 ta_1 bei_4 hou_4 mo_4 mo_4 di_0 zhi_1 chi_2 ta_1 hu_2 jiao_4 dao_3 
+zai_4 ta_1 bei_4 hou_4 mo_4 mo_4 di_0 zhi_1 chi_2 ta_1 hu_2 jiao_4 dao_3 suo_3 yi_3 wo_3 xi_3 huan_0 zhe_4 ge_0 di_0 fang_1 
+suo_3 yi_3 wo_3 xi_3 huan_0 zhe_4 ge_0 di_0 fang_1 wo_3 geng_4 yvan_4 yi_0 lai_2 gan_3 shou_4 zhe_4 li_0 di_0 qi_0 xi_0 
+wo_3 geng_4 yvan_4 yi_0 lai_2 gan_3 shou_4 zhe_4 li_0 di_0 qi_0 xi_0 yve_4 de_0 you_3 dao_0 li_0 you_3 dao_0 li_0 $0a_0 
+yve_4 de_0 you_3 dao_0 li_0 you_3 dao_0 li_0 $0a_0 xiang_4 tu_2 tu_2 zhe_4 zhong_3 xian_4 dai_4 ren_0 xi_0 you_3 di_0 pin_3 zhi_4 
+xiang_4 tu_2 tu_2 zhe_4 zhong_3 xian_4 dai_4 ren_0 xi_0 you_3 di_0 pin_3 zhi_4 dang_0 ran_2 li_2 bu_0 kai_1 wo_3 dui_0 ta_1 di_0 jiao_4 yv_4 
+dang_0 ran_2 li_2 bu_0 kai_1 wo_3 dui_0 ta_1 di_0 jiao_4 yv_4 yi_0 qie_4 zhuan_4 qi_2 $0a_0 yi_0 qie_4 zhuan_4 qi_2 
+yi_0 qie_4 zhuan_4 qi_2 $0a_0 yi_0 qie_4 zhuan_4 qi_2 dang_0 ta_1 huan_2 mo_4 you_3 zou_3 xiang_4 cheng_2 gong_1 zhi_1 shi_2 
+dang_0 ta_1 huan_2 mo_4 you_3 zou_3 xiang_4 cheng_2 gong_1 zhi_1 shi_2 yi_0 ding_4 kuai_4 you_3 yi_0 xie_1 
+yi_0 ding_4 kuai_4 you_3 yi_0 xie_1 zi_4 yi_3 wei_0 cong_1 ming_2 di_0 ren_0 dui_0 ta_1 chi_1 zhi_1 yi_3 bi_2 
+zi_4 yi_3 wei_0 cong_1 ming_2 di_0 ren_0 dui_0 ta_1 chi_1 zhi_1 yi_3 bi_2 ren_2 he_2 xin_1 xian_3 shi_0 wu_4 di_0 chan_3 sheng_0 
+ren_2 he_2 xin_1 xian_3 shi_0 wu_4 di_0 chan_3 sheng_0 zong_3 shi_0 ban_4 sui_2 zhuo_0 ren_0 men_0 dui_0 ta_1 di_0 wu_4 xie_4 hu_2 cai_1 yi_2 
+zong_3 shi_0 ban_4 sui_2 zhuo_0 ren_0 men_0 dui_0 ta_1 di_0 wu_4 xie_4 hu_2 cai_1 yi_2 huo_3 jv_1 huo_3 jv_1 
+huo_3 jv_1 huo_3 jv_1 lun_2 chuan_2 gang_1 bei_4 fa_0 ming_2 di_0 shi_2 hou_0 
+lun_2 chuan_2 gang_1 bei_4 fa_0 ming_2 di_0 shi_2 hou_0 wei_2 guan_4 di_0 ren_0 men_0 jiu_0 ji_1 xiao_4 lun_2 chuan_2 di_0 chi_2 dun_4 
+wei_2 guan_4 di_0 ren_0 men_0 jiu_0 ji_1 xiao_4 lun_2 chuan_2 di_0 chi_2 dun_4 cheng_2 gong_1 zong_3 shi_0 qing_1 lai_4 yv_2 ne_4 xie_1 gan_3 yv_2 di_4 yi_0 kou_0 chi_1 pang_2 xie_4 di_0 ren_0 
+cheng_2 gong_1 zong_3 shi_0 qing_1 lai_4 yv_2 ne_4 xie_1 gan_3 yv_2 di_4 yi_0 kou_0 chi_1 pang_2 xie_4 di_0 ren_0 wo_3 you_3 dian_0 ji_1 dong_4 liao_3 wo_3 you_3 dian_0 ji_1 dong_4 
+wo_3 you_3 dian_0 ji_1 dong_4 liao_3 wo_3 you_3 dian_0 ji_1 dong_4 zhan_1 qian_2 gu_4 hou_4 wei_4 shou_0 wei_4 jve_2 huo_4 xv_3 ta_1 bu_0 kuai_4 shi_0 bai_4 
+zhan_1 qian_2 gu_4 hou_4 wei_4 shou_0 wei_4 jve_2 huo_4 xv_3 ta_1 bu_0 kuai_4 shi_0 bai_4 dan_4 shi_0 ta_1 ken_3 ding_4 bu_0 kuai_4 cheng_2 gong_1 
+dan_4 shi_0 ta_1 ken_3 ding_4 bu_0 kuai_4 cheng_2 gong_1 ba_0 wo_3 wo_3 di_4 yi_0 ci_4 kan_0 nin_2 xiao_4 
+ba_0 wo_3 wo_3 di_4 yi_0 ci_4 kan_0 nin_2 xiao_4 nin_2 nin_2 xiao_4 qi_3 lai_2 tai_4 tai_4 hu_2 $0ai_3 ke_3 qin_1 liao_3 
+nin_2 nin_2 xiao_4 qi_3 lai_2 tai_4 tai_4 hu_2 $0ai_3 ke_3 qin_1 liao_3 ne_4 yao_1 qi_2 shi_0 huan_2 ying_0 gai_1 you_3 yi_0 ge_0 biao_1 zhun_3 lai_2 heng_2 liang_0 ren_0 men_0 kuai_0 yve_4 yv_4 pi_3 
+ne_4 yao_1 qi_2 shi_0 huan_2 ying_0 gai_1 you_3 yi_0 ge_0 biao_1 zhun_3 lai_2 heng_2 liang_0 ren_0 men_0 kuai_0 yve_4 yv_4 pi_3 zhe_4 jiu_0 shi_0 xing_4 fu_2 zhi_0 shu_0 
+zhe_4 jiu_0 shi_0 xing_4 fu_2 zhi_0 shu_0 guan_1 yv_2 xing_4 fu_2 zhe_4 liang_3 ge_0 zi_4 mei_3 ge_0 ren_0 di_0 li_0 xie_4 du_1 bu_0 tong_0 
+guan_1 yv_2 xing_4 fu_2 zhe_4 liang_3 ge_0 zi_4 mei_3 ge_0 ren_0 di_0 li_0 xie_4 du_1 bu_0 tong_0 bi_3 ru_2 yve_4 yi_0 ge_0 pu_3 tong_4 di_0 shi_0 min_2 ta_1 kuai_4 jve_2 de_0 
+bi_3 ru_2 yve_4 yi_0 ge_0 pu_3 tong_4 di_0 shi_0 min_2 ta_1 kuai_4 jve_2 de_0 gong_1 zi_1 zai_4 gao_1 yi_0 xie_1 
+gong_1 zi_1 zai_4 gao_1 yi_0 xie_1 ran_2 hou_4 mei_3 tian_1 wan_3 shang_0 jia_1 ban_1 zai_4 shao_3 yi_0 xie_1 
+ran_2 hou_4 mei_3 tian_1 wan_3 shang_0 jia_1 ban_1 zai_4 shao_3 yi_0 xie_1 ne_4 dui_0 yi_0 ge_0 zhi_2 ye_4 jing_0 li_0 ren_0 lai_2 yve_4 ke_3 neng_2 ta_1 ren_4 wei_0 di_0 xing_4 fu_2 jiu_0 shi_0 
+ne_4 dui_0 yi_0 ge_0 zhi_2 ye_4 jing_0 li_0 ren_0 lai_2 yve_4 ke_3 neng_2 ta_1 ren_4 wei_0 di_0 xing_4 fu_2 jiu_0 shi_0 yao_4 ba_3 zi_4 ji_3 di_0 gong_0 si_0 zuo_4 cheng_2 qvan_2 shi_4 jie_4 zui_4 zhi_4 ming_2 di_0 pin_3 pai_2 
+yao_4 ba_3 zi_4 ji_3 di_0 gong_0 si_0 zuo_4 cheng_2 qvan_2 shi_4 jie_4 zui_4 zhi_4 ming_2 di_0 pin_3 pai_2 ni_3 kan_0 suo_3 yi_3 xing_4 fu_2 jiu_0 shi_0 man_3 zu_2 
+ni_3 kan_0 suo_3 yi_3 xing_4 fu_2 jiu_0 shi_0 man_3 zu_2 mei_3 ge_0 ren_0 mei_3 tian_1 du_1 zai_4 shang_0 yan_3 zhuo_0 bu_0 tong_0 di_0 xi_3 nu_4 $0ai_1 yve_4 
+mei_3 ge_0 ren_0 mei_3 tian_1 du_1 zai_4 shang_0 yan_3 zhuo_0 bu_0 tong_0 di_0 xi_3 nu_4 $0ai_1 yve_4 $0er_3 xing_4 fu_2 zhong_1 dian_0 zhan_4 zhe_4 ge_0 jie_0 mu_4 
+$0er_3 xing_4 fu_2 zhong_1 dian_0 zhan_4 zhe_4 ge_0 jie_0 mu_4 jiu_0 shi_0 jin_3 kou_4 zhu_4 xing_4 fu_2 zhe_4 ge_0 zhu_3 ti_2 
+jiu_0 shi_0 jin_3 kou_4 zhu_4 xing_4 fu_2 zhe_4 ge_0 zhu_3 ti_2 dan_4 hua_4 liao_3 jie_0 mu_4 di_0 zhuan_1 ye_4 xing_0 zeng_1 qiang_3 liao_3 yi_0 xie_1 hu_4 dong_4 xing_0 
+dan_4 hua_4 liao_3 jie_0 mu_4 di_0 zhuan_1 ye_4 xing_0 zeng_1 qiang_3 liao_3 yi_0 xie_1 hu_4 dong_4 xing_0 ran_2 hou_4 zai_4 yi_0 ge_0 ping_2 deng_3 dui_0 hua_0 di_0 ping_2 tai_0 shang_0 ni_0 
+ran_2 hou_4 zai_4 yi_0 ge_0 ping_2 deng_3 dui_0 hua_0 di_0 ping_2 tai_0 shang_0 ni_0 neng_2 gou_4 rang_4 geng_4 duo_1 di_0 guan_4 zhong_4 shen_1 yv_4 jin_4 lai_2 
+neng_2 gou_4 rang_4 geng_4 duo_1 di_0 guan_4 zhong_4 shen_1 yv_4 jin_4 lai_2 hu_2 wo_3 men_0 di_0 jia_1 bin_1 zhu_3 chi_2 ren_0 lai_2 tan_4 tao_3 yi_0 xia_0 guan_1 yv_2 zi_4 ji_3 di_0 gu_4 shi_0 
+hu_2 wo_3 men_0 di_0 jia_1 bin_1 zhu_3 chi_2 ren_0 lai_2 tan_4 tao_3 yi_0 xia_0 guan_1 yv_2 zi_4 ji_3 di_0 gu_4 shi_0 suo_3 yi_3 yve_4 wo_3 men_0 zai_4 jie_0 mu_4 di_0 zui_4 hou_4 ni_0 ye_3 she_4 zhi_4 liao_3 yi_0 xie_1 guan_4 zhong_4 di_0 hu_4 dong_4 di_0 yi_0 xie_1 huan_2 jie_0 
+suo_3 yi_3 yve_4 wo_3 men_0 zai_4 jie_0 mu_4 di_0 zui_4 hou_4 ni_0 ye_3 she_4 zhi_4 liao_3 yi_0 xie_1 guan_4 zhong_4 di_0 hu_4 dong_4 di_0 yi_0 xie_1 huan_2 jie_0 suo_3 yi_3 yve_4 wo_3 ren_4 wei_0 zhe_4 yang_4 
+suo_3 yi_3 yve_4 wo_3 ren_4 wei_0 zhe_4 yang_4 cai_2 neng_2 gou_4 rang_4 yi_0 dang_3 jie_0 mu_4 you_3 wu_2 qiong_2 di_0 sheng_0 ming_4 li_4 
+cai_2 neng_2 gou_4 rang_4 yi_0 dang_3 jie_0 mu_4 you_3 wu_2 qiong_2 di_0 sheng_0 ming_4 li_4 hao_3 wo_3 jin_1 tian_1 di_0 chan_3 shu_4 wan_2 liao_3 xie_4 xie_4 da_0 jie_0 
+hao_3 wo_3 jin_1 tian_1 di_0 chan_3 shu_4 wan_2 liao_3 xie_4 xie_4 da_0 jie_0 bu_0 cuo_4 
+bu_0 cuo_4 bu_0 cuo_4 bu_0 cuo_4 bu_0 cuo_4 
+bu_0 cuo_4 bu_0 cuo_4 bu_0 cuo_4 ge_3 ge_0 huan_2 jie_0 kao_3 lv_4 di_0 ye_3 hen_3 zhou_1 qvan_2 
+ge_3 ge_0 huan_2 jie_0 kao_3 lv_4 di_0 ye_3 hen_3 zhou_1 qvan_2 yi_0 xian_4 mo_4 you_3 jian_4 yi_4 dao_3 shi_0 you_3 ji_3 tiao_2 
+yi_0 xian_4 mo_4 you_3 jian_4 yi_4 dao_3 shi_0 you_3 ji_3 tiao_2 zuo_0 wei_0 yi_0 ge_0 yi_3 xing_4 fu_2 wei_0 hua_0 ti_2 di_0 lan_0 mu_4 
+zuo_0 wei_0 yi_0 ge_0 yi_3 xing_4 fu_2 wei_0 hua_0 ti_2 di_0 lan_0 mu_4 qi_3 yong_4 nv_3 xing_0 zhu_3 chi_2 ren_0 kuai_4 geng_4 qin_1 min_2 
+qi_3 yong_4 nv_3 xing_0 zhu_3 chi_2 ren_0 kuai_4 geng_4 qin_1 min_2 ni_3 jve_2 de_0 ni_0 
+ni_3 jve_2 de_0 ni_0 qi_2 shi_0 zhu_3 chi_2 ren_0 jiu_0 shi_0 jie_0 mu_4 dang_0 zhong_4 di_0 yi_0 ge_0 hua_0 ti_2 hu_2 xin_0 ma_0 
+qi_2 shi_0 zhu_3 chi_2 ren_0 jiu_0 shi_0 jie_0 mu_4 dang_0 zhong_4 di_0 yi_0 ge_0 hua_0 ti_2 hu_2 xin_0 ma_0 zhi_3 yao_4 zhu_3 chi_2 ren_0 zai_4 ge_3 fang_1 mian_0 di_0 neng_2 li_4 mo_4 you_3 wen_4 ti_2 
+zhi_3 yao_4 zhu_3 chi_2 ren_0 zai_4 ge_3 fang_1 mian_0 di_0 neng_2 li_4 mo_4 you_3 wen_4 ti_2 du_1 ke_3 yi_3 ba_0 
+du_1 ke_3 yi_3 ba_0 ji_4 ran_2 ni_3 du_1 yve_4 ke_3 yi_3 
+ji_4 ran_2 ni_3 du_1 yve_4 ke_3 yi_3 ne_4 jiu_0 yve_4 ming_2 ni_3 ren_4 tong_0 nv_3 xing_0 zhu_3 chi_2 ren_0 li_0 zong_3 ru_2 guo_3 zhe_4 ge_0 lan_0 mu_4 ma_3 shang_0 shang_0 ma_3 
+ne_4 jiu_0 yve_4 ming_2 ni_3 ren_4 tong_0 nv_3 xing_0 zhu_3 chi_2 ren_0 li_0 zong_3 ru_2 guo_3 zhe_4 ge_0 lan_0 mu_4 ma_3 shang_0 shang_0 ma_3 qi_2 yi_0 yan_2 yan_2 xian_4 zai_4 shou_0 li_0 bian_0 di_0 liang_3 ge_0 lan_0 mu_4 shou_1 shi_4 shuai_4 du_1 ke_3 yi_3 
+qi_2 yi_0 yan_2 yan_2 xian_4 zai_4 shou_0 li_0 bian_0 di_0 liang_3 ge_0 lan_0 mu_4 shou_1 shi_4 shuai_4 du_1 ke_3 yi_3 qi_2 $0er_4 yan_2 yan_2 di_0 fu_0 qin_1 shi_0 si_0 wei_2 gong_0 si_0 di_0 zong_3 cai_2 
+qi_2 $0er_4 yan_2 yan_2 di_0 fu_0 qin_1 shi_0 si_0 wei_2 gong_0 si_0 di_0 zong_3 cai_2 qiang_1 lai_2 dui_0 zhe_4 kuan_3 jie_0 mu_4 di_0 zhao_1 shang_1 hu_2 guan_0 ming_2 
+qiang_1 lai_2 dui_0 zhe_4 kuan_3 jie_0 mu_4 di_0 zhao_1 shang_1 hu_2 guan_0 ming_2 du_1 kuai_4 you_3 shi_0 ji_4 di_0 bang_1 zhu_4 suo_3 yi_3 yve_4 wo_3 zhi_1 chi_2 yan_2 yan_2 dang_0 zhu_3 chi_2 ren_0 
+du_1 kuai_4 you_3 shi_0 ji_4 di_0 bang_1 zhu_4 suo_3 yi_3 yve_4 wo_3 zhi_1 chi_2 yan_2 yan_2 dang_0 zhu_3 chi_2 ren_0 $0ai_3 yo_0 liu_2 zong_3 jian_4 
+$0ai_3 yo_0 liu_2 zong_3 jian_4 wo_3 xian_4 zai_4 tian_1 tian_1 du_1 yao_4 ying_0 fu_4 liang_3 dang_3 jie_0 mu_4 di_0 chu_0 jing_4 
+wo_3 xian_4 zai_4 tian_1 tian_1 du_1 yao_4 ying_0 fu_4 liang_3 dang_3 jie_0 mu_4 di_0 chu_0 jing_4 wo_3 du_1 kuai_0 yao_4 lei_3 si_3 liao_3 
+wo_3 du_1 kuai_0 yao_4 lei_3 si_3 liao_3 ni_3 zhe_4 you_4 shi_0 zai_4 ji_3 wo_3 pai_0 fa_0 ren_2 wu_0 liao_3 
+ni_3 zhe_4 you_4 shi_0 zai_4 ji_3 wo_3 pai_0 fa_0 ren_2 wu_0 liao_3 neng_2 zhe_3 duo_1 lao_2 ma_0 
+neng_2 zhe_3 duo_1 lao_2 ma_0 yan_2 yan_2 ni_3 jiu_0 bie_0 tui_1 ci_2 liao_3 jiu_0 zhe_4 yao_1 ding_4 liao_3 
+yan_2 yan_2 ni_3 jiu_0 bie_0 tui_1 ci_2 liao_3 jiu_0 zhe_4 yao_1 ding_4 liao_3 ne_4 ji_4 ran_2 li_0 zong_3 du_1 fa_0 hua_0 liao_3 
+ne_4 ji_4 ran_2 li_0 zong_3 du_1 fa_0 hua_0 liao_3 ne_4 wo_3 zhi_3 you_3 gong_1 jing_4 bu_0 ru_2 cong_2 ming_4 liao_3 
+ne_4 wo_3 zhi_3 you_3 gong_1 jing_4 bu_0 ru_2 cong_2 ming_4 liao_3 zhe_4 lan_0 mu_4 ba_0 wo_3 wo_3 
+zhe_4 lan_0 mu_4 ba_0 wo_3 wo_3 wo_3 zai_4 xiang_3 xiang_3 ran_2 hou_4 zai_4 yve_4 
+wo_3 zai_4 xiang_3 xiang_3 ran_2 hou_4 zai_4 yve_4 shi_0 yao_1 yi_0 si_0 
+shi_0 yao_1 yi_0 si_0 dao_4 chu_0 du_1 shi_0 yan_3 xian_0 kuai_0 dian_0 di_0 
+dao_4 chu_0 du_1 shi_0 yan_3 xian_0 kuai_0 dian_0 di_0 ni_3 ni_3 jiu_0 zhe_4 yao_1 gen_0 wo_3 zou_3 liao_3 
+ni_3 ni_3 jiu_0 zhe_4 yao_1 gen_0 wo_3 zou_3 liao_3 jiu_0 bu_0 pa_4 ni_3 men_0 jie_0 lao_3 fu_2 ye_0 long_2 yan_2 da_0 nu_4 you_3 wo_3 xiao_3 ma_1 ti_4 wo_3 zuo_4 yan_3 hu_4 ni_0 
+jiu_0 bu_0 pa_4 ni_3 men_0 jie_0 lao_3 fu_2 ye_0 long_2 yan_2 da_0 nu_4 you_3 wo_3 xiao_3 ma_1 ti_4 wo_3 zuo_4 yan_3 hu_4 ni_0 wo_3 ye_3 bu_0 zhi_4 dao_0 wo_3 xiao_3 ma_1 zen_3 yao_1 liao_3 dui_0 wo_3 te_4 bie_0 hao_3 ge_3 zhong_3 tao_3 hao_3 wo_3 
+wo_3 ye_3 bu_0 zhi_4 dao_0 wo_3 xiao_3 ma_1 zen_3 yao_1 liao_3 dui_0 wo_3 te_4 bie_0 hao_3 ge_3 zhong_3 tao_3 hao_3 wo_3 bi_3 wo_3 men_0 jie_0 ne_4 you_2 yan_2 bu_0 jin_4 di_0 lao_3 fu_2 ye_0 bu_0 zhi_4 dao_0 qiang_3 duo_1 shao_3 zhen_1 di_0 gan_3 jin_3 zou_3 ba_0 gan_3 jin_3 zou_3 ba_0 
+bi_3 wo_3 men_0 jie_0 ne_4 you_2 yan_2 bu_0 jin_4 di_0 lao_3 fu_2 ye_0 bu_0 zhi_4 dao_0 qiang_3 duo_1 shao_3 zhen_1 di_0 gan_3 jin_3 zou_3 ba_0 gan_3 jin_3 zou_3 ba_0 wo_3 tiao_2 zha_1 qing_1 chu_3 liao_3 zhe_4 ge_0 men_2 dong_4 shi_0 bei_3 jing_1 ren_0 
+wo_3 tiao_2 zha_1 qing_1 chu_3 liao_3 zhe_4 ge_0 men_2 dong_4 shi_0 bei_3 jing_1 ren_0 zhuan_1 men_2 zuo_4 xiao_3 ben_3 mai_3 mai_0 qian_2 xie_1 nian_2 fa_0 liao_3 dian_0 cai_2 jiu_0 kai_1 shi_3 dao_3 mai_0 fang_0 zi_0 
+zhuan_1 men_2 zuo_4 xiao_3 ben_3 mai_3 mai_0 qian_2 xie_1 nian_2 fa_0 liao_3 dian_0 cai_2 jiu_0 kai_1 shi_3 dao_3 mai_0 fang_0 zi_0 xian_4 zai_4 kai_1 liao_3 yi_0 jie_0 shi_0 yao_1 fang_0 wu_1 zhong_4 jie_4 suo_3 
+xian_4 zai_4 kai_1 liao_3 yi_0 jie_0 shi_0 yao_1 fang_0 wu_1 zhong_4 jie_4 suo_3 qian_0 tu_2 jiu_0 shi_0 cong_2 ta_1 zhe_4 mai_3 di_0 fang_0 zi_0 
+qian_0 tu_2 jiu_0 shi_0 cong_2 ta_1 zhe_4 mai_3 di_0 fang_0 zi_0 zan_0 men_0 zhe_4 xiao_3 qv_1 $0a_0 du_1 shi_0 nan_2 bei_3 zhao_1 xiang_4 
+zan_0 men_0 zhe_4 xiao_3 qv_1 $0a_0 du_1 shi_0 nan_2 bei_3 zhao_1 xiang_4 hu_0 xing_2 fang_1 zheng_4 kong_0 qi_0 qing_1 xin_1 
+hu_0 xing_2 fang_1 zheng_4 kong_0 qi_0 qing_1 xin_1 sui_1 ran_2 du_1 shi_0 xiao_3 hu_0 xing_2 ni_0 dan_4 shi_0 xiao_3 sui_1 xiao_3 
+sui_1 ran_2 du_1 shi_0 xiao_3 hu_0 xing_2 ni_0 dan_4 shi_0 xiao_3 sui_1 xiao_3 ma_0 qve_4 sui_1 xiao_3 wu_3 zang_4 jv_4 qvan_2 
+ma_0 qve_4 sui_1 xiao_3 wu_3 zang_4 jv_4 qvan_2 wang_3 qian_2 ne_4 mian_0 ji_3 bai_3 mi_3 yi_3 wai_4 jiu_0 shi_0 di_0 tie_0 zhan_4 chu_0 men_2 wang_3 you_4 yi_0 guai_0 kuai_0 su_4 gong_0 jiao_1 $0er_4 hao_0 xian_0 
+wang_3 qian_2 ne_4 mian_0 ji_3 bai_3 mi_3 yi_3 wai_4 jiu_0 shi_0 di_0 tie_0 zhan_4 chu_0 men_2 wang_3 you_4 yi_0 guai_0 kuai_0 su_4 gong_0 jiao_1 $0er_4 hao_0 xian_0 wang_3 qian_2 zai_4 kai_1 shi_2 fen_0 zhong_0 jiu_0 shi_0 da_0 yve_4 cheng_2 xing_2 liao_3 xing_2 liao_3 
+wang_3 qian_2 zai_4 kai_1 shi_2 fen_0 zhong_0 jiu_0 shi_0 da_0 yve_4 cheng_2 xing_2 liao_3 xing_2 liao_3 zhe_4 zhong_3 fang_0 zi_0 wo_3 men_0 gen_1 ben_3 jiu_0 kan_0 bu_0 shang_0 ni_3 you_3 mo_4 you_3 hao_3 fang_0 yvan_2 dui_0 bu_0 dui_0 
+zhe_4 zhong_3 fang_0 zi_0 wo_3 men_0 gen_1 ben_3 jiu_0 kan_0 bu_0 shang_0 ni_3 you_3 mo_4 you_3 hao_3 fang_0 yvan_2 dui_0 bu_0 dui_0 jiu_0 ne_4 zhong_3 gui_4 di_0 
+jiu_0 ne_4 zhong_3 gui_4 di_0 zhe_4 ge_0 zhi_2 jve_2 gai_1 you_3 duo_1 yao_1 di_0 zhun_3 
+zhe_4 ge_0 zhi_2 jve_2 gai_1 you_3 duo_1 yao_1 di_0 zhun_3 wo_3 yi_0 kan_0 $0er_4 wei_4 zhe_4 jiu_0 bu_0 shi_0 mai_3 xiao_3 hu_0 xing_2 di_0 ren_0 
+wo_3 yi_0 kan_0 $0er_4 wei_4 zhe_4 jiu_0 bu_0 shi_0 mai_3 xiao_3 hu_0 xing_2 di_0 ren_0 zan_0 you_3 $0a_0 fu_4 shi_0 die_2 pin_1 lian_2 pai_3 
+zan_0 you_3 $0a_0 fu_4 shi_0 die_2 pin_1 lian_2 pai_3 yao_4 bu_0 gan_0 cui_4 $0er_4 wei_4 wo_3 dai_4 ni_3 men_0 kan_0 kan_0 du_2 dong_4 ba_0 
+yao_4 bu_0 gan_0 cui_4 $0er_4 wei_4 wo_3 dai_4 ni_3 men_0 kan_0 kan_0 du_2 dong_4 ba_0 gang_1 fang_4 chu_0 lai_2 yi_0 tao_4 hao_3 du_2 dong_4 jve_2 dui_0 zhu_4 yi_0 bei_4 zi_0 di_0 hao_3 fang_0 zi_0 
+gang_1 fang_4 chu_0 lai_2 yi_0 tao_4 hao_3 du_2 dong_4 jve_2 dui_0 zhu_4 yi_0 bei_4 zi_0 di_0 hao_3 fang_0 zi_0 mai_3 fang_0 nin_2 zhao_3 lao_3 men_2 suan_0 nin_2 zhao_3 dui_0 liao_3 ren_0 
+mai_3 fang_0 nin_2 zhao_3 lao_3 men_2 suan_0 nin_2 zhao_3 dui_0 liao_3 ren_0 wo_3 bu_0 shi_0 gen_0 nin_2 chui_1 $0a_0 zan_0 men_0 da_0 bei_3 jing_1 
+wo_3 bu_0 shi_0 gen_0 nin_2 chui_1 $0a_0 zan_0 men_0 da_0 bei_3 jing_1 zhang_3 $0an_1 jie_1 yan_2 xian_0 wo_3 guan_3 bu_0 liao_3 
+zhang_3 $0an_1 jie_1 yan_2 xian_0 wo_3 guan_3 bu_0 liao_3 $0er_4 huan_2 yi_3 wai_4 wu_3 huan_2 yi_3 nei_4 dong_1 nan_2 xi_0 bei_3 zan_0 men_0 dao_4 chu_0 you_3 fang_0 yvan_2 chu_0 chu_0 shi_0 peng_2 you_0 jie_0 ge_2 he_0 li_0 shou_0 xv_4 qi_2 qvan_2 
+$0er_4 huan_2 yi_3 wai_4 wu_3 huan_2 yi_3 nei_4 dong_1 nan_2 xi_0 bei_3 zan_0 men_0 dao_4 chu_0 you_3 fang_0 yvan_2 chu_0 chu_0 shi_0 peng_2 you_0 jie_0 ge_2 he_0 li_0 shou_0 xv_4 qi_2 qvan_2 yve_4 mai_3 fang_0 mai_0 fang_0 ne_2 jie_0 qiang_3 shan_1 dong_1 ji_3 nan_2 zhao_3 lan_0 xiang_2 
+yve_4 mai_3 fang_0 mai_0 fang_0 ne_2 jie_0 qiang_3 shan_1 dong_1 ji_3 nan_2 zhao_3 lan_0 xiang_2 nin_2 lai_2 bei_3 jing_1 zhao_3 lao_3 men_2 
+nin_2 lai_2 bei_3 jing_1 zhao_3 lao_3 men_2 men_2 zong_3 shi_0 ba_0 
+men_2 zong_3 shi_0 ba_0 dui_0 ni_3 zhe_4 fang_0 zi_0 wo_3 bu_0 gan_3 xing_0 qv_4 
+dui_0 ni_3 zhe_4 fang_0 zi_0 wo_3 bu_0 gan_3 xing_0 qv_4 shi_0 xiang_3 xiang_4 ni_3 da_0 ting_0 liang_3 ren_0 
+shi_0 xiang_3 xiang_4 ni_3 da_0 ting_0 liang_3 ren_0 wo_3 wo_3 shi_0 yi_0 mai_0 fang_0 di_0 nin_2 gen_0 wo_3 da_0 ting_0 ren_0 
+wo_3 wo_3 shi_0 yi_0 mai_0 fang_0 di_0 nin_2 gen_0 wo_3 da_0 ting_0 ren_0 $0er_4 wei_4 ni_3 men_0 shi_0 dou_4 wo_3 ni_0 ma_0 
+$0er_4 wei_4 ni_3 men_0 shi_0 dou_4 wo_3 ni_0 ma_0 zan_0 men_0 chou_3 hua_0 yve_4 tou_0 li_0 $0a_0 
+zan_0 men_0 chou_3 hua_0 yve_4 tou_0 li_0 $0a_0 bu_0 guan_3 cheng_2 yv_4 bu_0 cheng_2 liang_3 bai_3 kuai_4 qian_0 kan_0 fang_0 fei_4 wo_3 yi_0 ding_4 yao_4 shou_1 di_0 
+bu_0 guan_3 cheng_2 yv_4 bu_0 cheng_2 liang_3 bai_3 kuai_4 qian_0 kan_0 fang_0 fei_4 wo_3 yi_0 ding_4 yao_4 shou_1 di_0 ne_4 xing_2 nin_2 wen_4 ba_0 
+ne_4 xing_2 nin_2 wen_4 ba_0 qian_0 tu_2 gen_0 wu_2 liang_4 zhe_4 liang_3 ge_0 ren_0 ni_3 ren_4 zhi_4 ba_0 
+qian_0 tu_2 gen_0 wu_2 liang_4 zhe_4 liang_3 ge_0 ren_0 ni_3 ren_4 zhi_4 ba_0 ta_1 men_0 liang_3 shi_0 yao_1 guan_1 xi_0 
+ta_1 men_0 liang_3 shi_0 yao_1 guan_1 xi_0 qian_0 tu_2 gen_0 wu_2 liang_4 
+qian_0 tu_2 gen_0 wu_2 liang_4 ni_3 yve_4 wo_3 ren_4 zhi_4 ba_0 wo_3 zhi_4 dao_0 de_0 bu_0 duo_1 ni_3 yve_4 wo_3 bu_0 ren_4 zhi_4 guan_1 jian_4 wo_3 shi_0 yi_0 ge_0 mai_0 fang_0 di_0 ta_1 men_0 lai_2 mai_3 fang_0 
+ni_3 yve_4 wo_3 ren_4 zhi_4 ba_0 wo_3 zhi_4 dao_0 de_0 bu_0 duo_1 ni_3 yve_4 wo_3 bu_0 ren_4 zhi_4 guan_1 jian_4 wo_3 shi_0 yi_0 ge_0 mai_0 fang_0 di_0 ta_1 men_0 lai_2 mai_3 fang_0 wo_3 bu_0 zhi_0 zhuo_0 zhe_4 liang_3 bai_3 kuai_4 qian_0 kan_0 fang_0 fei_4 $0a_0 
+wo_3 bu_0 zhi_0 zhuo_0 zhe_4 liang_3 bai_3 kuai_4 qian_0 kan_0 fang_0 fei_4 $0a_0 ni_3 bie_0 rao_4 lai_2 rao_4 qv_0 di_0 xing_2 bu_0 xing_2 
+ni_3 bie_0 rao_4 lai_2 rao_4 qv_0 di_0 xing_2 bu_0 xing_2 ni_3 jiu_0 yve_4 ni_3 zhi_4 dao_0 duo_1 shao_3 liao_3 xie_4 duo_1 shao_3 
+ni_3 jiu_0 yve_4 ni_3 zhi_4 dao_0 duo_1 shao_3 liao_3 xie_4 duo_1 shao_3 yi_0 dian_0 bu_0 liao_3 xie_4 
+yi_0 dian_0 bu_0 liao_3 xie_4 bu_0 liao_3 xie_4 shi_0 ba_0 
+bu_0 liao_3 xie_4 shi_0 ba_0 kan_0 lai_2 shi_0 mo_4 shi_0 yao_1 yvan_2 fen_0 liao_3 
+kan_0 lai_2 shi_0 mo_4 shi_0 yao_1 yvan_2 fen_0 liao_3 ren_0 zhe_4 ge_0 dong_1 xi_0 $0a_0 you_3 qian_0 hua_0 bu_0 chu_0 qv_0 
+ren_0 zhe_4 ge_0 dong_1 xi_0 $0a_0 you_3 qian_0 hua_0 bu_0 chu_0 qv_0 ta_1 ye_3 shi_0 yi_0 zhong_3 jian_1 $0ao_2 
+ta_1 ye_3 shi_0 yi_0 zhong_3 jian_1 $0ao_2 $0er_4 wei_4 bie_0 zou_3 $0a_0 zai_4 liao_2 liao_2 
+$0er_4 wei_4 bie_0 zou_3 $0a_0 zai_4 liao_2 liao_2 wo_3 hao_3 xiang_4 you_4 xiang_3 qi_3 dian_0 shi_0 yao_1 lai_2 
+wo_3 hao_3 xiang_4 you_4 xiang_3 qi_3 dian_0 shi_0 yao_1 lai_2 

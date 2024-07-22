@@ -14,7 +14,6 @@ special_token = {
     "pad_token": "<pad>"
 }
 
-exacture = Wav2Vec2FeatureExtractor()
 tokenizer = Wav2Vec2CTCTokenizer("vocab.json", 
                                  **special_token,
                                  word_delimiter_token="|", do_lower_case = True)

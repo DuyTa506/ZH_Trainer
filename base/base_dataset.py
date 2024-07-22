@@ -7,7 +7,6 @@ sys.path.append('..')
 from torch.utils.data import Dataset
 from dataloader.dataset import Dataset as InstanceDataset
 
-
 class BaseDataset(Dataset):
     def __init__(self, rank, dist, sr,  special_tokens, init_pq = ""):
         self.rank = rank

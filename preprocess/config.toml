@@ -1,0 +1,11 @@
+[paths]
+#preprocess
+json_path = "E:/AI_Project/Zh_data/WenetSpeech/Wenet.json"
+audio_folder = "E:/AI_Project/Zh_data/WenetSpeech/WenetSpeech/audio"
+output_path = "E:/AI_Project/Zh_data/WenetSpeech/out"
+#pinyin convert
+dict_save_path = "E:/AI_Project/Zh_data/WenetSpeech/word_to_phone_seq.pkl"
+input_pinyin = "E:/AI_Project/Zh_data/WenetSpeech/out"
+
+#pinyin delelte
+del_folder_path = "E:/AI_Project/Zh_data/WenetSpeech/out"

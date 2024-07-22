@@ -18,13 +18,13 @@ from dataloader.dataset import DefaultCollate
 from transformers import Wav2Vec2ForCTC, Wav2Vec2FeatureExtractor, Wav2Vec2CTCTokenizer, Wav2Vec2Processor
 from torch.utils.data import random_split
 #---------------------Self module---------------
-from token_statistics import statistic_data
+from filter import filter_token
 
 def setup(rank, world_size):
     os.environ['MASTER_ADDR'] = 'localhost'
     os.environ['MASTER_PORT'] = '55555'
     #os.environ['GLOO_SOCKET_IFNAME']= 'enp1s0'   ## please provide the network by check ifconfig in OS
-    os.environ['NCCL_SOCKET_IFNAME']= 'enp1s0'
+    os.environ['NCCL_SOCKET_IFNAME']= ''
 
     # initialize the process group
     dist.init_process_group("nccl" ,rank=rank, world_size=world_size, timeout=datetime.timedelta(seconds=3600 * 5))
@@ -72,7 +72,20 @@ def main(rank, world_size, config, resume, preload):
 
     config["train_dataset"]["args"]["special_tokens"] = config["special_tokens"]
     config["val_dataset"]["args"]["special_tokens"] = config["special_tokens"]
-
+    
+    
+        #Begin filters
+    nb_workers = config["create_data"]["nb_workers"]
+    data_path = os.path.join(config["create_data"]["init_pq"], "train.parquet")
+    token_max = config["create_data"]["token_max"]
+    token_min = config["create_data"]["token_min"]
+    dump_tokenizer = Wav2Vec2CTCTokenizer("vocab.json", 
+                                    **config["special_tokens"],
+                                    word_delimiter_token="|")
+    
+    filter_token(data_path, nb_workers,token_max,token_min, dump_tokenizer)
+    del dump_tokenizer
+##############################
     train_base_ds = initialize_module(config["train_dataset"]["path"], args=config["train_dataset"]["args"])
 
     vocab_dict = train_base_ds.get_vocab_dict()
@@ -89,10 +102,7 @@ def main(rank, world_size, config, resume, preload):
     default_collate = DefaultCollate(processor, config['meta']['sr'])
     #data_collator = DataCollatorCTCWithPadding(processor=processor,padding=True)
     
-    #Begin stats
-    nb_workers = config["create_data"]["nb_workers"]
-    data_path = os.path.join(config["create_data"]["init_pq"], "train.parquet")
-    statistic_data(data_path, nb_workers)
+
     
     # Create train dataloader
     
