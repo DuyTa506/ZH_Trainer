@@ -72,22 +72,22 @@ class Trainer(BaseTrainer):
         return total_norm
 
 
-    # def gather(self, value: torch.tensor) -> Any:
-    #     # gather value across devices - https://pytorch.org/docs/stable/distributed.html#torch.distributed.all_gather
-    #     if value.ndim == 0:
-    #         value = value.clone()[None]
-    #     output_tensors = [value.clone() for _ in range(self.dist.get_world_size())]
-    #     self.dist.all_gather(output_tensors, value)
-    #     return torch.cat(output_tensors, dim=0)
-    
     def gather(self, value: torch.tensor) -> Any:
-        # Ensure the tensor is on the GPU for NCCL
+         # gather value across devices - https://pytorch.org/docs/stable/distributed.html#torch.distributed.all_gather
         if value.ndim == 0:
             value = value.clone()[None]
-        value = value.to("cuda")
-        output_tensors = [torch.zeros_like(value) for _ in range(self.dist.get_world_size())]
+        output_tensors = [value.clone() for _ in range(self.dist.get_world_size())]
         self.dist.all_gather(output_tensors, value)
-        return torch.cat(output_tensors, dim=0).cpu()
+        return torch.cat(output_tensors, dim=0)
+    
+    # def gather(self, value: torch.tensor) -> Any:
+    #     # Ensure the tensor is on the GPU for NCCL
+    #     if value.ndim == 0:
+    #         value = value.clone()[None]
+    #     value = value.to("cuda")
+    #     output_tensors = [torch.zeros_like(value) for _ in range(self.dist.get_world_size())]
+    #     self.dist.all_gather(output_tensors, value)
+    #     return torch.cat(output_tensors, dim=0).cpu()
 
     def _train_epoch(self, epoch) -> None:
         self.train_sampler.set_epoch(epoch)

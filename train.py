@@ -75,7 +75,7 @@ def main(rank, world_size, config, resume, preload):
     config["val_dataset"]["args"]["special_tokens"] = config["special_tokens"]
     
     
-        #Begin filters
+    #Begin filters
     nb_workers = config["create_data"]["nb_workers"]
     data_path = os.path.join(config["create_data"]["init_pq"], "train.parquet")
     token_max = config["create_data"]["token_max"]
@@ -172,7 +172,7 @@ def main(rank, world_size, config, resume, preload):
         vocab_size=len(processor.tokenizer),
         )
     model.config.ctc_zero_infinity = True
-    model.gradient_checkpointing_enable()
+    #model.gradient_checkpointing_enable()
     # freeze the wav2vec feature encoder, if you have small dataset, this helps a lot
     model.freeze_feature_extractor()
     # DDP for multi-processing
