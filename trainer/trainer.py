@@ -72,13 +72,26 @@ class Trainer(BaseTrainer):
         return total_norm
 
 
-    def gather(self, value: torch.tensor) -> Any:
-         # gather value across devices - https://pytorch.org/docs/stable/distributed.html#torch.distributed.all_gather
+    def gather(self, value: torch.Tensor) -> torch.Tensor:
+        # Ensure the tensor is on the GPU for NCCL
         if value.ndim == 0:
             value = value.clone()[None]
-        output_tensors = [value.clone() for _ in range(self.dist.get_world_size())]
+
+        # Move tensor to GPU for NCCL backend
+        if self.dist.get_backend() == 'nccl':
+            value = value.to("cuda")
+        
+        # Create output tensors on the same device as the input tensor
+        output_tensors = [torch.zeros_like(value) for _ in range(self.dist.get_world_size())]
+
+        # Perform all_gather operation
         self.dist.all_gather(output_tensors, value)
-        return torch.cat(output_tensors, dim=0)
+
+        # Move result back to CPU if necessary
+        if self.dist.get_backend() == 'nccl':
+            return torch.cat(output_tensors, dim=0).cpu()
+        else:
+            return torch.cat(output_tensors, dim=0)
     
     # def gather(self, value: torch.tensor) -> Any:
     #     # Ensure the tensor is on the GPU for NCCL
