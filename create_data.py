@@ -16,7 +16,7 @@ import argparse
 
 
 class Dataset_Builder():
-    def __init__(self, path, min_duration = -np.inf, max_duration = np.inf, nb_workers = 4, volume = [], init_pq = "", model_type= "pinyin", token_min = 0, token_max = 500):
+    def __init__(self, path, min_duration = -np.inf, max_duration = np.inf, nb_workers = 4, volume = [], init_pq = "", model_type= "pinyin", token_min = 0, token_max = 500, special_tokens = {}):
         self.volume = volume
         self.model_type = model_type
         self.init_pq = init_pq
