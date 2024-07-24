@@ -8,7 +8,7 @@ import toml
 import warnings
 import datetime
 warnings.filterwarnings('ignore')
-
+import time
 from torch.nn.parallel import DistributedDataParallel as DDP
 from torch.utils.data import DataLoader
 from time import gmtime, strftime
@@ -219,7 +219,7 @@ def main(rank, world_size, config, resume, preload):
     )
     trainer.train()
 
-
+    time.sleep(10)
     cleanup()
 
 if __name__ == '__main__':
