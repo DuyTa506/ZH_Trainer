@@ -72,13 +72,26 @@ class Trainer(BaseTrainer):
         return total_norm
 
 
-    def gather(self, value: torch.tensor) -> Any:
-         # gather value across devices - https://pytorch.org/docs/stable/distributed.html#torch.distributed.all_gather
+    def gather(self, value: torch.Tensor) -> torch.Tensor:
+        # Ensure the tensor is on the GPU for NCCL
         if value.ndim == 0:
             value = value.clone()[None]
-        output_tensors = [value.clone() for _ in range(self.dist.get_world_size())]
+
+        # Move tensor to GPU for NCCL backend
+        if self.dist.get_backend() == 'nccl':
+            value = value.to("cuda")
+        
+        # Create output tensors on the same device as the input tensor
+        output_tensors = [torch.zeros_like(value) for _ in range(self.dist.get_world_size())]
+
+        # Perform all_gather operation
         self.dist.all_gather(output_tensors, value)
-        return torch.cat(output_tensors, dim=0)
+
+        # Move result back to CPU if necessary
+        if self.dist.get_backend() == 'nccl':
+            return torch.cat(output_tensors, dim=0).cpu()
+        else:
+            return torch.cat(output_tensors, dim=0)
     
     # def gather(self, value: torch.tensor) -> Any:
     #     # Ensure the tensor is on the GPU for NCCL
@@ -121,10 +134,7 @@ class Trainer(BaseTrainer):
             cer = torch.tensor(metrics['cer'])
             
             
-            #Update : Dell unnecessary output 
-            del outputs
-            torch.cuda.empty_cache()
-            gc.collect()
+
             # Optimize step
             if (dl_step + 1) % self.gradient_accumulation_steps == 0 or dl_step == len(self.train_dl) - 1:
                 # compute grad norm for monitoring
@@ -190,7 +200,13 @@ class Trainer(BaseTrainer):
 
         # Reset
         self.pbar_step = 0
-            
+    
+    def log_gpu_memory(self,rank):
+    if torch.cuda.is_available():
+        gpu_memory_allocated = torch.cuda.memory_allocated(rank) / (1024 ** 3)
+        gpu_memory_reserved = torch.cuda.memory_reserved(rank) / (1024 ** 3)
+        print(f"GPU {rank}: {gpu_memory_allocated:.2f} GB allocated, {gpu_memory_reserved:.2f} GB reserved")
+
     def _valid_epoch(self, step) -> Dict[str, Union[Any, float]]:
         self.val_sampler.set_epoch(step)
         # init logs
@@ -214,4 +230,6 @@ class Trainer(BaseTrainer):
         if self.n_gpus > 1:
             val_logs = {k: self.gather(v).mean() for k, v in val_logs.items()}
         val_logs = {k: v.item() if hasattr(v, 'item') else v for k, v in val_logs.items()}
+
+        
         return val_logs

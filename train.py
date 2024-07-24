@@ -23,12 +23,12 @@ from filter import filter_token
 def setup(rank, world_size):
     os.environ['MASTER_ADDR'] = 'localhost'
     os.environ['MASTER_PORT'] = '55555'
-    #os.environ['GLOO_SOCKET_IFNAME']= 'enp1s0'   ## please provide the network by check ifconfig in OS
-    os.environ['NCCL_SOCKET_IFNAME']= 'enp1s0'
-
-
+    #os.environ['GLOO_SOCKET_IFNAME']= 'enp49s0f1'   ## please provide the network by check ifconfig in OS
+    os.environ['NCCL_SOCKET_IFNAME']= 'enp49s0f1'
     # initialize the process group
     dist.init_process_group("nccl" ,rank=rank, world_size=world_size, timeout=datetime.timedelta(seconds=3600 * 5))
+    torch.cuda.set_device(rank)
+    dist.barrier()
 
 def cleanup():
     dist.destroy_process_group()
