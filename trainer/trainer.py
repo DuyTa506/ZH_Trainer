@@ -210,9 +210,6 @@ class Trainer(BaseTrainer):
             val_logs["wer"] += torch.tensor(val_metrics['wer']) / len(self.val_dl)
             val_logs["cer"] += torch.tensor(val_metrics['cer']) / len(self.val_dl)
             #Update : Dell unnecessary output 
-            del outputs
-            torch.cuda.empty_cache()
-            gc.collect()
         # average over devices in ddp
         if self.n_gpus > 1:
             val_logs = {k: self.gather(v).mean() for k, v in val_logs.items()}

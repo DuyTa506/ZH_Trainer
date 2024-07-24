@@ -13,3 +13,4 @@ models/
 huggingface-hub_xlsr_pinyn/
 dask_data/
 data_path/
+stats/

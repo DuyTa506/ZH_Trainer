@@ -6,7 +6,7 @@ epochs = 10
 save_dir = "saved/" 
 gradient_accumulation_steps = 4
 use_amp = true # Whether to use Automatic Mixed Precision for speeding up - https://pytorch.org/docs/stable/amp.html
-device_ids = "0,1,2,3,4,5,6,7" # set the gpu devices on which you want to train your model
+device_ids = "0" # set the gpu devices on which you want to train your model
 sr = 16000
 max_clip_grad_norm = 5.0 # torch.nn.utils.clip_grad_norm_
 train_ratio = 0.9
@@ -36,14 +36,14 @@ blocking = false # whether to wait until the model is uploaded (this will be ver
 
 
 [create_data]
-path = "/root/pvanh/data_zh/cleaned_ASR-CSTRMACSTCSC,/root/pvanh/data_zh/cleaned_ASR-CTJDIACSC,/root/pvanh/data_zh/cleaned_ASR-RAMC,/root/pvanh/data_zh/cleaned_Wenet"
+path = "/app/zh_stt/ASR-CSTRMACSTCSC/cleaned_ASR-CSTRMACSTCSC,/app/zh_stt/ASR-CTJDIACSC/Tianjin_Dialect_Conversational_Speech_Corpus/cleaned_ASR-CTJDIACSC,/app/zh_stt/ASR-RAMC-BIGCCSC/cleaned_ASR-RAMC"
 # Only train audio files that have duration in range [min_duration, max_duration]
-min_duration = 0.5 # if not pass, default is -np.inf
-max_duration = 20 # if not pass, default is np.inf
+min_duration = 1 # if not pass, default is -np.inf
+max_duration = 15 # if not pass, default is np.inf
 token_min = 3   # if not pass, default is 0
 token_max = 500 # if not pass, default is np.inf
-nb_workers = 32
-volume = [0.8, 0.7]
+nb_workers = 8
+volume = [0.8, 0.7, 0.9]
 model_type = "pinyin"
 init_pq = "./data_path/"
     [create_data.special_tokens]
@@ -58,8 +58,8 @@ path = "base.base_dataset.BaseDataset"
     [train_dataset.args]
     init_pq = "./data_path/"
     [train_dataset.dataloader]
-    batch_size = 16
-    num_workers = 0
+    batch_size = 4
+    num_workers = 2
     pin_memory = true 
     drop_last = true
     [train_dataset.sampler]

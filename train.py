@@ -24,7 +24,7 @@ def setup(rank, world_size):
     os.environ['MASTER_ADDR'] = 'localhost'
     os.environ['MASTER_PORT'] = '55555'
     #os.environ['GLOO_SOCKET_IFNAME']= 'enp1s0'   ## please provide the network by check ifconfig in OS
-    os.environ['NCCL_SOCKET_IFNAME']= ''
+    os.environ['NCCL_SOCKET_IFNAME']= 'enp1s0'
 
 
     # initialize the process group
@@ -76,16 +76,6 @@ def main(rank, world_size, config, resume, preload):
     
     
     #Begin filters
-    nb_workers = config["create_data"]["nb_workers"]
-    data_path = os.path.join(config["create_data"]["init_pq"], "train.parquet")
-    token_max = config["create_data"]["token_max"]
-    token_min = config["create_data"]["token_min"]
-    dump_tokenizer = Wav2Vec2CTCTokenizer("vocab.json", 
-                                    **config["special_tokens"],
-                                    word_delimiter_token="|")
-    
-    filter_token(data_path, nb_workers,token_max,token_min, dump_tokenizer)
-    del dump_tokenizer
 ##############################
     train_base_ds = initialize_module(config["train_dataset"]["path"], args=config["train_dataset"]["args"])
 
@@ -245,11 +235,23 @@ if __name__ == '__main__':
     config = toml.load(args.config)
     n_gpus = len(config['meta']["device_ids"].split(','))
     
+    
+    nb_workers = config["create_data"]["nb_workers"]
+    data_path = os.path.join(config["create_data"]["init_pq"], "train.parquet")
+    token_max = config["create_data"]["token_max"]
+    token_min = config["create_data"]["token_min"]
+    dump_tokenizer = Wav2Vec2CTCTokenizer("vocab.json", 
+                                    **config["special_tokens"],
+                                    word_delimiter_token="|")
+    
+    filter_token(data_path, nb_workers,token_max,token_min, dump_tokenizer)
+    del dump_tokenizer
     mp.spawn(
         main,
         args = (n_gpus, config, args.resume, args.preload),
         nprocs = n_gpus,
         join = True
     )
+
 
 
